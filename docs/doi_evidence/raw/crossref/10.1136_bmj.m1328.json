@@ -1,0 +1,2939 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T00:42:31Z",
+      "timestamp": 1772325751199,
+      "version": "3.50.1"
+    },
+    "reference-count": 465,
+    "publisher": "BMJ",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2020-04-07T00:00:00Z",
+          "timestamp": 1586217600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bmj.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>To review and appraise the validity and usefulness of published and preprint reports of prediction models for prognosis of patients with covid-19, and for detecting people in the general population at increased risk of covid-19 infection or being admitted to hospital or dying with the disease.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design</jats:title>\n                    <jats:p>Living systematic review and critical appraisal by the covid-PRECISE (Precise Risk Estimation to optimise covid-19 Care for Infected or Suspected patients in diverse sEttings) group.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Data sources</jats:title>\n                    <jats:p>PubMed and Embase through Ovid, up to 17 February 2021, supplemented with arXiv, medRxiv, and bioRxiv up to 5 May 2020.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Study selection</jats:title>\n                    <jats:p>Studies that developed or validated a multivariable covid-19 related prediction model.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Data extraction</jats:title>\n                    <jats:p>At least two authors independently extracted data using the CHARMS (critical appraisal and data extraction for systematic reviews of prediction modelling studies) checklist; risk of bias was assessed using PROBAST (prediction model risk of bias assessment tool).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      126 978 titles were screened, and 412 studies describing 731 new prediction models or validations were included. Of these 731, 125 were diagnostic models (including 75 based on medical imaging) and the remaining 606 were prognostic models for either identifying those at risk of covid-19 in the general population (13 models) or predicting diverse outcomes in those individuals with confirmed covid-19 (593 models). Owing to the widespread availability of diagnostic testing capacity after the summer of 2020, this living review has now focused on the prognostic models. Of these, 29 had low risk of bias, 32 had unclear risk of bias, and 545 had high risk of bias. The most common causes for high risk of bias were inadequate sample sizes (n=408, 67%) and inappropriate or incomplete evaluation of model performance (n=338, 56%). 381 models were newly developed, and 225 were external validations of existing models. The reported C indexes varied between 0.77 and 0.93 in development studies with low risk of bias, and between 0.56 and 0.78 in external validations with low risk of bias. The Qcovid models, the PRIEST score, Carr’s model, the ISARIC4C Deterioration model, and the Xie model showed adequate predictive performance in studies at low risk of bias. Details on all reviewed models are publicly available at\n                      <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://www.covprecise.org/\">https://www.covprecise.org/</jats:ext-link>\n                      .\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Prediction models for covid-19 entered the academic literature to support medical decision making at unprecedented speed and in large numbers. Most published prediction model studies were poorly reported and at high risk of bias such that their reported predictive performances are probably optimistic. Models with low risk of bias should be validated before clinical implementation, preferably through collaborative efforts to also allow an investigation of the heterogeneity in their performance across various populations and settings. Methodological guidance, as provided in this paper, should be followed because unreliable predictions could cause more harm than benefit in guiding clinical decisions. Finally, prediction modellers should adhere to the TRIPOD (transparent reporting of a multivariable prediction model for individual prognosis or diagnosis) reporting guideline.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Systematic review registration</jats:title>\n                    <jats:p>\n                      Protocol\n                      <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://osf.io/ehc47/\">https://osf.io/ehc47/</jats:ext-link>\n                      , registration\n                      <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://osf.io/wy245\">https://osf.io/wy245</jats:ext-link>\n                      .\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Readers’ note</jats:title>\n                    <jats:p>\n                      This article is the final version of a living systematic review that has been updated over the past two years to reflect emerging evidence. This version is update 4 of the original article published on 7 April 2020 (\n                      <jats:italic>BMJ</jats:italic>\n                      2020;369:m1328). Previous updates can be found as data supplements (\n                      <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://www.bmj.com/content/369/bmj.m1328/related#datasupp\">https://www.bmj.com/content/369/bmj.m1328/related#datasupp</jats:ext-link>\n                      ). When citing this paper please consider adding the update number and date of access for clarity.\n                    </jats:p>\n                  </jats:sec>",
+    "DOI": "10.1136/bmj.m1328",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          7
+        ]
+      ],
+      "date-time": "2020-04-07T10:20:46Z",
+      "timestamp": 1586254846000
+    },
+    "page": "m1328",
+    "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2067,
+    "title": [
+      "Prediction models for diagnosis and prognosis of covid-19: systematic review and critical appraisal"
+    ],
+    "prefix": "10.1136",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3037-122X",
+        "authenticated-orcid": false,
+        "given": "Laure",
+        "family": "Wynants",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1613-7450",
+        "authenticated-orcid": false,
+        "given": "Ben",
+        "family": "Van Calster",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2772-2316",
+        "authenticated-orcid": false,
+        "given": "Gary S",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard D",
+        "family": "Riley",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1147-8491",
+        "authenticated-orcid": false,
+        "given": "Georg",
+        "family": "Heinze",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9548-3214",
+        "authenticated-orcid": false,
+        "given": "Ewoud",
+        "family": "Schuit",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2602-0918",
+        "authenticated-orcid": false,
+        "given": "Elena",
+        "family": "Albu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0223-7872",
+        "authenticated-orcid": false,
+        "given": "Banafsheh",
+        "family": "Arshi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1960-048X",
+        "authenticated-orcid": false,
+        "given": "Vanesa",
+        "family": "Bellou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9095-9201",
+        "authenticated-orcid": false,
+        "given": "Marc M J",
+        "family": "Bonten",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0110-324X",
+        "authenticated-orcid": false,
+        "given": "Darren L",
+        "family": "Dahly",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7401-4593",
+        "authenticated-orcid": false,
+        "given": "Johanna A",
+        "family": "Damen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1790-2719",
+        "authenticated-orcid": false,
+        "given": "Thomas P A",
+        "family": "Debray",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9921-3468",
+        "authenticated-orcid": false,
+        "given": "Valentijn M T",
+        "family": "de Jong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3482-5145",
+        "authenticated-orcid": false,
+        "given": "Maarten",
+        "family": "De Vos",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0989-0623",
+        "authenticated-orcid": false,
+        "given": "Paula",
+        "family": "Dhiman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7481-0282",
+        "authenticated-orcid": false,
+        "given": "Joie",
+        "family": "Ensor",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0871-1694",
+        "authenticated-orcid": false,
+        "given": "Shan",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4635-6291",
+        "authenticated-orcid": false,
+        "given": "Maria C",
+        "family": "Haller",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0553-674X",
+        "authenticated-orcid": false,
+        "given": "Michael O",
+        "family": "Harhay",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2880-1400",
+        "authenticated-orcid": false,
+        "given": "Liesbet",
+        "family": "Henckaerts",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6886-4652",
+        "authenticated-orcid": false,
+        "given": "Pauline",
+        "family": "Heus",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2397-6052",
+        "authenticated-orcid": false,
+        "given": "Jeroen",
+        "family": "Hoogland",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7894-1159",
+        "authenticated-orcid": false,
+        "given": "Mohammed",
+        "family": "Hudda",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3724-8424",
+        "authenticated-orcid": false,
+        "given": "Kevin",
+        "family": "Jenniskens",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4821-9928",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Kammer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8922-0488",
+        "authenticated-orcid": false,
+        "given": "Nina",
+        "family": "Kreuzberger",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4004-4265",
+        "authenticated-orcid": false,
+        "given": "Anna",
+        "family": "Lohmann",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4004-4265",
+        "authenticated-orcid": false,
+        "given": "Brooke",
+        "family": "Levis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5192-8368",
+        "authenticated-orcid": false,
+        "given": "Kim",
+        "family": "Luijken",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3900-1903",
+        "authenticated-orcid": false,
+        "given": "Jie",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3410-9472",
+        "authenticated-orcid": false,
+        "given": "Glen P",
+        "family": "Martin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8905-2429",
+        "authenticated-orcid": false,
+        "given": "David J",
+        "family": "McLernon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7745-2887",
+        "authenticated-orcid": false,
+        "given": "Constanza L Andaur",
+        "family": "Navarro",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Johannes B",
+        "family": "Reitsma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9000-4413",
+        "authenticated-orcid": false,
+        "given": "Jamie C",
+        "family": "Sergeant",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0151-0451",
+        "authenticated-orcid": false,
+        "given": "Chunhu",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4744-6192",
+        "authenticated-orcid": false,
+        "given": "Nicole",
+        "family": "Skoetz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0785-1345",
+        "authenticated-orcid": false,
+        "given": "Luc J M",
+        "family": "Smits",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9373-6591",
+        "authenticated-orcid": false,
+        "given": "Kym I E",
+        "family": "Snell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5351-9960",
+        "authenticated-orcid": false,
+        "given": "Matthew",
+        "family": "Sperrin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4445-1201",
+        "authenticated-orcid": false,
+        "given": "René",
+        "family": "Spijker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7787-0122",
+        "authenticated-orcid": false,
+        "given": "Ewout W",
+        "family": "Steyerberg",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8032-6224",
+        "authenticated-orcid": false,
+        "given": "Toshihiko",
+        "family": "Takada",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ioanna",
+        "family": "Tzoulaki",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sander M J",
+        "family": "van Kuijk",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1621-7848",
+        "authenticated-orcid": false,
+        "given": "Bas C T",
+        "family": "van Bussel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3891-8522",
+        "authenticated-orcid": false,
+        "given": "Iwan C C",
+        "family": "van der Horst",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9325-6467",
+        "authenticated-orcid": false,
+        "given": "Kelly",
+        "family": "Reeve",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6785-214X",
+        "authenticated-orcid": false,
+        "given": "Florien S",
+        "family": "van Royen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7166-7211",
+        "authenticated-orcid": false,
+        "given": "Jan Y",
+        "family": "Verbakel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3943-6234",
+        "authenticated-orcid": false,
+        "given": "Christine",
+        "family": "Wallisch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3513-4677",
+        "authenticated-orcid": false,
+        "given": "Jack",
+        "family": "Wilkinson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3270-7791",
+        "authenticated-orcid": false,
+        "given": "Robert",
+        "family": "Wolff",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7950-2980",
+        "authenticated-orcid": false,
+        "given": "Lotty",
+        "family": "Hooft",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Karel G M",
+        "family": "Moons",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5529-1541",
+        "authenticated-orcid": false,
+        "given": "Maarten",
+        "family": "van Smeden",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(20)30120-1"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00134-020-05955-1"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.4031"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00134-020-05979-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.5",
+        "unstructured": "World Health Organization. Essential health services face continued disruption during COVID-19 pandemic 2022. https://www.who.int/news/item/07-02-2022-essential-health-services-face-continued-disruption-during-covid-19-pandemic."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.6",
+        "unstructured": "Ritchie H, Mathieu E, Rodés-Guirao L, et al. Coronavirus Pandemic (COVID-19) 2020. https://ourworldindata.org/coronavirus accessed 07/03/2022."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.28.20045997"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-022-00155-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.20.20037325"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.10",
+        "unstructured": "Institute of Social and Preventive Medicine. Living evidence on covid-19 2020. https://ispmbern.github.io/covid-19/living-review/index.html."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.11",
+        "unstructured": "Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4.0: software for research synthesis [program]. EPPI-Centre Software. London: Social Science Research Unit, Institute of Education, University of London, 2010."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.18.20035816"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001744"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M18-1377"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0698"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-16399-0"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000100"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.24.20027268"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.20.20025510"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.29.20029603"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.27.20028027"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0230548"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.23.20026930"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.09.20032219"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0230548"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.25.20021568"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.29.20029603"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.27.20028027"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.14.20023028"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.05.20031906"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.09.20032219"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.32",
+        "unstructured": "Gozes O, Frid-Adar M, Greenspan H, et al. Rapid AI development cycle for the coronavirus (covid-19) pandemic: initial results for automated detection & patient monitoring using deep learning CT image analysis. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200305037G"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.19.20039354"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu X, Jiang X, Ma C, et al. Deep learning system to screen coronavirus disease 2019 pneumonia. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200209334X",
+        "DOI": "10.1016/j.eng.2020.04.010"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.35",
+        "unstructured": "Shan F, Gao Y, Wang J, et al. Lung infection quantification of covid-19 in CT images with deep learning. arXiv e-prints 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200304655S"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.2020200905"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13054-020-2833-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.38",
+        "unstructured": "Barstugan M, Ozkaya U, Ozturk S. Coronavirus (covid-19) classification using CT images by machine learning methods. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200309424B"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13054-020-2833-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa322"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.13.990242"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shi F, Xia L, Shan F, et al. Large-scale screening of covid-19 from community acquired pneumonia using infection size-aware classification. arXiv [Preprint] 2020. https://arxiv.org/abs/2003.09860",
+        "DOI": "10.1088/1361-6560/abe838"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13054-020-2833-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m441"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chowdhury MEH, Rahman T, Khandakar A, et al. Can AI help in screening Viral and covid-19 pneumonia? arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200313145C.",
+        "DOI": "10.1109/ACCESS.2020.3010287"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-77244-8"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.115.017719"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i3140"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001886"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.04.005"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41512-019-0046-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7653"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30566-3"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/RLI.0000000000000672"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00392-020-01626-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.56",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chaganti S, Balachandran A, Chabin G, et al. Quantification of tomographic patterns associated with covid-19 from chest CT. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200401279C.",
+        "DOI": "10.1148/ryai.2020200048"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tmaid.2020.101623"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.58",
+        "unstructured": "Gozes O, Frid-Adar M, Sagie N, et al. Coronavirus detection and analysis on chest CT with deep learning. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200402640G."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.59",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Imran A, Posokhova I, Qureshi HN, et al. AI4covid-19: AI enabled preliminary diagnosis for covid-19 from cough samples via an app. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200401275I.",
+        "DOI": "10.1016/j.imu.2020.100378"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-020-00613-4"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.61",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li X, Li C, Zhu D. covid-MobileXpert: on-device covid-19 screening using snapshots of chest x-ray. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200403042L.",
+        "DOI": "10.1109/BIBM49941.2020.9313217"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.30.20047787"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.63",
+        "unstructured": "Tang Z, Zhao W, Xie X, et al. Severity assessment of coronavirus disease 2019 (covid-19) using quantitative features from chest CT images. arXiv e-prints [Preprint] 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200311988T."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.64",
+        "unstructured": "Zhang J, Xie Y, Li Y, et al. covid-19 Screening on Chest X-ray Images Using Deep Learning based Anomaly Detection. arXiv e-prints 2020. https://ui.adsabs.harvard.edu/abs/2020arXiv200312338Z."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.24.20043117"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.2020201491"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.23.20076976"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.25.20043166"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.1118087"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X14547233"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.71",
+        "unstructured": "Arpan M, Surya K, Harish R, et al. CovidAID: covid-19 Detection Using Chest X-Ray. ArXiv e-prints [Preprint] 2020"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.115.017719"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i3140"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.74",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bassi PRAS, Attux R. A deep convolutional neural network for covid-19 detection using chest x-rays. ArXiv e-prints [Preprint] 2020",
+        "DOI": "10.1007/s42600-021-00132-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.04.005"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41512-019-0046-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7653"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30566-3"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.79",
+        "unstructured": "Born J, Brandle G, Cossio M, et al. Pocovid-Net: Automatic detection of covid-19 from a new lung ultrasound imaging dataset (POCUS). ArXiv e-prints [Preprint] 2020."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00392-020-01626-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.05.20047944"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tmaid.2020.101623"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cca.2020.03.022"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.13.20064329"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-020-00613-4"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s1473-3099(20)30119-5"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.27.20081984"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa414"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32604/cmc.2020.010691"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa414"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.21.20063263"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.1118087"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X14547233"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/962280218784726"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.20.20067512"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.96",
+        "unstructured": "Jiang Z, Hu M, Fan L, et al. Combining visible light and infrared imaging for efficient detection of respiratory infections such as covid-19 on portable device. ArXiv e-prints [Preprint] 2020."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.17.20070219"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.98",
+        "unstructured": "Rezaul KM, Döhmen T, Rebholz-Schuhmann D, et al. DeepcovidExplainer: explainable covid-19 predictions based on chest x-ray images. ArXiv e-prints [Preprint] 2020."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/RLI.0000000000000689"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.16.20068411"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.12.20062661"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.05.20048421"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41591-020-0931-3"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compbiomed.2020.103792"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/RLI.0000000000000689"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.11.20054643"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-020-03901-z"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.24.20079012"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.109",
+        "unstructured": "Moutounet-Cartan PGB. Deep convolutional neural networks to diagnose covid-19 and other pneumonia diseases from posteroanterior chest x-rays. ArXiv e-prints [Preprint] 2020"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.110",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.28.20081687"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mehy.2020.109761"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.26.20073411"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.15.20066860"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.09.20058594"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.15.20066860"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.28.20082222"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.117",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.18.20071019"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.118",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.04.041"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa443"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.04.041"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.121",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu Y-H, Gao S-H, Mei J, et al. JCS: an explainable covid-19 diagnosis system by joint classification and segmentation. ArXiv e-prints [Preprint] 2020.",
+        "DOI": "10.1109/TIP.2021.3058783"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40846-020-00529-4"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compbiomed.2020.103795"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/anae.15175"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09537104.2020.1760230"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.126",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.05.021"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.127",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9051514"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9051548"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9061668"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9061959"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.131",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/acem.14009"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/tbed.13651"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07391102.2020.1767212"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.134",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/RTI.0000000000000544"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2020.05.064"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5152/dir.2020.20351"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.137",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6787"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2004.06.017"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.139",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m441"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.140",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.115.017719"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.141",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-019-1466-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.142",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i3140"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.143",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001886"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.144",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.04.005"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41512-019-0046-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.146",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7653"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.147",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30566-3"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.148",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/RLI.0000000000000672"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.149",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00392-020-01626-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.150",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7883/yoken.JJID.2020.194"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.151",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tmaid.2020.101623"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.152",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cca.2020.03.022"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.153",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7150/thno.45985"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.154",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-020-00613-4"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.155",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s1473-3099(20)30119-5"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.156",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.04.078"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.157",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41747-020-00167-0"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.158",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9061781"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.159",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.2020201874"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.160",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamia/ocaa105"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.161",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamia/ocz130"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.162",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.1118087"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.163",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X14547233"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.164",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/962280218784726"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.165",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00259-020-04929-1"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.166",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcv.2020.104431"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.167",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.26166"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.168",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chemolab.2020.104054"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.169",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00264-020-04609-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.170",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaip.2020.06.013"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.171",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tmaid.2020.101782"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.172",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa538"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.173",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofaa169"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.174",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa793"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.175",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejrad.2020.109041"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.176",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.26022"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.177",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaci.2020.04.027"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.178",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amepre.2020.05.002"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.179",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fcimb.2020.00318"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.180",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2020.04.045"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.181",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/dmp.2020.214"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.182",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0233328"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.183",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCM.0000000000004411"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.184",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2020.04.045"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.185",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/dmp.2020.214"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.186",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1183/13993003.00775-2020"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.187",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6787"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.188",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2004.06.017"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.189",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.22.20075416"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.190",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m441"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.191",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.115.017719"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.192",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCE.0000000000000253"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.193",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-019-1466-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.194",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i3140"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.195",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001886"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.196",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.04.005"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.197",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41512-019-0046-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.198",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7653"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.199",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/crj.13326"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.200",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-021-06626-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.201",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamia/ocz130"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.202",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.1118087"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.203",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X14547233"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.204",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m3731"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.205",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m2815"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.206",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1183/13993003.01494-2020"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.207",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/962280218784726"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.208",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.archger.2020.104240"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.209",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0243262"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.210",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2020-041983"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.211",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/echo.14962"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.212",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/24246"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.213",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41379-020-00700-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.214",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjresp-2020-000729"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.215",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compbiomed.2020.103949"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.216",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12931-020-01511-z"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.217",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2020.556886"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.218",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21037/atm-20-7447"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.219",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/europace/euab015"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.220",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2020.08.040"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.221",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.media.2020.101844"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.222",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.26713"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.223",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1259/bjr.20200634"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.224",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18632/aging.202261"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.225",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.26572"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.226",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijantimicag.2020.106110"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.227",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12985-021-01502-6"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.228",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/26257"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.229",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0242953"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.230",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.hrtlng.2021.01.006"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.231",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m3731"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.232",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jgs.16956"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.233",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2020.08.124"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.234",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2020.574915"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.235",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26355/eurrev_202010_23250"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.236",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhep.2020.12.012"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.237",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26355/eurrev_202010_23249"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.238",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa963"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.239",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bja.2020.11.034"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.240",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.thromres.2020.09.017"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.241",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-79470-0"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.242",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0244629"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.243",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11739-020-02594-8"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.244",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00330-020-07622-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.245",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1183/13993003.02113-2020"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.246",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ehf2.13022"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.247",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/19588"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.248",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-020-18786-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.249",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-021-82885-y"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.250",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ijcp.13974"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.251",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0239172"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.252",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofaa463"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.253",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21203/rs.3.rs-126892/v1"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.254",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11739-020-02480-3"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.255",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2020-040729"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.256",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-020-18684-2"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.257",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ijcp.13705"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.258",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M20-3905"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.259",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23736/S0026-4806.20.07074-3"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.260",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1055/s-0040-1716544"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.261",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4414/smw.2021.20471"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.262",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0245840"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.263",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07853890.2020.1868564"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.264",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-75651-z"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.265",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dyaa209"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.266",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-78505-w"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.267",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/IDR.S263157"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.268",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-2600(20)30559-2"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.269",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1183/13993003.03498-2020"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.270",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2020.585003"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.271",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annemergmed.2020.07.022"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.272",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0239536"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.273",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07853890.2020.1828616"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.60519"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.275",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000511403"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.276",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00261-020-02823-w"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.277",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40560-021-00527-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.278",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/22131"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.279",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/24973"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.280",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resplu.2020.100042"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.281",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/dmp.2020.324"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.282",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nut.2020.111123"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.283",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/iid3.353"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.284",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-75629-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.285",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jiac.2020.10.013"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.286",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/23458"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.287",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5005/jp-journals-10071-23683"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.288",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1354750X.2020.1841296"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.289",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3346/jkms.2020.35.e234"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.290",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0237419"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.291",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-021-81844-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.292",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofaa405"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.293",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7759/cureus.11368"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.294",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2021.104737"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.295",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCE.0000000000000300"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.296",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/24225"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.297",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.24875/RIC.20000451"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.298",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0241825"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.299",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2020.10.044"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.300",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cmpb.2021.105951"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.301",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/25442"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.302",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jiac.2020.12.009"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.303",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2020.10.039"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.304",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaci.2020.07.009"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.305",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9113726"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.306",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-020-20657-4"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.307",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-020-06353-5"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.308",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-020-05688-y"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.309",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jth.15261"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.310",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18632/aging.202605"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.311",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/CIA.S273720"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.312",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00521-020-05592-1"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.313",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7717/peerj.10337"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.314",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2020.587937"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.315",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-020-05561-y"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.316",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-020-17280-8"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.317",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.63195"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.318",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jitc-2020-001314"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.319",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCM.0000000000004549"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.320",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.medj.2020.12.013"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.321",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18632/aging.103716"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.322",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-021-81732-4"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.323",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2589-7500(20)30316-2"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/RMHP.S278365"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.325",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2020.07.019"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.326",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.medin.2020.10.003"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.327",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9092799"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.328",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10875-020-00821-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.329",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.micpath.2020.104706"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.330",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2020.00475"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.331",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-020-05614-2"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0245281"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.333",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.120.018477"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.334",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ebiom.2020.103026"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.335",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/22033"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.336",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2020-044028"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.337",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-78870-6"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.338",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21149/11684"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.339",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42979-020-00216-w"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.340",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13049-020-00764-3"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.341",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.10.003"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.342",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patter.2020.100074"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.343",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07853890.2020.1803499"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.344",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.09.14.20194670"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.345",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41551-020-00633-5"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.346",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/dmp.2021.320"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.347",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11739-020-02543-5"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.348",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2020.00461"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.349",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/23128"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.350",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjspcare-2020-002602"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.351",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/labmed/lmaa105"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.352",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csbj.2021.01.042"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.353",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000021700"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.354",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/24572"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41746-020-00343-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.356",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-78392-1"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.357",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0244627"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.358",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.11.003"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.359",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamia/ocab005"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.360",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2020.09.029"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.361",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2020.09.017"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.362",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amsu.2020.09.044"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.363",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22088/cjim.11.0.536"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.364",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00330-020-07623-w"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.365",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph17228386"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.366",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/23026"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.367",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-020-04145-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.368",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.2020202723"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.369",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12967-021-02720-w"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.370",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12688/f1000research.26723.1"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.371",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eclinm.2020.100426"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.372",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2020.10.068"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.373",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chest.2020.12.009"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.374",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ijcp.13926"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.375",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.medj.2020.10.002"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00432-020-03420-6"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/emp2.12259"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.378",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/dom.14256"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.379",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-020-01359-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.380",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jiaa663"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.381",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2020.12.050"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.382",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.26844"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.383",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40246-020-00288-y"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.384",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9103066"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.385",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-020-01338-0"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.386",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/24207"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.387",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2020-045141"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.388",
+        "first-page": "179",
+        "article-title": "Predicting thromboembolic complications in COVID-19 ICU patients using machine learning",
+        "volume": "6",
+        "author": "van de Sande",
+        "year": "2020",
+        "journal-title": "J Clin Transl Res"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.389",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ijcp.13858"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.390",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/emermed-2020-210199"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.391",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7883/yoken.JJID.2020.227"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.392",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0300060520955037"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.393",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7717/peerj.10018"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.394",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12967-020-02655-8"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.395",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcla.23566"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.396",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/21788"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.397",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12967-020-02505-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.398",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2020.104258"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.399",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0240346"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.400",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1183/13993003.01104-2020"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.401",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-71114-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.402",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamia/ocaa295"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.403",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7150/thno.46428"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.404",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cca.2020.11.019"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.405",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ebiom.2020.102880"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.406",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eng.2020.05.014"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.407",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1259/bjr.20200219"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.408",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2020.607821"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.409",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.26551"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.410",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2020.00518"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.411",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intimp.2020.107065"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.412",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2589-7500(20)30217-X"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.413",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2020.597791"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.414",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12880-020-00513-z"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.415",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7717/peerj.9885"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.416",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eng.2020.10.013"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.417",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18632/aging.103980"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.418",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2020.590460"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.419",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13054-020-03123-x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.420",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21037/atm-20-4977"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.421",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/CIA.S268156"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.422",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/IDR.S261725"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.423",
+        "first-page": "8192",
+        "article-title": "A disease progression prediction model and nervous system symptoms in coronavirus disease 2019 patients",
+        "volume": "12",
+        "author": "Zhao",
+        "year": "2020",
+        "journal-title": "Am J Transl Res"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.424",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0236618"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.425",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3348/kjr.2020.0485"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.426",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patter.2020.100092"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.427",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03007995.2020.1825365"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.428",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7150/ijms.50007"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.429",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13049-020-00795-w"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.430",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/emp2.12205"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.431",
+        "unstructured": "The Royal College of Physicians . National Early Warning Score (NEWS) 2: Standardising the assessment of acute-illness severity in the NHS. Updated report of a working party. RCP, 2017."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.432",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.04.24.20078006"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.433",
+        "unstructured": "Unit CCT. TACTIC: Cambridge Clinical Trials Unit; 2020. https://cctu.org.uk/portfolio/COVID-19/TACTIC."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.434",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/qjmed/94.10.521"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.435",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/thorax.58.5.377"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.436",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2796.2004.01321.x"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.437",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2016.0288"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.438",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m441"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.439",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.9275"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.440",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.9025"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.441",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m441"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.442",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/09622802211007522"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.443",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/neu.2020.7218"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.444",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmpt.2012.07.002"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.445",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280218784726"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.446",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.04.005"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.447",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-019-1466-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.448",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.115.017719"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.449",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i3140"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.450",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001886"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.451",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41512-019-0046-9"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7653"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.453",
+        "unstructured": "Infervision. Infervision launches hashtag#AI-based hashtag#Covid-19 solution in Europe 2020. https://www.linkedin.com/posts/infervision_ai-covid-medicine-activity-6650772755031613440-TqLJ."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.454",
+        "unstructured": "Offord C. Surgisphere fallout hits African nonprotfits covid-19 efforts 2020. The Scientist. https://www.the-scientist.com/news-opinion/surgisphere-fallout-hits-african-nonprofits-covid-19-efforts--67617."
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.455",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamia/ocz130"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.456",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23889/ijpds.v5i4.1697"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.457",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2589-7500(21)00080-7"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.458",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/thoraxjnl-2021-217580"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.459",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0255748"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.460",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj-2021-069881"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.461",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X14547233"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.462",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6787"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.463",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2004.06.017"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.464",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m2815"
+      },
+      {
+        "key": "2022082207550656000_369.apr07_2.m1328.465",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1183/13993003.01494-2020"
+      }
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.m1328",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.m1328",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2022-08-22T10:56:19Z",
+      "timestamp": 1661165779000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.m1328"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          7
+        ]
+      ]
+    },
+    "references-count": 465,
+    "alternative-id": [
+      "10.1136/bmj.m1328"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.m1328",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.737693696.793573809",
+          "asserted-by": "object"
+        }
+      ],
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.1101/2020.03.24.20041020",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "1756-1833"
+    ],
+    "issn-type": [
+      {
+        "value": "1756-1833",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          7
+        ]
+      ]
+    }
+  }
+}

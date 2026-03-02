@@ -1,0 +1,25 @@
+{
+  "title": "Triage-time admission prediction in adults with suspected acute gastrointestinal infection",
+  "upload_type": "software",
+  "description": "Reproducible analysis code for a triage-time clinical prediction model of hospital admission among adults with suspected acute gastrointestinal infection (development in MIMIC-IV-ED; external validation in NHAMCS ED 2016–2022). Restricted datasets are not redistributed.",
+  "creators": [
+    {
+      "name": "Zheng, Hongwei",
+      "affiliation": "School of Medicine, Quanzhou Medical College, Quanzhou, Fujian, People's Republic of China"
+    },
+    {
+      "name": "Chen, Wenbiao",
+      "affiliation": "School of Medicine, Quanzhou Medical College, Quanzhou, Fujian, People's Republic of China"
+    }
+  ],
+  "keywords": [
+    "clinical prediction model",
+    "emergency department",
+    "gastrointestinal infection",
+    "TRIPOD",
+    "PROBAST",
+    "MIMIC-IV-ED",
+    "NHAMCS"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          23
+        ]
+      ],
+      "date-time": "2026-02-23T19:22:17Z",
+      "timestamp": 1771874537141,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "BMJ",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2017-01-05T00:00:00Z",
+          "timestamp": 1483574400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.org/licenses/tdm/1.0/terms-and-conditions.html"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bmj.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "DOI": "10.1136/bmj.i6460",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2017-01-05T15:35:26Z",
+      "timestamp": 1483630526000
+    },
+    "page": "i6460",
+    "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 445,
+    "title": [
+      "A guide to systematic review and meta-analysis of prediction model performance"
+    ],
+    "prefix": "10.1136",
+    "author": [
+      {
+        "given": "Thomas P A",
+        "family": "Debray",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Johanna A A G",
+        "family": "Damen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kym I E",
+        "family": "Snell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Joie",
+        "family": "Ensor",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lotty",
+        "family": "Hooft",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Johannes B",
+        "family": "Reitsma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard D",
+        "family": "Riley",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Karel G M",
+        "family": "Moons",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "BMJ"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.i6460",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.i6460",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2020-09-26T01:10:22Z",
+      "timestamp": 1601082622000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.i6460"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "10.1136/bmj.i6460"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.i6460",
+    "relation": {},
+    "ISSN": [
+      "1756-1833"
+    ],
+    "issn-type": [
+      {
+        "value": "1756-1833",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          5
+        ]
+      ]
+    }
+  }
+}

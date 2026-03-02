@@ -1,0 +1,135 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "Centers for Disease Control and Prevention",
+        "acronym": [
+          "CDC"
+        ],
+        "place": [
+          "Atlanta, Georgia"
+        ],
+        "department": [
+          "National Center for Health Statistics"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T08:11:04Z",
+      "timestamp": 1772179864728,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "National Center for Health Statistics (U.S.)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "abstract": "<jats:p>These tables provide the most current nationally representative data on ambulatory care visits to hospital emergency departments in the United States. Estimates are presented on selected hospital, patient, and visit characteristics using data collected in the 2020 National Hospital Ambulatory Medical Care Survey.</jats:p>",
+    "DOI": "10.15620/cdc:121911",
+    "type": "report",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2022-10-26T22:45:06Z",
+      "timestamp": 1666824306000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 73,
+    "title": [
+      "National Hospital Ambulatory Medical Care Survey: 2020 Emergency Department Summary Tables"
+    ],
+    "prefix": "10.15620",
+    "author": [
+      {
+        "given": "Christopher",
+        "family": "Cairns",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Kai",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "6224",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          13
+        ]
+      ]
+    },
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.cdc.gov/nchs/data/nhamcs/web_tables/2020-nhamcs-ed-web-tables-508.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2022-10-26T22:45:07Z",
+      "timestamp": 1666824307000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://stacks.cdc.gov/view/cdc/121911"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.15620/cdc:121911",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          13
+        ]
+      ]
+    }
+  }
+}

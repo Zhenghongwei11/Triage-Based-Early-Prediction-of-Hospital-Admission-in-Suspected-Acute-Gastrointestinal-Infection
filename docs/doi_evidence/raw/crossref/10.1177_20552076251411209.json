@@ -1,0 +1,970 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2026-02-02T08:09:10Z",
+      "timestamp": 1770019750031,
+      "version": "3.49.0"
+    },
+    "reference-count": 114,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Ontario Ministry of Health and Ministry of Long-Term Care – Research Planning and Management Unit; Strategic Policy, Planning and French Language Services Division",
+        "award": [
+          "Grant ID#: 693A"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "Grant ID#: 693A"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "DIGITAL HEALTH"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>This systematic review aims to evaluate studies that implemented and evaluated machine learning models in emergency department settings, focusing on their clinical and operational impact.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>A comprehensive search was conducted across multiple databases from inception to January 2024. Studies were eligible if they assessed the implementation of machine learning models in emergency departments, with a particular focus on clinical and operational impact.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>A total of 84 studies met the inclusion criteria. Gradient boosting and neural networks were the most frequently used models. Mortality prediction models achieved AUC values ranging from 0.618 to 0.978, with key predictors including age, sex, race, vital signs, and comorbidities. Disposition prediction models showed AUC values of 0.675–0.96, often incorporating age, sex, vital signs, triage data, and past medical history. Length of stay prediction studies identified demographic data, triage level, chief complaints, and comorbidities as significant predictors, with gradient boosting models yielding the highest predictive accuracy. Machine learning-based treatment decision models showed promise in sepsis detection and cardiovascular triage. Wait time prediction models using gradient boosting decreased patient wait times by 18%–26%. Emergency department cost prediction studies were limited, with logistic regression models achieving AUCs of 0.71–0.76 for identifying high-cost patients.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Machine learning is widely used in emergency department research, but issues with generalizability and workflow integration limit its clinical use. Future work should improve data quality, representation, and ongoing model validation to enhance real-world utility.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/20552076251411209",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2026-01-30T18:03:00Z",
+      "timestamp": 1769796180000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Implementation of machine learning in emergency departments: A systematic review"
+    ],
+    "prefix": "10.1177",
+    "volume": "12",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3962-2777",
+        "authenticated-orcid": false,
+        "given": "Banafshe",
+        "family": "Hosseini",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          },
+          {
+            "name": "University of Toronto"
+          },
+          {
+            "name": "Division of Clinical Public Health, Dalla Lana School of Public Health, University of Toronto, Toronto, Canada"
+          }
+        ]
+      },
+      {
+        "given": "Atushi",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          }
+        ]
+      },
+      {
+        "given": "Megan",
+        "family": "Landes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University Health Network"
+          },
+          {
+            "name": "Division of Emergency Medicine, Department of Family and Community Medicine, Temerty Faculty of Medicine, University of 5Toronto, Toronto, Canada"
+          }
+        ]
+      },
+      {
+        "given": "Samuel",
+        "family": "Vaillancourt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St Michael's Hospital"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad",
+        "family": "Mamdani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St Michael's Hospital, University of Toronto"
+          }
+        ]
+      },
+      {
+        "given": "Kevin",
+        "family": "Maruthananth",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          }
+        ]
+      },
+      {
+        "given": "Neha",
+        "family": "Matharu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          }
+        ]
+      },
+      {
+        "given": "Zuha",
+        "family": "Pathan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          }
+        ]
+      },
+      {
+        "given": "Krishihan",
+        "family": "Sivapragasam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          }
+        ]
+      },
+      {
+        "given": "Onlak",
+        "family": "Ruangsomboon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          },
+          {
+            "name": "Department of Emergency Medicine, Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand"
+          }
+        ]
+      },
+      {
+        "given": "Becky",
+        "family": "Skidmore",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Independent Information Specialist, Ottawa, ON, Canada"
+          }
+        ]
+      },
+      {
+        "given": "Andrew D",
+        "family": "Pinto",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Li Ka Shing Knowledge Institute"
+          },
+          {
+            "name": "University of Toronto"
+          },
+          {
+            "name": "Division of Clinical Public Health, Dalla Lana School of Public Health, University of Toronto, Toronto, Canada"
+          },
+          {
+            "name": "Department of Family and Community Medicine, St Michael's Hospital, Toronto, Canada"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2",
+        "first-page": "572",
+        "article-title": "The impact of COVID-19 on a large, Canadian community emergency department",
+        "volume": "22",
+        "author": "Lee DD",
+        "year": "2021",
+        "unstructured": "Lee DD, Jung H, Lou W, et al. The impact of COVID-19 on a large, Canadian community emergency department. West J Emerg Med 2021; 22: 572–579.",
+        "journal-title": "West J Emerg Med"
+      },
+      {
+        "key": "e_1_3_3_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/40031"
+      },
+      {
+        "key": "e_1_3_3_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.230719"
+      },
+      {
+        "key": "e_1_3_3_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(00)04561-X"
+      },
+      {
+        "key": "e_1_3_3_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2016.0288"
+      },
+      {
+        "key": "e_1_3_3_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0128233"
+      },
+      {
+        "key": "e_1_3_3_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(19)30037-6"
+      },
+      {
+        "key": "e_1_3_3_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMra1814259"
+      },
+      {
+        "key": "e_1_3_3_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-020-17419-7"
+      },
+      {
+        "key": "e_1_3_3_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12913-022-08070-7"
+      },
+      {
+        "key": "e_1_3_3_12_2",
+        "article-title": "The aspects of running artificial intelligence in emergency care; a scoping review",
+        "volume": "11",
+        "author": "Masoumian Hosseini M",
+        "year": "2023",
+        "unstructured": "Masoumian Hosseini M, Masoumian Hosseini ST, Qayumi K, et al. The aspects of running artificial intelligence in emergency care; a scoping review. Arch Acad Emerg Med 2023; 11: e38.",
+        "journal-title": "Arch Acad Emerg Med"
+      },
+      {
+        "key": "e_1_3_3_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2016.01.021"
+      },
+      {
+        "key": "e_1_3_3_14_2",
+        "volume-title": "Cochrane Handbook for Systematic Reviews of Interventions version 6.4",
+        "author": "Higgins J",
+        "year": "2023",
+        "unstructured": "Higgins J, Thomas J, Chandler J, et al. Cochrane Handbook for Systematic Reviews of Interventions version 6.4. Chichester, UK: Cochrane, 2023."
+      },
+      {
+        "key": "e_1_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M18-1376"
+      },
+      {
+        "key": "e_1_3_3_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2018.06.062"
+      },
+      {
+        "key": "e_1_3_3_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamiaopen/ooad053"
+      },
+      {
+        "key": "e_1_3_3_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/j.cpradiol.2020.10.007"
+      },
+      {
+        "key": "e_1_3_3_19_2",
+        "article-title": "Evaluating high-dimensional machine learning models to predict hospital mortality among older patients with cancer",
+        "volume": "6",
+        "author": "Qiao EM",
+        "year": "2022",
+        "unstructured": "Qiao EM, Qian AS, Nalawade V, et al. Evaluating high-dimensional machine learning models to predict hospital mortality among older patients with cancer. JCO Clin Cancer Inform 2022; 6: e2100186.",
+        "journal-title": "JCO Clin Cancer Inform"
+      },
+      {
+        "key": "e_1_3_3_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jpm13010007"
+      },
+      {
+        "key": "e_1_3_3_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3171/2022.1.FOCUS21739"
+      },
+      {
+        "key": "e_1_3_3_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0174708"
+      },
+      {
+        "key": "e_1_3_3_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2021.104662"
+      },
+      {
+        "key": "e_1_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/acem.12876"
+      },
+      {
+        "key": "e_1_3_3_25_2",
+        "article-title": "Machine learning methods to predict mechanical ventilation and mortality in patients with COVID-19",
+        "volume": "16",
+        "author": "Yu L",
+        "year": "2021",
+        "unstructured": "Yu L, Halalau A, Dalal B, et al. Machine learning methods to predict mechanical ventilation and mortality in patients with COVID-19. PLoS One 2021; 16: e0249285.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "e_1_3_3_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/15533506221139965"
+      },
+      {
+        "key": "e_1_3_3_27_2",
+        "article-title": "Estimating patient’s length of stay in the Emergency Department with an artificial neural network",
+        "volume": "2005",
+        "author": "Wrenn J",
+        "year": "2005",
+        "unstructured": "Wrenn J, Jones I, Lanaghan K, et al. Estimating patient’s length of stay in the Emergency Department with an artificial neural network. AMIA Annu Symp Proc 2005; 2005: 1155.",
+        "journal-title": "AMIA Annu Symp Proc"
+      },
+      {
+        "key": "e_1_3_3_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annemergmed.2004.02.037"
+      },
+      {
+        "key": "e_1_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.hrtlng.2023.05.012"
+      },
+      {
+        "key": "e_1_3_3_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/TA.0000000000003431"
+      },
+      {
+        "key": "e_1_3_3_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41746-022-00646-1"
+      },
+      {
+        "key": "e_1_3_3_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13054-019-2351-7"
+      },
+      {
+        "key": "e_1_3_3_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjhci-2021-100407"
+      },
+      {
+        "key": "e_1_3_3_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13040-021-00255-w"
+      },
+      {
+        "key": "e_1_3_3_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/emp2.12297"
+      },
+      {
+        "key": "e_1_3_3_36_2",
+        "first-page": "106",
+        "article-title": "Artificial intelligence–augmented electrocardiography for left ventricular systolic dysfunction in patients undergoing high-sensitivity cardiac troponin T",
+        "volume": "12",
+        "author": "De Michieli L",
+        "year": "2023",
+        "unstructured": "De Michieli L, Knott JD, Attia ZI, et al. Artificial intelligence–augmented electrocardiography for left ventricular systolic dysfunction in patients undergoing high-sensitivity cardiac troponin T. Eur Heart J Acute Cardiovasc Care 2023; 12: 106–114.",
+        "journal-title": "Eur Heart J Acute Cardiovasc Care"
+      },
+      {
+        "key": "e_1_3_3_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4258/hir.2018.24.2.139"
+      },
+      {
+        "key": "e_1_3_3_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.221926"
+      },
+      {
+        "key": "e_1_3_3_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annemergmed.2020.09.436"
+      },
+      {
+        "key": "e_1_3_3_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00063110-200410000-00004"
+      },
+      {
+        "key": "e_1_3_3_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jamia/ocz171"
+      },
+      {
+        "key": "e_1_3_3_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-022-07617-7"
+      },
+      {
+        "key": "e_1_3_3_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0281900"
+      },
+      {
+        "key": "e_1_3_3_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjoq-2017-000158"
+      },
+      {
+        "key": "e_1_3_3_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2018.6937"
+      },
+      {
+        "key": "e_1_3_3_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-022-22233-w"
+      },
+      {
+        "key": "e_1_3_3_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2214/AJR.23.29414"
+      },
+      {
+        "key": "e_1_3_3_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-023-41544-0"
+      },
+      {
+        "key": "e_1_3_3_49_2",
+        "article-title": "A retrospective clinical evaluation of an artificial intelligence screening method for early detection of STEMI in the emergency department",
+        "volume": "37",
+        "author": "Kim D",
+        "year": "2022",
+        "unstructured": "Kim D, Hwang JE, Cho Y, et al. A retrospective clinical evaluation of an artificial intelligence screening method for early detection of STEMI in the emergency department. J Korean Med Sci 2022; 37: 81.",
+        "journal-title": "J Korean Med Sci"
+      },
+      {
+        "key": "e_1_3_3_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nop2.1573"
+      },
+      {
+        "key": "e_1_3_3_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15441/ceem.19.052"
+      },
+      {
+        "key": "e_1_3_3_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-021-01679-4"
+      },
+      {
+        "key": "e_1_3_3_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/43757"
+      },
+      {
+        "key": "e_1_3_3_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10729-023-09660-5"
+      },
+      {
+        "key": "e_1_3_3_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-023-35617-3"
+      },
+      {
+        "key": "e_1_3_3_56_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm11237231"
+      },
+      {
+        "key": "e_1_3_3_57_2",
+        "first-page": "112",
+        "article-title": "Mortality prediction of patients with sepsis in the emergency department using machine learning models: a retrospective cohort study according to the Sepsis-3 definitions",
+        "volume": "20",
+        "author": "Jeon E-T",
+        "year": "2023",
+        "unstructured": "Jeon E-T, Song J, Park DW, et al. Mortality prediction of patients with sepsis in the emergency department using machine learning models: a retrospective cohort study according to the Sepsis-3 definitions. Signa Vitae 2023; 20: 112–124.",
+        "journal-title": "Signa Vitae"
+      },
+      {
+        "key": "e_1_3_3_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jpm11111144"
+      },
+      {
+        "key": "e_1_3_3_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jpm11111055"
+      },
+      {
+        "key": "e_1_3_3_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7717/peerj.11988"
+      },
+      {
+        "key": "e_1_3_3_61_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000027753"
+      },
+      {
+        "key": "e_1_3_3_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10916-022-01833-z"
+      },
+      {
+        "key": "e_1_3_3_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm8111906"
+      },
+      {
+        "key": "e_1_3_3_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12873-022-00632-6"
+      },
+      {
+        "key": "e_1_3_3_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12877-021-02229-3"
+      },
+      {
+        "key": "e_1_3_3_66_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/brainsci12050612"
+      },
+      {
+        "key": "e_1_3_3_67_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/49605"
+      },
+      {
+        "key": "e_1_3_3_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2021.12.070"
+      },
+      {
+        "key": "e_1_3_3_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2020.104326"
+      },
+      {
+        "key": "e_1_3_3_70_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2021.104570"
+      },
+      {
+        "key": "e_1_3_3_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-77548-3"
+      },
+      {
+        "key": "e_1_3_3_72_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2020.104143"
+      },
+      {
+        "key": "e_1_3_3_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intimp.2019.106145"
+      },
+      {
+        "key": "e_1_3_3_74_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/frai.2023.1179226"
+      },
+      {
+        "key": "e_1_3_3_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijsu.2022.106954"
+      },
+      {
+        "key": "e_1_3_3_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10278-022-00734-4"
+      },
+      {
+        "key": "e_1_3_3_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00330-020-07269-8"
+      },
+      {
+        "key": "e_1_3_3_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-023-37512-3"
+      },
+      {
+        "key": "e_1_3_3_79_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11739-018-1971-2"
+      },
+      {
+        "key": "e_1_3_3_80_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-019-05512-7"
+      },
+      {
+        "key": "e_1_3_3_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00234-019-02293-y"
+      },
+      {
+        "key": "e_1_3_3_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.auec.2020.11.004"
+      },
+      {
+        "key": "e_1_3_3_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2016.12.008"
+      },
+      {
+        "key": "e_1_3_3_84_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2022.2599"
+      },
+      {
+        "key": "e_1_3_3_85_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eclinm.2022.101315"
+      },
+      {
+        "key": "e_1_3_3_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000014197"
+      },
+      {
+        "key": "e_1_3_3_87_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-021-01722-4"
+      },
+      {
+        "key": "e_1_3_3_88_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12652-022-03717-z"
+      },
+      {
+        "key": "e_1_3_3_89_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2020.104303"
+      },
+      {
+        "key": "e_1_3_3_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/emermed-2020-211000"
+      },
+      {
+        "key": "e_1_3_3_91_2",
+        "article-title": "Risk of mortality and cardiopulmonary arrest in critical patients presenting to the emergency department using machine learning and natural language processing",
+        "volume": "15",
+        "author": "Fernandes M",
+        "year": "2020",
+        "unstructured": "Fernandes M, Mendes R, Vieira SM, et al. Risk of mortality and cardiopulmonary arrest in critical patients presenting to the emergency department using machine learning and natural language processing. PLoS One 2020; 15: e0230876.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "e_1_3_3_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jalm/jfad094"
+      },
+      {
+        "key": "e_1_3_3_93_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/acem.12755"
+      },
+      {
+        "key": "e_1_3_3_94_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.imu.2022.101098"
+      },
+      {
+        "key": "e_1_3_3_95_2",
+        "article-title": "Optimization of service process in emergency department using discrete event simulation and machine learning algorithm",
+        "volume": "10",
+        "author": "Hosseini Shokouh SM",
+        "year": "2022",
+        "unstructured": "Hosseini Shokouh SM, Mohammadi K, Yaghoubi M. Optimization of service process in emergency department using discrete event simulation and machine learning algorithm. Arch Acad Emerg Med 2022; 10: e44.",
+        "journal-title": "Arch Acad Emerg Med"
+      },
+      {
+        "key": "e_1_3_3_96_2",
+        "first-page": "2",
+        "article-title": "Support systems of clinical decisions in the triage of the emergency department using artificial intelligence: the efficiency to support triage",
+        "volume": "30",
+        "author": "Karlafti E",
+        "year": "2023",
+        "unstructured": "Karlafti E, Anagnostis A, Simou T, et al. Support systems of clinical decisions in the triage of the emergency department using artificial intelligence: the efficiency to support triage. Acta Med Litu 2023; 30: 2.",
+        "journal-title": "Acta Med Litu"
+      },
+      {
+        "key": "e_1_3_3_97_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-021-83784-y"
+      },
+      {
+        "key": "e_1_3_3_98_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/SLA.0000000000005614"
+      },
+      {
+        "key": "e_1_3_3_99_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/bams-2018-0044"
+      },
+      {
+        "key": "e_1_3_3_100_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12913-021-06851-0"
+      },
+      {
+        "key": "e_1_3_3_101_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-021-01441-w"
+      },
+      {
+        "key": "e_1_3_3_102_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2021.11315"
+      },
+      {
+        "key": "e_1_3_3_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41746-021-00394-8"
+      },
+      {
+        "key": "e_1_3_3_104_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep30086"
+      },
+      {
+        "key": "e_1_3_3_105_2",
+        "volume-title": "Neural Networks and Deep Learning",
+        "author": "Nakamoto P",
+        "year": "2017",
+        "unstructured": "Nakamoto P. Neural Networks and Deep Learning. North Charleston, SC, United States: Createspace Independent Publishing, 2017."
+      },
+      {
+        "key": "e_1_3_3_106_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.renene.2021.02.017"
+      },
+      {
+        "key": "e_1_3_3_107_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-024-02459-6"
+      },
+      {
+        "key": "e_1_3_3_108_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41591-023-02540-z"
+      },
+      {
+        "key": "e_1_3_3_109_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12873-024-01135-2"
+      },
+      {
+        "key": "e_1_3_3_110_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-024-02788-6"
+      },
+      {
+        "key": "e_1_3_3_111_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0279953"
+      },
+      {
+        "key": "e_1_3_3_112_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aaw0029"
+      },
+      {
+        "key": "e_1_3_3_113_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2017/6536523"
+      },
+      {
+        "key": "e_1_3_3_114_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamainternmed.2018.3763"
+      },
+      {
+        "key": "e_1_3_3_115_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s42256-023-00697-3"
+      }
+    ],
+    "container-title": [
+      "DIGITAL HEALTH"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/20552076251411209",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/20552076251411209",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/20552076251411209",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          1
+        ]
+      ],
+      "date-time": "2026-02-01T21:18:28Z",
+      "timestamp": 1769980708000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/20552076251411209"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "references-count": 114,
+    "alternative-id": [
+      "10.1177/20552076251411209"
+    ],
+    "URL": "https://doi.org/10.1177/20552076251411209",
+    "relation": {},
+    "ISSN": [
+      "2055-2076",
+      "2055-2076"
+    ],
+    "issn-type": [
+      {
+        "value": "2055-2076",
+        "type": "print"
+      },
+      {
+        "value": "2055-2076",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "article-number": "20552076251411209"
+  }
+}

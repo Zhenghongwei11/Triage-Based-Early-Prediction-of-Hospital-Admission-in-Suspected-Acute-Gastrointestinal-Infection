@@ -1,0 +1,762 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T00:42:31Z",
+      "timestamp": 1772325751623,
+      "version": "3.50.1"
+    },
+    "reference-count": 38,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2019-12-01T00:00:00Z",
+          "timestamp": 1575158400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2019-12-16T00:00:00Z",
+          "timestamp": 1576454400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 15,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003130",
+        "name": "Fonds Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "G0B4716N"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "G0B4716N"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003130",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004497",
+        "name": "Onderzoeksraad, KU Leuven",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "C24/15/037"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C24/15/037"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004497",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Med"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>The assessment of calibration performance of risk prediction models based on regression or more flexible machine learning algorithms receives little attention.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Main text</jats:title>\n                    <jats:p>Herein, we argue that this needs to change immediately because poorly calibrated algorithms can be misleading and potentially harmful for clinical decision-making. We summarize how to avoid poor calibration at algorithm development and how to assess calibration at algorithm validation, emphasizing balance between model complexity and the available sample size. At external validation, calibration curves require sufficiently large samples. Algorithm updating should be considered for appropriate support of clinical practice.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Efforts are required to avoid poor calibration when developing prediction models, to evaluate calibration when validating models, and to update models when indicated. The ultimate aim is to optimize the utility of predictive analytics for shared decision-making and patient counseling.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1186/s12916-019-1466-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2019-12-16T07:02:54Z",
+      "timestamp": 1576479774000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1359,
+    "title": [
+      "Calibration: the Achilles heel of predictive analytics"
+    ],
+    "prefix": "10.1186",
+    "volume": "17",
+    "author": [
+      {
+        "name": "On behalf of Topic Group ‘Evaluating diagnostic tests and prediction models’ of the STRATOS initiative",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1613-7450",
+        "authenticated-orcid": false,
+        "given": "Ben",
+        "family": "Van Calster",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8905-2429",
+        "authenticated-orcid": false,
+        "given": "David J.",
+        "family": "McLernon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5529-1541",
+        "authenticated-orcid": false,
+        "given": "Maarten",
+        "family": "van Smeden",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Laure",
+        "family": "Wynants",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7787-0122",
+        "authenticated-orcid": false,
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1466_CR1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-77244-8",
+        "volume-title": "Clinical prediction models",
+        "author": "EW Steyerberg",
+        "year": "2009",
+        "unstructured": "Steyerberg EW. Clinical prediction models. New York: Springer; 2009."
+      },
+      {
+        "key": "1466_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "10",
+        "DOI": "10.1186/s41512-017-0021-2",
+        "volume": "1",
+        "author": "BS Wessler",
+        "year": "2017",
+        "unstructured": "Wessler BS, Paulus J, Lundquist CM, et al. Tufts PACE clinical predictive model registry: update 1990 through 2015. Diagn Progn Res. 2017;1:10.",
+        "journal-title": "Diagn Progn Res"
+      },
+      {
+        "key": "1466_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "79",
+        "DOI": "10.1016/j.ajog.2015.06.013",
+        "volume": "214",
+        "author": "CE Kleinrouweler",
+        "year": "2016",
+        "unstructured": "Kleinrouweler CE, Cheong-See FM, Collins GS, et al. Prognostic models in obstetrics: available, but far from applicable. Am J Obstet Gynecol. 2016;214:79–90.",
+        "journal-title": "Am J Obstet Gynecol"
+      },
+      {
+        "key": "1466_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "167",
+        "DOI": "10.1016/j.jclinepi.2015.12.005",
+        "volume": "74",
+        "author": "B Van Calster",
+        "year": "2016",
+        "unstructured": "Van Calster B, Nieboer D, Vergouwe Y, De Cock B, Pencina MJ, Steyerberg EW. A calibration hierarchy for risk models was defined: from utopia to empirical data. J Clin Epidemiol. 2016;74:167–76.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "1466_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.1186/1471-2288-14-40",
+        "volume": "14",
+        "author": "GS Collins",
+        "year": "2014",
+        "unstructured": "Collins GS, de Groot JA, Dutton S, et al. External validation of multivariable prediction models: a systematic review of methodological conduct and reporting. BMC Med Res Methodol. 2014;14:40.",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "key": "1466_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "12",
+        "DOI": "10.1016/j.jclinepi.2019.02.004",
+        "volume": "110",
+        "author": "E Christodoulou",
+        "year": "2019",
+        "unstructured": "Christodoulou E, Ma J, Collins GS, Steyerberg EW, Verbakel JY, Van Calster B. A systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models. J Clin Epidemiol. 2019;110:12–22.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "1466_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1371/journal.pmed.1001221",
+        "volume": "9",
+        "author": "W Bouwmeester",
+        "year": "2012",
+        "unstructured": "Bouwmeester W, Zuithoff NPA, Mallett S, et al. Reporting and methods in clinical prediction research: a systematic review. PLoS Med. 2012;9:1–12.",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "1466_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "162",
+        "DOI": "10.1177/0272989X14547233",
+        "volume": "35",
+        "author": "B Van Calster",
+        "year": "2015",
+        "unstructured": "Van Calster B, Vickers AJ. Calibration of risk prediction models: impact on decision-analytic performance. Med Decis Mak. 2015;35:162–9.",
+        "journal-title": "Med Decis Mak"
+      },
+      {
+        "key": "1466_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "283",
+        "DOI": "10.1016/j.jbi.2014.12.016",
+        "volume": "54",
+        "author": "K Van Hoorde",
+        "year": "2015",
+        "unstructured": "Van Hoorde K, Van Huffel S, Timmerman D, Bourne T, Van Calster B. A spline-based tool to assess and visualize the calibration of multiclass risk predictions. J Biomed Inform. 2015;54:283–93.",
+        "journal-title": "J Biomed Inform"
+      },
+      {
+        "key": "1466_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "83",
+        "DOI": "10.1016/j.jclinepi.2016.03.002",
+        "volume": "78",
+        "author": "T Van der Ploeg",
+        "year": "2016",
+        "unstructured": "Van der Ploeg T, Nieboer D, Steyerberg EW. Modern modeling techniques had limited external validity in predicting mortality from traumatic brain injury. J Clin Epidemiol. 2016;78:83–9.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "1466_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.1001/jama.2018.5602",
+        "volume": "320",
+        "author": "ND Shah",
+        "year": "2018",
+        "unstructured": "Shah ND, Steyerberg EW, Kent DM. Big data and predictive analytics: recalibrating expectations. JAMA. 2018;320:27–8.",
+        "journal-title": "JAMA."
+      },
+      {
+        "key": "1466_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "W1",
+        "DOI": "10.7326/M14-0698",
+        "volume": "162",
+        "author": "KG Moons",
+        "year": "2015",
+        "unstructured": "Moons KG, Altman DG, Reitsma JB, et al. Transparent Reporting of a multivariable prediction model for Individual Prognosis or Diagnosis (TRIPOD): explanation and elaboration. Ann Intern Med. 2015;162:W1–W73.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "1466_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "60",
+        "DOI": "10.1148/radiol.2019182716",
+        "volume": "292",
+        "author": "A Yala",
+        "year": "2019",
+        "unstructured": "Yala A, Lehman C, Schuster T, Portnoi T, Barzilay R. A deep learning mammography-based model for improved breast cancer risk prediction. Radiology. 2019;292:60–6.",
+        "journal-title": "Radiology."
+      },
+      {
+        "key": "1466_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1093/humrep/dev268",
+        "volume": "31",
+        "author": "RK Dhillon",
+        "year": "2016",
+        "unstructured": "Dhillon RK, McLernon DJ, Smith PP, et al. Predicting the chance of live birth for women undergoing IVF: a novel pretreatment counselling tool. Hum Reprod. 2016;31:84–92.",
+        "journal-title": "Hum Reprod"
+      },
+      {
+        "key": "1466_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "e4181",
+        "DOI": "10.1136/bmj.e4181",
+        "volume": "344",
+        "author": "GS Collins",
+        "year": "2012",
+        "unstructured": "Collins GS, Altman DG. Predicting the 10 year risk of cardiovascular disease in the United Kingdom: independent and external validation of an updated version of QRISK2. BMJ. 2012;344:e4181.",
+        "journal-title": "BMJ."
+      },
+      {
+        "key": "1466_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "394",
+        "DOI": "10.3322/caac.21492",
+        "volume": "68",
+        "author": "F Bray",
+        "year": "2018",
+        "unstructured": "Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018;68:394–424.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "1466_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "680",
+        "DOI": "10.1038/bjc.2014.333",
+        "volume": "111",
+        "author": "A Testa",
+        "year": "2014",
+        "unstructured": "Testa A, Kaijser J, Wynants L, et al. Strategies to diagnose ovarian cancer: new evidence from phase 3 of the multicentre international IOTA study. Br J Cancer. 2014;111:680–8.",
+        "journal-title": "Br J Cancer"
+      },
+      {
+        "key": "1466_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "i3140",
+        "DOI": "10.1136/bmj.i3140",
+        "volume": "353",
+        "author": "RD Riley",
+        "year": "2016",
+        "unstructured": "Riley RD, Ensor J, Snell KI, et al. External validation of clinical prediction models using big datasets from e-health records or IPD meta-analysis: opportunities and challenges. BMJ. 2016;353:i3140.",
+        "journal-title": "BMJ."
+      },
+      {
+        "key": "1466_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "107",
+        "DOI": "10.1016/j.juro.2006.08.068",
+        "volume": "177",
+        "author": "EW Steyerberg",
+        "year": "2007",
+        "unstructured": "Steyerberg EW, Roobol MJ, Kattan MW, van der Kwast TH, de Koning HJ, Schröder FH. Prediction of indolent prostate cancer: validation and updating of a prognostic nomogram. J Urol. 2007;177:107–12.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "1466_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1052",
+        "DOI": "10.1093/jamia/ocx030",
+        "volume": "24",
+        "author": "SE Davis",
+        "year": "2017",
+        "unstructured": "Davis SE, Lasko TA, Chen G, Siew ED, Matheny ME. Calibration drift in regression and machine learning models for acute kidney injury. J Am Med Inform Assoc. 2017;24:1052–61.",
+        "journal-title": "J Am Med Inform Assoc"
+      },
+      {
+        "key": "1466_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1016/j.resuscitation.2019.05.002",
+        "volume": "140",
+        "author": "TN Thai",
+        "year": "2019",
+        "unstructured": "Thai TN, Ebell MH. Prospective validation of the good outcome following attempted resuscitation (GO-FAR) score for in-hospital cardiac arrest prognosis. Resuscitation. 2019;140:2–8.",
+        "journal-title": "Resuscitation."
+      },
+      {
+        "key": "1466_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1684",
+        "DOI": "10.1093/humrep/dey263",
+        "volume": "33",
+        "author": "JA Leijdekkers",
+        "year": "2018",
+        "unstructured": "Leijdekkers JA, Eijkemans MJC, van Tilborg TC, et al. Predicting the cumulative chance of live birth over multiple complete cycles of in vitro fertilization: an external validation study. Hum Reprod. 2018;33:1684–95.",
+        "journal-title": "Hum Reprod"
+      },
+      {
+        "key": "1466_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1093/humrep/det393",
+        "volume": "29",
+        "author": "ER te Velde",
+        "year": "2014",
+        "unstructured": "te Velde ER, Nieboer D, Lintsen AM, et al. Comparison of two models predicting IVF success; the effect of time trends on model performance. Hum Reprod. 2014;29:57–64.",
+        "journal-title": "Hum Reprod"
+      },
+      {
+        "key": "1466_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "133",
+        "DOI": "10.1016/j.jclinepi.2017.11.013",
+        "volume": "98",
+        "author": "EW Steyerberg",
+        "year": "2018",
+        "unstructured": "Steyerberg EW, Uno H, Ioannidis JPA, Van Calster B. Poor performance of clinical prediction models: the harm of commonly applied methods. J Clin Epidemiol. 2018;98:133–43.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "1466_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "79",
+        "DOI": "10.1016/j.clinbiochem.2015.10.013",
+        "volume": "49",
+        "author": "V Murthy",
+        "year": "2016",
+        "unstructured": "Murthy V, Rishi A, Gupta S, et al. Clinical impact of prostate specific antigen (PSA) inter-assay variability on management of prostate cancer. Clin Biochem. 2016;49:79–84.",
+        "journal-title": "Clin Biochem"
+      },
+      {
+        "key": "1466_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "128",
+        "DOI": "10.1186/1471-2288-13-128",
+        "volume": "13",
+        "author": "L Wynants",
+        "year": "2013",
+        "unstructured": "Wynants L, Timmerman D, Bourne T, Van Huffel S, Van Calster B. Screening for data clustering in multicenter studies: the residual intraclass correlation. BMC Med Res Methodol. 2013;13:128.",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "key": "1466_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "3444",
+        "DOI": "10.1002/sim.8183",
+        "volume": "38",
+        "author": "K Luijken",
+        "year": "2019",
+        "unstructured": "Luijken K, Groenwold RHH, Van Calster B, Steyerberg EW, van Smeden M. Impact of predictor measurement heterogeneity across settings on performance of prediction models: a measurement error perspective. Stat Med. 2019;38:3444–59.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "1466_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.1016/j.ygyno.2008.08.031",
+        "volume": "112",
+        "author": "RG Moore",
+        "year": "2009",
+        "unstructured": "Moore RG, McMeekin DS, Brown AK, et al. A novel multiple marker bioassay utilizing HE4 and CA125 for the prediction of ovarian cancer in patients with a pelvic mass. Gynecol Oncol. 2009;112:40–6.",
+        "journal-title": "Gynecol Oncol"
+      },
+      {
+        "key": "1466_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "517",
+        "DOI": "10.1002/sim.5941",
+        "volume": "33",
+        "author": "PC Austin",
+        "year": "2014",
+        "unstructured": "Austin PC, Steyerberg EW. Graphical assessment of internal and external calibration of logistic regression models by using loess smoothers. Stat Med. 2014;33:517–35.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "1466_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "2455",
+        "DOI": "10.1177/0962280218784726",
+        "volume": "28",
+        "author": "M van Smeden",
+        "year": "2019",
+        "unstructured": "van Smeden M, Moons KGM, de Groot JA, et al. Sample size for binary logistic prediction models: beyond events per variable criteria. Stat Meth Med Res. 2019;28:2455–74.",
+        "journal-title": "Stat Meth Med Res."
+      },
+      {
+        "key": "1466_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "1276",
+        "DOI": "10.1002/sim.7992",
+        "volume": "38",
+        "author": "RD Riley",
+        "year": "2019",
+        "unstructured": "Riley RD, Snell KIE, Ensor J, et al. Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes. Stat Med. 2019;38:1276–96.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "1466_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1262",
+        "DOI": "10.1016/j.jclinepi.2004.01.020",
+        "volume": "57",
+        "author": "KGM Moons",
+        "year": "2004",
+        "unstructured": "Moons KGM, Donders AR, Steyerberg EW, Harrell FE. Penalized maximum likelihood estimation to directly adjust diagnostic and prognostic prediction models for overoptimism: a clinical example. J Clin Epidemiol. 2004;57:1262–70.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "1466_CR33",
+        "unstructured": "Van Calster B, van Smeden M, Steyerberg EW. On the variability of regression shrinkage methods for clinical prediction models: simulation study on predictive performance. arXiv. 2019; https://arxiv.org/abs/1907.11493. Accessed 10 Oct 2019."
+      },
+      {
+        "key": "1466_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "2567",
+        "DOI": "10.1002/sim.1844",
+        "volume": "23",
+        "author": "EW Steyerberg",
+        "year": "2004",
+        "unstructured": "Steyerberg EW, Borsboom GJJM, van Houwelingen HC, Eijkemans MJC, Habbema JDF. Validation and updating of predictive logistic regression models: a study on sample size and shrinkage. Stat Med. 2004;23:2567–86.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "1466_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "185",
+        "DOI": "10.1177/0962280215626466",
+        "volume": "27",
+        "author": "TL Su",
+        "year": "2018",
+        "unstructured": "Su TL, Jaki T, Hickey GL, Buchan I, Sperrin M. A review of statistical updating methods for clinical prediction models. Stat Meth Med Res. 2018;27:185–97.",
+        "journal-title": "Stat Meth Med Res"
+      },
+      {
+        "key": "1466_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "649",
+        "DOI": "10.1161/CIRCOUTCOMES.111.000012",
+        "volume": "6",
+        "author": "GL Hickey",
+        "year": "2013",
+        "unstructured": "Hickey GL, Grant SW, Caiado C, et al. Dynamic prediction modeling approaches for cardiac surgery. Circ Cardiovasc Qual Outcomes. 2013;6:649–58.",
+        "journal-title": "Circ Cardiovasc Qual Outcomes"
+      },
+      {
+        "key": "1466_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "e3485",
+        "DOI": "10.1136/bmj.e3485",
+        "volume": "344",
+        "author": "TSS Genders",
+        "year": "2012",
+        "unstructured": "Genders TSS, Steyerberg EW, Hunink MG, et al. Prediction model to estimate presence of coronary artery disease: retrospective pooled analysis of existing cohorts. BMJ. 2012;344:e3485.",
+        "journal-title": "BMJ."
+      },
+      {
+        "key": "1466_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "e014467",
+        "DOI": "10.1136/bmjopen-2016-014467",
+        "volume": "7",
+        "author": "M Edlinger",
+        "year": "2017",
+        "unstructured": "Edlinger M, Wanitschek M, Dörler J, Ulmer H, Alber HF, Steyerberg EW. External validation and extension of a diagnostic model for obstructive coronary artery disease: a cross-sectional predictive evaluation in 4888 patients of the Austrian Coronary Artery disease Risk Determination In Innsbruck by diaGnostic ANgiography (CARDIIGAN) cohort. BMJ Open. 2017;7:e014467.",
+        "journal-title": "BMJ Open"
+      }
+    ],
+    "container-title": [
+      "BMC Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s12916-019-1466-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1186/s12916-019-1466-7/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s12916-019-1466-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          14
+        ]
+      ],
+      "date-time": "2020-12-14T19:26:23Z",
+      "timestamp": 1607973983000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1466-7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1466"
+    ],
+    "URL": "https://doi.org/10.1186/s12916-019-1466-7",
+    "relation": {
+      "is-referenced-by": [
+        {
+          "id-type": "doi",
+          "id": "10.1007/s10877-025-01384-x",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "1741-7015"
+    ],
+    "issn-type": [
+      {
+        "value": "1741-7015",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "24 July 2019",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "10 November 2019",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "16 December 2019",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval and consent to participate"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      },
+      {
+        "value": "The authors declare that they have no competing interests.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "230"
+  }
+}

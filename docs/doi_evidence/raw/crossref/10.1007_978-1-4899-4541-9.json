@@ -1,0 +1,154 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T09:04:16Z",
+      "timestamp": 1772355856457,
+      "version": "3.50.1"
+    },
+    "publisher-location": "Boston, MA",
+    "reference-count": 0,
+    "publisher": "Springer US",
+    "isbn-type": [
+      {
+        "value": "9780412042317",
+        "type": "print"
+      },
+      {
+        "value": "9781489945419",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1993,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1993-01-01T00:00:00Z",
+          "timestamp": 725846400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-1-4899-4541-9",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2013-11-26T00:39:28Z",
+      "timestamp": 1385426368000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 16178,
+    "title": [
+      "An Introduction to the Bootstrap"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Bradley",
+        "family": "Efron",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Robert J.",
+        "family": "Tibshirani",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4899-4541-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4899-4541-9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2019-04-04T07:39:43Z",
+      "timestamp": 1554363583000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-1-4899-4541-9"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780412042317",
+      "9781489945419"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-1-4899-4541-9",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
+  }
+}

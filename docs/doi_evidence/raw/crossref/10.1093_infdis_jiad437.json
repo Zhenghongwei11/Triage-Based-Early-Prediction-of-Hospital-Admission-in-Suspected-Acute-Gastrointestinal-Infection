@@ -1,0 +1,610 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T21:08:39Z",
+      "timestamp": 1762981719456,
+      "version": "3.37.3"
+    },
+    "reference-count": 31,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2023-10-11T00:00:00Z",
+          "timestamp": 1696982400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+      }
+    ],
+    "funder": [
+      {
+        "name": "government-wide research and development",
+        "award": [
+          "HG18C0088"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "HG18C0088"
+            ]
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003725",
+        "name": "National Research Foundation of Korea",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003725",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Korean government",
+        "award": [
+          "RS-2023-00213267"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RS-2023-00213267"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>This study compared trends in norovirus cases to determine whether chief complaint–based emergency department (ED) visit data could reflect trends of norovirus in Korea.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>The ED visits from the National Emergency Department Information System database and the weekly reported number of noroviruses from the sentinel surveillance system were collected between August 2017 and December 2020. The correlation between weekly norovirus cases and weekly ED visits considering the chief complaint and discharge diagnosis code was estimated using a 3-week moving average.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>In total, 6 399 774 patients with chief complaints related to digestive system disease visited an ED. A higher correlation between reported norovirus cases and ED visit with chief complaint of vomiting and discharge diagnosis code of gastroenteritis and colitis of unspecified origin or other and unspecified gastroenteritis and colitis of infectious origin was observed (R = 0.88, P &amp;lt; .0001). The correlation was highest for the age group 0–4 years (R = 0.89, P &amp;lt; .0001). However, no correlation was observed between the reported norovirus cases and the number of ED visits with norovirus identified as a discharge diagnosis code.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>ED visit data considering a combination of chief complaints and discharged diagnosis code would be useful for early detection of infectious disease trends.</jats:p>\n               </jats:sec>",
+    "DOI": "10.1093/infdis/jiad437",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2023-10-11T23:10:40Z",
+      "timestamp": 1697065840000
+    },
+    "page": "103-108",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Trends for Syndromic Surveillance of Norovirus in Emergency Department Data Based on Chief Complaints"
+    ],
+    "prefix": "10.1093",
+    "volume": "230",
+    "author": [
+      {
+        "given": "Soyeoun",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Preventive Medicine, Hanyang University College of Medicine , Seoul, Korea"
+          }
+        ]
+      },
+      {
+        "given": "Sohee",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Social Administration Science, School of Pharmacy, University of Wisconsin–Madison"
+          }
+        ]
+      },
+      {
+        "given": "Bo Youl",
+        "family": "Choi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Preventive Medicine, Hanyang University College of Medicine , Seoul, Korea"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1902-3184",
+        "authenticated-orcid": false,
+        "given": "Boyoung",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Preventive Medicine, Hanyang University College of Medicine , Seoul, Korea"
+          },
+          {
+            "name": "Hanyang Institute of Bioscience and Biotechnology, Hanyang University"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2024072520105459700_jiad437-B1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1275",
+        "DOI": "10.1093/cid/cis028",
+        "article-title": "Changes in causes of acute gastroenteritis in the United Kingdom over 15 years: microbiologic findings from 2 prospective, population-based studies of infectious intestinal disease",
+        "volume": "54",
+        "author": "Tam",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1214",
+        "DOI": "10.3201/eid1908.130483",
+        "article-title": "Emergency department visit data for rapid detection and monitoring of norovirus activity, United States",
+        "volume": "19",
+        "author": "Rha",
+        "year": "2013",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1058",
+        "DOI": "10.1093/infdis/jis942",
+        "article-title": "Burden of norovirus gastroenteritis in the ambulatory setting—United States, 2001–2009",
+        "volume": "207",
+        "author": "Gastañaduy",
+        "year": "2013",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B4"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1128",
+        "DOI": "10.3346/jkms.2010.25.8.1128",
+        "article-title": "Epidemiology of foodborne norovirus outbreak in Incheon, Korea",
+        "volume": "25",
+        "author": "Yu",
+        "year": "2010",
+        "journal-title": "J Korean Med Sci"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.jcv.2008.10.009",
+        "article-title": "Noroviruses: a comprehensive review",
+        "volume": "44",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "J Clin Virol"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1590",
+        "DOI": "10.1017/S0950268813002896",
+        "article-title": "The development of web-based surveillance provides new insights into the burden of norovirus outbreaks in hospitals in England",
+        "volume": "142",
+        "author": "Harris",
+        "year": "2014",
+        "journal-title": "Epidemiol Infect"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B8",
+        "first-page": "1381",
+        "article-title": "Incidence of acute gastroenteritis and role of norovirus, Georgia, USA, 2004–2005",
+        "volume": "17",
+        "author": "Hall",
+        "year": "2011",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B9",
+        "doi-asserted-by": "crossref",
+        "first-page": "e75",
+        "DOI": "10.1093/cid/cis579",
+        "article-title": "Norovirus disease surveillance using Google internet query share data",
+        "volume": "55",
+        "author": "Desai",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B10",
+        "doi-asserted-by": "crossref",
+        "first-page": "931",
+        "DOI": "10.1093/cid/cir971",
+        "article-title": "Nosocomial transmission of norovirus is mainly caused by symptomatic cases",
+        "volume": "54",
+        "author": "Sukhrie",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B11",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2014030",
+        "DOI": "10.4178/epih/e2014030",
+        "article-title": "National infectious diseases surveillance data of South Korea",
+        "volume": "36",
+        "author": "Park",
+        "year": "2014",
+        "journal-title": "Epidemiol Health"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B12",
+        "doi-asserted-by": "crossref",
+        "first-page": "114",
+        "DOI": "10.3109/15563650.2012.655281",
+        "article-title": "Emergency department visits due to pesticide poisoning in South Korea, 2006–2009",
+        "volume": "50",
+        "author": "Ko",
+        "year": "2012",
+        "journal-title": "Clin Toxicol (Phila)"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B13",
+        "doi-asserted-by": "crossref",
+        "first-page": "e44",
+        "DOI": "10.3346/jkms.2021.36.e44",
+        "article-title": "Impact of the COVID-19 outbreak on trends in emergency department utilization in children: a multicenter retrospective observational study in Seoul metropolitan area, Korea",
+        "volume": "36",
+        "author": "Choi",
+        "year": "2021",
+        "journal-title": "J Korean Med Sci"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B14",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.3346/jkms.2015.30.1.95",
+        "article-title": "Epidemiology and outcomes in out-of-hospital cardiac arrest: a report from the NEDIS-based cardiac arrest registry in Korea",
+        "volume": "30",
+        "author": "Yang",
+        "year": "2014",
+        "journal-title": "J Korean Med Sci"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B15",
+        "first-page": "83",
+        "article-title": "Diagnostic challenges in gastrointestinal infections",
+        "volume": "123",
+        "author": "Negrut",
+        "year": "2020",
+        "journal-title": "Rom J Mil Med"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B16",
+        "doi-asserted-by": "crossref",
+        "first-page": "3219",
+        "DOI": "10.3390/rs12193219",
+        "article-title": "Coral bleaching detection in the Hawaiian islands using spatio-temporal standardized bottom reflectance and planet dove satellites",
+        "volume": "12",
+        "author": "Xu",
+        "year": "2020",
+        "journal-title": "Remote Sens"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B17",
+        "first-page": "391",
+        "article-title": "Hyperemesis hiemis or the winter vomiting disease",
+        "volume": "46",
+        "author": "Zahorsky",
+        "year": "1929",
+        "journal-title": "Arch Pediatr"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B18",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2022011",
+        "DOI": "10.4178/epih.e2022011",
+        "article-title": "Trends in gastrointestinal infections before and during non-pharmaceutical interventions in Korea in comparison with the United States",
+        "volume": "44",
+        "author": "Kim",
+        "year": "2022",
+        "journal-title": "Epidemiol Health"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B19",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1007/s12560-016-9234-8",
+        "article-title": "Temperature-dependent persistence of human norovirus within oysters (Crassostrea virginica)",
+        "volume": "8",
+        "author": "Choi",
+        "year": "2016",
+        "journal-title": "Food Environ Virol"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B20",
+        "first-page": "622",
+        "article-title": "Characteristics of norovirus food poisoning outbreaks in Korea over the past ten years and the relation with climate factors",
+        "volume": "45",
+        "author": "Kim",
+        "year": "2019",
+        "journal-title": "J Environ Health"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B21",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.47853/FAS.2022.e26",
+        "article-title": "Risk assessment for norovirus foodborne illness by raw oyster (Ostreidae) consumption and economic burden in Korea",
+        "volume": "25",
+        "author": "Yoo",
+        "year": "2022",
+        "journal-title": "Fish Aquat Sci"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B22",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1017/S0950268810000981",
+        "article-title": "A norovirus outbreak associated with environmental contamination at a hotel",
+        "volume": "139",
+        "author": "Kimura",
+        "year": "2011",
+        "journal-title": "Epidemiol Infect"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B23",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0143759",
+        "DOI": "10.1371/journal.pone.0143759",
+        "article-title": "Vomiting as a symptom and transmission risk in norovirus illness: evidence from human challenge studies",
+        "volume": "11",
+        "author": "Kirby",
+        "year": "2016",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B24",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1186/s12879-015-0922-z",
+        "article-title": "Epidemiology of norovirus infections among diarrhea outpatients in a diarrhea surveillance system in Shanghai, China: a cross-sectional study",
+        "volume": "15",
+        "author": "Xue",
+        "year": "2015",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B25",
+        "doi-asserted-by": "crossref",
+        "first-page": "15238",
+        "DOI": "10.1038/s41598-018-33724-0",
+        "article-title": "Age, primary symptoms, and genotype characteristics of norovirus outbreaks in Shanghai schools in 2017",
+        "volume": "8",
+        "author": "Wang",
+        "year": "2018",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1438",
+        "DOI": "10.3201/eid2705.204756",
+        "article-title": "Global trends in norovirus genotype distribution among children with acute gastroenteritis",
+        "volume": "27",
+        "author": "Cannon",
+        "year": "2021",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B27",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1016/j.phrp.2015.10.002",
+        "article-title": "Epidemics of norovirus GII.4 variant in outbreak cases in Korea, 2004–2012",
+        "volume": "6",
+        "author": "Jung",
+        "year": "2015",
+        "journal-title": "Osong Public Health Res Perspect"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B28",
+        "doi-asserted-by": "crossref",
+        "first-page": "452",
+        "DOI": "10.1093/infdis/jiaa391",
+        "article-title": "Attribution of pediatric acute gastroenteritis episodes and emergency department visits to norovirus genogroups I and II",
+        "volume": "223",
+        "author": "Tarr",
+        "year": "2020",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B29",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1086/421948",
+        "article-title": "Clinical manifestation of norovirus gastroenteritis in health care settings",
+        "volume": "39",
+        "author": "Lopman",
+        "year": "2004",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B30",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0148395",
+        "DOI": "10.1371/journal.pone.0148395",
+        "article-title": "Incidence of norovirus and other viral pathogens that cause acute gastroenteritis (AGE) among Kaiser Permanente member populations in the United States, 2012–2013",
+        "volume": "11",
+        "author": "Grytdal",
+        "year": "2016",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2024072520105459700_jiad437-B31",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.3961/jpmph.2007.40.4.259",
+        "article-title": "Introduction and evaluation of communicable disease surveillance in the Republic of Korea",
+        "volume": "40",
+        "author": "Park",
+        "year": "2007",
+        "journal-title": "J Prev Med Public Health"
+      }
+    ],
+    "container-title": [
+      "The Journal of Infectious Diseases"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/jid/advance-article-pdf/doi/10.1093/infdis/jiad437/52306070/jiad437.pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/jid/article-pdf/230/1/103/58649294/jiad437.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/jid/article-pdf/230/1/103/58649294/jiad437.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2024-07-25T20:14:25Z",
+      "timestamp": 1721938465000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/jid/article/230/1/103/7307772"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          11
+        ]
+      ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            11
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            25
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/infdis/jiad437",
+    "relation": {},
+    "ISSN": [
+      "0022-1899",
+      "1537-6613"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0022-1899"
+      },
+      {
+        "type": "electronic",
+        "value": "1537-6613"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          15
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          11
+        ]
+      ]
+    }
+  }
+}

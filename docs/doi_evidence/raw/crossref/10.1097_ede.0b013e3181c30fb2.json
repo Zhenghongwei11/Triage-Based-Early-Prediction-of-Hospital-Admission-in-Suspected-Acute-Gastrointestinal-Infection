@@ -1,0 +1,866 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T02:14:24Z",
+      "timestamp": 1772331264444,
+      "version": "3.50.1"
+    },
+    "reference-count": 64,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1097/ede.0b013e3181c30fb2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          9
+        ]
+      ],
+      "date-time": "2009-12-09T08:31:00Z",
+      "timestamp": 1260347460000
+    },
+    "page": "128-138",
+    "source": "Crossref",
+    "is-referenced-by-count": 3983,
+    "title": [
+      "Assessing the Performance of Prediction Models"
+    ],
+    "prefix": "10.1097",
+    "volume": "21",
+    "author": [
+      {
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew J.",
+        "family": "Vickers",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nancy R.",
+        "family": "Cook",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Thomas",
+        "family": "Gerds",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mithat",
+        "family": "Gonen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nancy",
+        "family": "Obuchowski",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael J.",
+        "family": "Pencina",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael W.",
+        "family": "Kattan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-22-20210207",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4757-3462-1",
+        "article-title": "Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis.",
+        "author": "Harrell",
+        "year": "2001"
+      },
+      {
+        "key": "R2-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "882",
+        "DOI": "10.1093/aje/kwh101",
+        "article-title": "Limitations of the odds ratio in gauging the performance of a diagnostic, prognostic, or screening marker.",
+        "volume": "159",
+        "author": "Pepe",
+        "year": "2004",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "key": "R3-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1002/bimj.200810443",
+        "article-title": "The performance of risk prediction models.",
+        "volume": "50",
+        "author": "Gerds",
+        "year": "2008",
+        "journal-title": "Biom J"
+      },
+      {
+        "key": "R4-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "965",
+        "DOI": "10.1002/(SICI)1097-0258(19970515)16:9<965::AID-SIM509>3.0.CO;2-O",
+        "article-title": "A comparison of goodness-of-fit tests for the logistic regression model.",
+        "volume": "16",
+        "author": "Hosmer",
+        "year": "1997",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R5-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1148/radiol.2291010898",
+        "article-title": "Receiver operating characteristic curves and their use in radiology.",
+        "volume": "229",
+        "author": "Obuchowski",
+        "year": "2003",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "R6-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1111/j.0006-341X.2005.030814.x",
+        "article-title": "Survival model predictive accuracy and ROC curves.",
+        "volume": "61",
+        "author": "Heagerty",
+        "year": "2005",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "R7-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "965",
+        "DOI": "10.1093/biomet/92.4.965",
+        "article-title": "Concordance probability and discriminatory power in proportional hazards regression.",
+        "volume": "92",
+        "author": "Gonen",
+        "year": "2005",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "R8-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "928",
+        "DOI": "10.1161/CIRCULATIONAHA.106.672402",
+        "article-title": "Use and misuse of the receiver operating characteristic curve in risk prediction.",
+        "volume": "115",
+        "author": "Cook",
+        "year": "2007",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "R9-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1002/sim.2929",
+        "article-title": "Evaluating the added predictive ability of a new marker: from area under the ROC curve to reclassification and beyond.",
+        "volume": "27",
+        "author": "Pencina",
+        "year": "2008",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R11-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1002/sim.3106",
+        "article-title": "Comments on ‘Integrated discrimination and net reclassification improvements-Practical advice.’",
+        "volume": "27",
+        "author": "Pencina",
+        "year": "2008",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R12-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "751",
+        "DOI": "10.7326/0003-4819-149-10-200811180-00009",
+        "article-title": "Assessing the value of risk predictions by using risk stratification tables.",
+        "volume": "149",
+        "author": "Janes",
+        "year": "2008",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R13-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "2304",
+        "DOI": "10.1001/archinte.168.21.2304",
+        "article-title": "Assessing new biomarkers and predictive models for use in clinical practice: a clinician's guide.",
+        "volume": "168",
+        "author": "McGeechan",
+        "year": "2008",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R14-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "795",
+        "DOI": "10.7326/0003-4819-150-11-200906020-00007",
+        "article-title": "Advances in measuring the effect of individual predictors of cardiovascular risk: the role of reclassification measures.",
+        "volume": "150",
+        "author": "Cook",
+        "year": "2009",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R15-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1177/0272989X06295361",
+        "article-title": "Decision curve analysis: a novel method for evaluating prediction models.",
+        "volume": "26",
+        "author": "Vickers",
+        "year": "2006",
+        "journal-title": "Med Decis Making"
+      },
+      {
+        "key": "R16-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1177/0272989X07312725",
+        "article-title": "Decision curve analysis: a discussion.",
+        "volume": "28",
+        "author": "Steyerberg",
+        "year": "2008",
+        "journal-title": "Med Decis Making"
+      },
+      {
+        "key": "R17-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1002/(SICI)1097-0258(20000229)19:4<453::AID-SIM350>3.0.CO;2-5",
+        "article-title": "What do we mean by validating a prognostic model?",
+        "volume": "19",
+        "author": "Altman",
+        "year": "2000",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R18-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "515",
+        "DOI": "10.7326/0003-4819-130-6-199903160-00016",
+        "article-title": "Assessing the generalizability of prognostic information.",
+        "volume": "130",
+        "author": "Justice",
+        "year": "1999",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R19-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "774",
+        "DOI": "10.1016/S0895-4356(01)00341-9",
+        "article-title": "Internal validation of predictive models: efficiency of some procedures for logistic regression analysis.",
+        "volume": "54",
+        "author": "Steyerberg",
+        "year": "2001",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "R20-22-20210207",
+        "article-title": "Clinical Prediction Models: A Practical Approach to Development, Validation, and Updating.",
+        "author": "Steyerberg",
+        "year": "2009"
+      },
+      {
+        "key": "R21-22-20210207",
+        "first-page": "219",
+        "article-title": "A checklist for evaluating reports of expression profiling for treatment selection.",
+        "volume": "4",
+        "author": "Simon",
+        "year": "2006",
+        "journal-title": "Clin Adv Hematol Oncol"
+      },
+      {
+        "key": "R22-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "640",
+        "DOI": "10.1097/EDE.0b013e31818131e7",
+        "article-title": "Why most discovered true associations are inflated.",
+        "volume": "19",
+        "author": "Ioannidis",
+        "year": "2008",
+        "journal-title": "Epidemiology"
+      },
+      {
+        "key": "R23-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1768",
+        "DOI": "10.1093/bioinformatics/btm232",
+        "article-title": "Assessment of survival prediction models based on microarray data.",
+        "volume": "23",
+        "author": "Schumacher",
+        "year": "2007",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "R24-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1186/1745-6215-7-30",
+        "article-title": "Selecting patients for randomized trials: a systematic approach based on risk group.",
+        "volume": "7",
+        "author": "Vickers",
+        "year": "2006",
+        "journal-title": "Trials"
+      },
+      {
+        "key": "R25-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "454",
+        "DOI": "10.1016/j.jclinepi.2003.09.014",
+        "article-title": "Covariate adjustment in randomized controlled trials with dichotomous outcomes increases statistical power and reduces sample size requirements.",
+        "volume": "57",
+        "author": "Hernandez",
+        "year": "2004",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "R26-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.annepidem.2005.09.007",
+        "article-title": "Randomized controlled trials with time-to-event outcomes: how much does prespecified covariate adjustment increase power?",
+        "volume": "16",
+        "author": "Hernandez",
+        "year": "2006",
+        "journal-title": "Ann Epidemiol"
+      },
+      {
+        "key": "R27-22-20210207",
+        "article-title": "Risk Adjustment for Measuring Health Care Outcomes. 3rd ed.",
+        "author": "Iezzoni",
+        "year": "2003"
+      },
+      {
+        "key": "R28-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "634",
+        "DOI": "10.1093/jnci/95.9.634",
+        "article-title": "Judging new markers by their ability to improve predictive accuracy.",
+        "volume": "95",
+        "author": "Kattan",
+        "year": "2003",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "R29-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1055/s-0038-1636442",
+        "article-title": "The measurement of performance in probabilistic diagnosis. Part II: Trustworthiness of the exact values of the diagnostic probabilities.",
+        "volume": "17",
+        "author": "Hilden",
+        "year": "1978",
+        "journal-title": "Methods Inf Med"
+      },
+      {
+        "key": "R30-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1177/096228029200100104",
+        "article-title": "Statistical methods in diagnosis.",
+        "volume": "1",
+        "author": "Hand",
+        "year": "1992",
+        "journal-title": "Stat Methods Med Res"
+      },
+      {
+        "key": "R31-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1055/s-0038-1635297",
+        "article-title": "The measurement of performance in probabilistic diagnosis: Part IV. Utility considerations in therapeutics and prognostics.",
+        "volume": "20",
+        "author": "Habbema",
+        "year": "1981",
+        "journal-title": "Methods Inf Med"
+      },
+      {
+        "key": "R32-22-20210207",
+        "article-title": "Regression Methods in Biostatistics: Linear, Logistic, Survival, and Repeated Measures Models (Statistics for Biology and Health).",
+        "author": "Vittinghoff",
+        "year": "2005"
+      },
+      {
+        "key": "R33-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "691",
+        "DOI": "10.1093/biomet/78.3.691",
+        "article-title": "A note on a general definition of the coefficient of determination.",
+        "volume": "78",
+        "author": "Nagelkerke",
+        "year": "1991",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "R34-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2",
+        "article-title": "Verification of forecasts expressed in terms of probability.",
+        "volume": "78",
+        "author": "Brier",
+        "year": "1950",
+        "journal-title": "Mon Wea Rev"
+      },
+      {
+        "key": "R35-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1383",
+        "DOI": "10.1002/sim.2300",
+        "article-title": "Properties of R2 statistics for logistic regression.",
+        "volume": "25",
+        "author": "Hu",
+        "year": "2006",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R36-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "564",
+        "DOI": "10.1055/s-0038-1634384",
+        "article-title": "How to assess prognostic models for survival data: a case study in oncology.",
+        "volume": "42",
+        "author": "Schumacher",
+        "year": "2003",
+        "journal-title": "Methods Inf Med"
+      },
+      {
+        "key": "R37-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1029",
+        "DOI": "10.1002/bimj.200610301",
+        "article-title": "Consistent estimation of the expected Brier score in general survival models with right-censored event times.",
+        "volume": "48",
+        "author": "Gerds",
+        "year": "2006",
+        "journal-title": "Biom J"
+      },
+      {
+        "key": "R38-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "3474",
+        "DOI": "10.1002/sim.2299",
+        "article-title": "Estimation of time-dependent area under the ROC curve for long-term risk prediction.",
+        "volume": "25",
+        "author": "Chambless",
+        "year": "2006",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R39-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1016/0030-5073(82)90237-9",
+        "article-title": "External correspondence: decomposition of the mean probability score.",
+        "volume": "30",
+        "author": "Yates",
+        "year": "1982",
+        "journal-title": "Organ Behav Hum Perform"
+      },
+      {
+        "key": "R40-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1177/0272989X9301300107",
+        "article-title": "Validation of probabilistic predictions.",
+        "volume": "13",
+        "author": "Miller",
+        "year": "1993",
+        "journal-title": "Med Decis Making"
+      },
+      {
+        "key": "R41-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "562",
+        "DOI": "10.1093/biomet/45.3-4.562",
+        "article-title": "Two further applications of a model for binary regression.",
+        "volume": "45",
+        "author": "Cox",
+        "year": "1958",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "R42-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1111/j.2517-6161.1983.tb01258.x",
+        "article-title": "Regression, prediction and shrinkage.",
+        "volume": "45",
+        "author": "Copas",
+        "year": "1983",
+        "journal-title": "J R Stat Soc Ser B"
+      },
+      {
+        "key": "R43-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1303",
+        "DOI": "10.1002/sim.4780091109",
+        "article-title": "Predictive value of statistical models.",
+        "volume": "9",
+        "author": "van Houwelingen",
+        "year": "1990",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R44-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1373/clinchem.2007.096529",
+        "article-title": "Statistical evaluation of prognostic versus diagnostic models: beyond the ROC curve.",
+        "volume": "54",
+        "author": "Cook",
+        "year": "2008",
+        "journal-title": "Clin Chem"
+      },
+      {
+        "key": "R45-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "362",
+        "DOI": "10.1093/aje/kwm305",
+        "article-title": "Integrating the predictiveness of a marker with its performance as a classifier.",
+        "volume": "167",
+        "author": "Pepe",
+        "year": "2008",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "key": "R46-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.1002/1097-0142(1950)3:1<32::AID-CNCR2820030106>3.0.CO;2-3",
+        "article-title": "Index for rating diagnostic tests.",
+        "volume": "3",
+        "author": "Youden",
+        "year": "1950",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "R47-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1109",
+        "DOI": "10.1056/NEJM198005153022003",
+        "article-title": "The threshold approach to clinical decision making.",
+        "volume": "302",
+        "author": "Pauker",
+        "year": "1980",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R48-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1126/science.ns-4.93.453-a",
+        "article-title": "The numerical measure of success of predictions.",
+        "volume": "4",
+        "author": "Peirce",
+        "year": "1884",
+        "journal-title": "Science"
+      },
+      {
+        "key": "R49-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1177",
+        "DOI": "10.1200/JCO.1995.13.5.1177",
+        "article-title": "Prediction of residual retroperitoneal mass histology after chemotherapy for metastatic nonseminomatous germ cell tumor: multivariate analysis of individual patient data from six study groups.",
+        "volume": "13",
+        "author": "Steyerberg",
+        "year": "1995",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "R50-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "3847",
+        "DOI": "10.1002/sim.915",
+        "article-title": "Residual mass histology in testicular cancer: development and validation of a clinical prediction rule.",
+        "volume": "20",
+        "author": "Steyerberg",
+        "year": "2001",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R51-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1097/00005392-200101000-00021",
+        "article-title": "Validation of a prediction model and its predictors for the histology of residual masses in nonseminomatous testicular cancer.",
+        "volume": "165",
+        "author": "Vergouwe",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R52-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1331",
+        "DOI": "10.1002/(SICI)1097-0142(19990315)85:6<1331::AID-CNCR16>3.0.CO;2-I",
+        "article-title": "Resection of small, residual retroperitoneal masses after chemotherapy for nonseminomatous testicular cancer: a decision analysis.",
+        "volume": "85",
+        "author": "Steyerberg",
+        "year": "1999",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "R53-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1467",
+        "DOI": "10.1056/NEJM198112103052409",
+        "article-title": "The toss-up.",
+        "volume": "305",
+        "author": "Pauker",
+        "year": "1981",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R54-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "2019",
+        "DOI": "10.1093/humrep/deh365",
+        "article-title": "Two new prediction rules for spontaneous pregnancy leading to live birth among subfertile couples, based on the synthesis of three previous models.",
+        "volume": "19",
+        "author": "Hunault",
+        "year": "2004",
+        "journal-title": "Hum Reprod"
+      },
+      {
+        "key": "R55-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "491",
+        "DOI": "10.1016/j.jclinepi.2006.08.011",
+        "article-title": "External validation of prognostic models for critically ill patients required substantial sample sizes.",
+        "volume": "60",
+        "author": "Peek",
+        "year": "2007",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "R56-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1002/sim.2995",
+        "article-title": "The need for reorientation toward cost-effective prediction: comments on ‘Evaluating the added predictive ability of a new marker: From area under the ROC curve to reclassification and beyond’ by M. J. Pencina et al. Statistics in Medicine (DOI: 10.1002/sim. 2929).",
+        "volume": "27",
+        "author": "Greenland",
+        "year": "2008",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R57-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1053/suro.2002.32521",
+        "article-title": "Validity of prognostic models: when is a model clinically useful?",
+        "volume": "20",
+        "author": "Vergouwe",
+        "year": "2002",
+        "journal-title": "Semin Urol Oncol"
+      },
+      {
+        "key": "R58-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1056/NEJM197507312930501",
+        "article-title": "Primer on certain elements of medical decision making.",
+        "volume": "293",
+        "author": "McNeil",
+        "year": "1975",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R59-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1177/0272989X9101100204",
+        "article-title": "The area under the ROC curve and its competitors.",
+        "volume": "11",
+        "author": "Hilden",
+        "year": "1991",
+        "journal-title": "Med Decis Making"
+      },
+      {
+        "key": "R60-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1093/biostatistics/kxi005",
+        "article-title": "On criteria for evaluating models of absolute risk.",
+        "volume": "6",
+        "author": "Gail",
+        "year": "2005",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "R61-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1586",
+        "DOI": "10.1016/j.athoracsur.2006.11.044",
+        "article-title": "Actual and actuarial probabilities of competing risks: apples and lemons.",
+        "volume": "83",
+        "author": "Grunkemeier",
+        "year": "2007",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "R62-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "496",
+        "DOI": "10.1080/01621459.1999.10474144",
+        "article-title": "A proportional hazards model for the subdistribution of a competing risk.",
+        "volume": "94",
+        "author": "Fine",
+        "year": "1999",
+        "journal-title": "JASA"
+      },
+      {
+        "key": "R63-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.2307/2529721",
+        "article-title": "A review and critique of some models used in competing risk analysis.",
+        "volume": "31",
+        "author": "Gail",
+        "year": "1975",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "R64-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "2567",
+        "DOI": "10.1002/sim.1844",
+        "article-title": "Validation and updating of predictive logistic regression models: a study on sample size and shrinkage.",
+        "volume": "23",
+        "author": "Steyerberg",
+        "year": "2004",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R65-22-20210207",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.7326/0003-4819-144-3-200602070-00009",
+        "article-title": "Translating clinical research into clinical practice: impact of using prediction rules to make decisions.",
+        "volume": "144",
+        "author": "Reilly",
+        "year": "2006",
+        "journal-title": "Ann Intern Med"
+      }
+    ],
+    "container-title": [
+      "Epidemiology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/EDE.0b013e3181c30fb2",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2025-02-13T18:52:30Z",
+      "timestamp": 1739472750000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/00001648-201001000-00022"
+      }
+    },
+    "subtitle": [
+      "A Framework for Traditional and Novel Measures"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/ede.0b013e3181c30fb2",
+    "relation": {},
+    "ISSN": [
+      "1044-3983"
+    ],
+    "issn-type": [
+      {
+        "value": "1044-3983",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    }
+  }
+}

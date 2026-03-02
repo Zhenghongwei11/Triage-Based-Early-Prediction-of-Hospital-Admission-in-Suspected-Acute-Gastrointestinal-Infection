@@ -1,0 +1,628 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2026-02-24T07:45:53Z",
+      "timestamp": 1771919153352,
+      "version": "3.50.1"
+    },
+    "reference-count": 34,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2022-12-16T00:00:00Z",
+          "timestamp": 1671148800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "lww.com",
+        "ovid.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>OBJECTIVES:</jats:title>\n            <jats:p>Many machine learning (ML) models have been developed for application in the ICU, but few models have been subjected to external validation. The performance of these models in new settings therefore remains unknown. The objective of this study was to assess the performance of an existing decision support tool based on a ML model predicting readmission or death within 7 days after ICU discharge before, during, and after retraining and recalibration.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>DESIGN:</jats:title>\n            <jats:p>A gradient boosted ML model was developed and validated on electronic health record data from 2004 to 2021. We performed an independent validation of this model on electronic health record data from 2011 to 2019 from a different tertiary care center.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>SETTING:</jats:title>\n            <jats:p>Two ICUs in tertiary care centers in The Netherlands.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>PATIENTS:</jats:title>\n            <jats:p>Adult patients who were admitted to the ICU and stayed for longer than 12 hours.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>INTERVENTIONS:</jats:title>\n            <jats:p>None.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>MEASUREMENTS AND MAIN RESULTS:</jats:title>\n            <jats:p>We assessed discrimination by area under the receiver operating characteristic curve (AUC) and calibration (slope and intercept). We retrained and recalibrated the original model and assessed performance via a temporal validation design. The final retrained model was cross-validated on all data from the new site. Readmission or death within 7 days after ICU discharge occurred in 577 of 10,052 ICU admissions (5.7%) at the new site. External validation revealed moderate discrimination with an AUC of 0.72 (95% CI 0.67–0.76). Retrained models showed improved discrimination with AUC 0.79 (95% CI 0.75–0.82) for the final validation model. Calibration was poor initially and good after recalibration via isotonic regression.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>CONCLUSIONS:</jats:title>\n            <jats:p>In this era of expanding availability of ML models, external validation and retraining are key steps to consider before applying ML models to new settings. Clinicians and decision-makers should take this into account when considering applying new ML models to their local settings.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1097/ccm.0000000000005758",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2022-12-16T14:05:38Z",
+      "timestamp": 1671199538000
+    },
+    "page": "291-300",
+    "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Predicting Readmission or Death After Discharge From the ICU: External Validation and Retraining of a Machine Learning Model"
+    ],
+    "prefix": "10.1097",
+    "volume": "51",
+    "author": [
+      {
+        "given": "Anne A. H.",
+        "family": "de Hond",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Information Technology and Digital Innovation, Leiden University Medical Centre, Leiden, The Netherlands."
+          },
+          {
+            "name": "Department of Biomedical Informatics, Stanford Medicine, Stanford, CA."
+          },
+          {
+            "name": "Department of Biomedical Data Sciences, Leiden University Medical Centre, Leiden, The Netherlands."
+          }
+        ]
+      },
+      {
+        "given": "Ilse M. J.",
+        "family": "Kant",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Information Technology and Digital Innovation, Leiden University Medical Centre, Leiden, The Netherlands."
+          },
+          {
+            "name": "Department of Biomedical Data Sciences, Leiden University Medical Centre, Leiden, The Netherlands."
+          }
+        ]
+      },
+      {
+        "given": "Mattia",
+        "family": "Fornasa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Pacmed, Stadhouderskade 55, Amsterdam, The Netherlands."
+          }
+        ]
+      },
+      {
+        "given": "Giovanni",
+        "family": "Cinà",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Pacmed, Stadhouderskade 55, Amsterdam, The Netherlands."
+          },
+          {
+            "name": "Institute of Logic, Language and Computation, University of Amsterdam, Amsterdam, The Netherlands."
+          }
+        ]
+      },
+      {
+        "given": "Paul W. G.",
+        "family": "Elbers",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Intensive Care Medicine, Laboratory for Critical Care Computational Intelligence, Amsterdam UMC, Amsterdam, The Netherlands."
+          }
+        ]
+      },
+      {
+        "given": "Patrick J.",
+        "family": "Thoral",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Intensive Care Medicine, Laboratory for Critical Care Computational Intelligence, Amsterdam UMC, Amsterdam, The Netherlands."
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Sesmu Arbous",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Intensive Care Medicine, Leiden University Medical Centre, Leiden, The Netherlands."
+          }
+        ]
+      },
+      {
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biomedical Data Sciences, Leiden University Medical Centre, Leiden, The Netherlands."
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "R1-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3389/fdgth.2022.833912",
+        "article-title": "Artificial intelligence and statistics: Just the old wine in new wineskins?",
+        "volume": "4",
+        "author": "Faes",
+        "year": "2022",
+        "journal-title": "Front Digital Health"
+      },
+      {
+        "key": "R2-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.3390/informatics8010016",
+        "article-title": "Application of machine learning in intensive care unit (ICU) settings using MIMIC dataset: Systematic review.",
+        "volume": "8",
+        "author": "Syed",
+        "year": "2021",
+        "journal-title": "Informatics"
+      },
+      {
+        "key": "R3-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "284",
+        "DOI": "10.1186/s13054-019-2564-9",
+        "article-title": "Use of machine learning to analyse routinely collected intensive care unit data: A systematic review.",
+        "volume": "23",
+        "author": "Shillan",
+        "year": "2019",
+        "journal-title": "Crit Care"
+      },
+      {
+        "key": "R4-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3389/fmed.2021.607952",
+        "article-title": "Early prediction of sepsis in the ICU using machine learning: A systematic review.",
+        "volume": "8",
+        "author": "Moor",
+        "year": "2021",
+        "journal-title": "Front Med"
+      },
+      {
+        "key": "R5-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "383",
+        "DOI": "10.1007/s00134-019-05872-y",
+        "article-title": "Machine learning for the prediction of sepsis: A systematic review and meta-analysis of diagnostic test accuracy.",
+        "volume": "46",
+        "author": "Fleuren",
+        "year": "2020",
+        "journal-title": "Intensive Care Med"
+      },
+      {
+        "key": "R6-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "110059",
+        "DOI": "10.1016/j.chaos.2020.110059",
+        "article-title": "Applications of machine learning and artificial intelligence for Covid-19 (SARS-CoV-2) pandemic: A review.",
+        "volume": "139",
+        "author": "Lalmuanawma",
+        "year": "2020",
+        "journal-title": "Chaos Solitons Fractals"
+      },
+      {
+        "key": "R7-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "100564",
+        "DOI": "10.1016/j.imu.2021.100564",
+        "article-title": "Machine learning approaches in COVID-19 diagnosis, mortality, and severity risk prediction: A review.",
+        "volume": "24",
+        "author": "Alballa",
+        "year": "2021",
+        "journal-title": "Inf Med Unlocked"
+      },
+      {
+        "key": "R8-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0529",
+        "DOI": "10.1097/CCE.0000000000000529",
+        "article-title": "Explainable machine learning on AmsterdamUMCdb for ICU discharge decision support: Uniting intensivists and data scientists.",
+        "volume": "3",
+        "author": "Thoral",
+        "year": "2021",
+        "journal-title": "Crit Care Explor"
+      },
+      {
+        "key": "R9-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "691",
+        "DOI": "10.1136/heartjnl-2011-301247",
+        "article-title": "Risk prediction models: II. External validation, model updating, and impact assessment.",
+        "volume": "98",
+        "author": "Moons",
+        "year": "2012",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "R10-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1001381",
+        "DOI": "10.1371/journal.pmed.1001381",
+        "article-title": "Prognosis research strategy (PROGRESS) 3: Prognostic model research.",
+        "volume": "10",
+        "author": "Steyerberg",
+        "year": "2013",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "R11-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1038/s41746-021-00549-7",
+        "article-title": "Guidelines and quality criteria for artificial intelligence-based prediction models in healthcare: A scoping review.",
+        "volume": "5",
+        "author": "de Hond",
+        "year": "2022",
+        "journal-title": "NPJ Digital Med"
+      },
+      {
+        "key": "R12-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "582",
+        "DOI": "10.1038/s41591-021-01312-x",
+        "article-title": "How medical AI devices are evaluated: Limitations and recommendations from an analysis of FDA approvals.",
+        "volume": "27",
+        "author": "Wu",
+        "year": "2021",
+        "journal-title": "Nat Med"
+      },
+      {
+        "key": "R13-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "750",
+        "DOI": "10.1007/s00134-021-06446-7",
+        "article-title": "Moving from bytes to bedside: A systematic review on the use of artificial intelligence in the intensive care unit.",
+        "volume": "47",
+        "author": "van de Sande",
+        "year": "2021",
+        "journal-title": "Intensive Care Med"
+      },
+      {
+        "key": "R14-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "e489",
+        "DOI": "10.1016/S2589-7500(20)30186-2",
+        "article-title": "The myth of generalisability in clinical research and machine learning in health care.",
+        "volume": "2",
+        "author": "Futoma",
+        "year": "2020",
+        "journal-title": "Lancet Digital Health"
+      },
+      {
+        "key": "R15-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "195",
+        "DOI": "10.1186/s12916-019-1426-2",
+        "article-title": "Key challenges for delivering clinical impact with artificial intelligence.",
+        "volume": "17",
+        "author": "Kelly",
+        "year": "2019",
+        "journal-title": "BMC Med"
+      },
+      {
+        "key": "R16-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "2024",
+        "DOI": "10.1093/jamia/ocaa085",
+        "article-title": "Patient safety and quality improvement: Ethical principles for a regulatory approach to bias in healthcare machine learning.",
+        "volume": "27",
+        "author": "McCradden",
+        "year": "2020",
+        "journal-title": "J Am Med Inform Assoc"
+      },
+      {
+        "key": "R18-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "103611",
+        "DOI": "10.1016/j.jbi.2020.103611",
+        "article-title": "Detection of calibration drift in clinical prediction models to inform model updating.",
+        "volume": "112",
+        "author": "Davis",
+        "year": "2020",
+        "journal-title": "J Biomed Inform"
+      },
+      {
+        "key": "R19-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "1065",
+        "DOI": "10.1001/jamainternmed.2021.2626",
+        "article-title": "External validation of a widely implemented proprietary sepsis prediction model in hospitalized patients.",
+        "volume": "181",
+        "author": "Wong",
+        "year": "2021",
+        "journal-title": "JAMA Int Med"
+      },
+      {
+        "key": "R20-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "b606",
+        "DOI": "10.1136/bmj.b606",
+        "article-title": "Prognosis and prognostic research: Application and impact of prognostic models in clinical practice.",
+        "volume": "338",
+        "author": "Moons",
+        "year": "2009",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "R21-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "230",
+        "DOI": "10.1186/s12916-019-1466-7",
+        "article-title": "Calibration: The Achilles heel of predictive analytics.",
+        "volume": "17",
+        "author": "Van Calster",
+        "year": "2019",
+        "journal-title": "BMC Med"
+      },
+      {
+        "key": "R22-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "1850",
+        "DOI": "10.1093/ije/dyv291",
+        "article-title": "Data resource profile: The Dutch National Intensive Care Evaluation (NICE) registry of admissions to adult intensive care units.",
+        "volume": "44",
+        "author": "van de Klundert",
+        "year": "2015",
+        "journal-title": "Int J Epidemiol"
+      },
+      {
+        "key": "R23-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3389/fdgth.2022.923944",
+        "article-title": "Commentary: Artificial intelligence and statistics: Just the old wine in new wineskins?",
+        "volume": "4",
+        "author": "de Hond",
+        "year": "2022",
+        "journal-title": "Front Digital Health"
+      },
+      {
+        "key": "R24-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "1925",
+        "DOI": "10.1093/eurheartj/ehu207",
+        "article-title": "Towards better clinical prediction models: Seven steps for development and an ABCD for validation.",
+        "volume": "35",
+        "author": "Steyerberg",
+        "year": "2014",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "R27-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1177/0272989X06295361",
+        "article-title": "Decision curve analysis: A novel method for evaluating prediction models.",
+        "volume": "26",
+        "author": "Vickers",
+        "year": "2006",
+        "journal-title": "Med Decis Making"
+      },
+      {
+        "key": "R28-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1186/s41512-019-0064-7",
+        "article-title": "A simple, step-by-step guide to interpreting decision curve analysis.",
+        "volume": "3",
+        "author": "Vickers",
+        "year": "2019",
+        "journal-title": "Diagn Progn Res"
+      },
+      {
+        "key": "R29-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "g7594",
+        "DOI": "10.1136/bmj.g7594",
+        "article-title": "Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): The TRIPOD statement.",
+        "volume": "350",
+        "author": "Collins",
+        "year": "2015",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "R30-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1038/s41746-021-00537-x",
+        "article-title": "Prediction across healthcare settings: A case study in predicting emergency department disposition.",
+        "volume": "4",
+        "author": "Barak-Corren",
+        "year": "2021",
+        "journal-title": "NPJ Digital Med"
+      },
+      {
+        "key": "R31-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1016/j.clinimag.2020.01.008",
+        "article-title": "Retraining an open-source pneumothorax detecting machine learning algorithm for improved performance to medical images.",
+        "volume": "61",
+        "author": "Kitamura",
+        "year": "2020",
+        "journal-title": "Clin Imaging"
+      },
+      {
+        "key": "R32-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "2567",
+        "DOI": "10.1002/sim.1844",
+        "article-title": "Validation and updating of predictive logistic regression models: A study on sample size and shrinkage.",
+        "volume": "23",
+        "author": "Steyerberg",
+        "year": "2004",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R33-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1016/j.jval.2021.06.018",
+        "article-title": "The potential cost-effectiveness of a machine learning tool that can prevent untimely intensive care unit discharge.",
+        "volume": "25",
+        "author": "de Vos",
+        "year": "2022",
+        "journal-title": "Value Health"
+      },
+      {
+        "key": "R34-20250502",
+        "first-page": "2215",
+        "article-title": "On calibration and out-of-domain generalization.",
+        "volume": "34",
+        "author": "Wald",
+        "year": "2020",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "R35-20250502",
+        "first-page": "50",
+        "article-title": "Federated learning: Challenges, methods, and future directions.",
+        "volume": "37",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "IEEE Signal Process Mag"
+      },
+      {
+        "key": "R36-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1016/j.inffus.2020.07.009",
+        "article-title": "Federated learning and differential privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy.",
+        "volume": "64",
+        "author": "Rodriguez-Barroso",
+        "year": "2020",
+        "journal-title": "Inf Fusion"
+      },
+      {
+        "key": "R37-20250502",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1097/EDE.0b013e3181c30fb2",
+        "article-title": "Assessing the performance of prediction models: A framework for traditional and novel measures.",
+        "volume": "21",
+        "author": "Steyerberg",
+        "year": "2010",
+        "journal-title": "Epidemiology"
+      }
+    ],
+    "container-title": [
+      "Critical Care Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/CCM.0000000000005758",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          2
+        ]
+      ],
+      "date-time": "2025-05-02T18:04:37Z",
+      "timestamp": 1746209077000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/10.1097/CCM.0000000000005758"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          16
+        ]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/ccm.0000000000005758",
+    "relation": {},
+    "ISSN": [
+      "0090-3493"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-3493",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          16
+        ]
+      ]
+    }
+  }
+}

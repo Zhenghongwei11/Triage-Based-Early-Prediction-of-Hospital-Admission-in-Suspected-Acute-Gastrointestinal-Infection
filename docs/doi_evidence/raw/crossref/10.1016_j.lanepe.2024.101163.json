@@ -1,0 +1,899 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          9
+        ]
+      ],
+      "date-time": "2026-01-09T17:58:13Z",
+      "timestamp": 1767981493459,
+      "version": "3.49.0"
+    },
+    "reference-count": 44,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              21
+            ]
+          ],
+          "date-time": "2024-11-21T00:00:00Z",
+          "timestamp": 1732147200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "KVW-00351"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "KVW-00351"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "thelancet.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Lancet Regional Health - Europe"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.lanepe.2024.101163",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2024-12-05T12:59:22Z",
+      "timestamp": 1733403562000
+    },
+    "page": "101163",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "special_numbering": "C",
+    "title": [
+      "Development and validation of artificial intelligence models for early detection of postoperative infections (PERISCOPE): a multicentre study using electronic health record data"
+    ],
+    "prefix": "10.1016",
+    "volume": "49",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9343-0899",
+        "authenticated-orcid": false,
+        "given": "Siri L.",
+        "family": "van der Meijden",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0774-0995",
+        "authenticated-orcid": false,
+        "given": "Anna M.",
+        "family": "van Boekel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3112-5231",
+        "authenticated-orcid": false,
+        "given": "Laurens J.",
+        "family": "Schinkelshoek",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Harry",
+        "family": "van Goor",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rob G.H.H.",
+        "family": "Nelissen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dieter",
+        "family": "Mesotten",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bart F.",
+        "family": "Geerts",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mark G.J.",
+        "family": "de Boer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5242-3257",
+        "authenticated-orcid": false,
+        "given": "M. Sesmu",
+        "family": "Arbous",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pieter",
+        "family": "de Heer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jaap",
+        "family": "Hamming",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Karin Ellen",
+        "family": "Veldkamp",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wilco",
+        "family": "Peul",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rolv-Ole",
+        "family": "Lindsetmo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Maxime",
+        "family": "Kummeling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jogchum",
+        "family": "Beltman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Merlijn",
+        "family": "Hutteman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Alma",
+        "family": "Tostman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wim",
+        "family": "Reijnen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bas",
+        "family": "Bredie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ilse",
+        "family": "Spenkelink",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ben",
+        "family": "Goethuys",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Noëlla",
+        "family": "Pierlet",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Joost",
+        "family": "Huiskens",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "15",
+        "key": "10.1016/j.lanepe.2024.101163_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1599",
+        "DOI": "10.1001/jama.2013.2773",
+        "article-title": "Relationship between occurrence of surgical complications and hospital finances",
+        "volume": "309",
+        "author": "Eappen",
+        "year": "2013",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lanepe.2024.101163_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "220",
+        "DOI": "10.1093/bjs/znaa075",
+        "article-title": "Postoperative infection and mortality following elective surgery in the International Surgical Outcomes Study (ISOS)",
+        "volume": "108",
+        "author": "Wan",
+        "year": "2021",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lanepe.2024.101163_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1136/qshc.2007.023622",
+        "article-title": "The incidence and nature of in-hospital adverse events: a systematic review",
+        "volume": "17",
+        "author": "de Vries",
+        "year": "2008",
+        "journal-title": "Qual Saf Health Care"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.lanepe.2024.101163_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1076",
+        "DOI": "10.1097/MLR.0b013e3182329b97",
+        "article-title": "Hospital volume and failure to rescue with high-risk surgery",
+        "volume": "49",
+        "author": "Ghaferi",
+        "year": "2011",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1067/msy.1999.98664",
+        "article-title": "The incidence and nature of surgical adverse events in Colorado and Utah in 1992",
+        "volume": "126",
+        "author": "Gawande",
+        "year": "1999",
+        "journal-title": "Surgery"
+      },
+      {
+        "issue": "9993",
+        "key": "10.1016/j.lanepe.2024.101163_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.1016/S0140-6736(15)60160-X",
+        "article-title": "Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development",
+        "volume": "386",
+        "author": "Meara",
+        "year": "2015",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lanepe.2024.101163_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "244",
+        "DOI": "10.1001/jama.2022.24075",
+        "article-title": "Surgical site infection prevention: a review",
+        "volume": "329",
+        "author": "Seidelman",
+        "year": "2023",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1017/S0950268811000100",
+        "article-title": "Hospital-acquired infections in Belgian acute-care hospitals: an estimation of their global impact on mortality, length of stay and healthcare costs",
+        "volume": "140",
+        "author": "Vrijens",
+        "year": "2012",
+        "journal-title": "Epidemiol Infect"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.lanepe.2024.101163_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "483",
+        "DOI": "10.1001/jama.2014.18614",
+        "article-title": "Underlying reasons associated with hospital readmission following surgery in the United States",
+        "volume": "313",
+        "author": "Merkow",
+        "year": "2015",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.lanepe.2024.101163_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1061",
+        "DOI": "10.1016/j.jiph.2020.06.006",
+        "article-title": "Artificial intelligence-based tools to control healthcare associated infections: a systematic review of the literature",
+        "volume": "13",
+        "author": "Scardoni",
+        "year": "2020",
+        "journal-title": "J Infect Public Health"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lanepe.2024.101163_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1014",
+        "DOI": "10.1016/j.surg.2021.10.002",
+        "article-title": "The prediction of surgical complications using artificial intelligence in patients undergoing major abdominal surgery: a systematic review",
+        "volume": "171",
+        "author": "Stam",
+        "year": "2022",
+        "journal-title": "Surgery"
+      },
+      {
+        "key": "10.1016/j.lanepe.2024.101163_bib12",
+        "article-title": "Performance of machine learning algorithms for surgical site infection case detection and prediction: a systematic review and meta-analysis",
+        "volume": "84",
+        "author": "Wu",
+        "year": "2022",
+        "journal-title": "Ann Med Surg (Lond)"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lanepe.2024.101163_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "130",
+        "DOI": "10.1016/j.crad.2022.09.131",
+        "article-title": "DECIDE-AI: a new reporting guideline and its relevance to artificial intelligence studies in radiology",
+        "volume": "78",
+        "author": "Vasey",
+        "year": "2023",
+        "journal-title": "Clin Radiol"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "195",
+        "DOI": "10.1186/s12916-019-1426-2",
+        "article-title": "Key challenges for delivering clinical impact with artificial intelligence",
+        "volume": "17",
+        "author": "Kelly",
+        "year": "2019",
+        "journal-title": "BMC Med"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.lanepe.2024.101163_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1040",
+        "DOI": "10.1001/jamainternmed.2021.3333",
+        "article-title": "The epic sepsis model falls short-the importance of external validation",
+        "volume": "181",
+        "author": "Habib",
+        "year": "2021",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "70",
+        "DOI": "10.1186/s12916-023-02779-w",
+        "article-title": "There is no such thing as a validated prediction model",
+        "volume": "21",
+        "author": "Van Calster",
+        "year": "2023",
+        "journal-title": "BMC Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1038/s43856-023-00279-9",
+        "article-title": "Guiding principles for the responsible development of artificial intelligence tools for healthcare",
+        "volume": "3",
+        "author": "Badal",
+        "year": "2023",
+        "journal-title": "Commun Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1038/s41746-021-00549-7",
+        "article-title": "Guidelines and quality criteria for artificial intelligence-based prediction models in healthcare: a scoping review",
+        "volume": "5",
+        "author": "de Hond",
+        "year": "2022",
+        "journal-title": "NPJ Digit Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1097/SLA.0000000000005853",
+        "article-title": "Artificial intelligence-enabled decision support in surgery: state-of-the-art and future directions",
+        "volume": "278",
+        "author": "Loftus",
+        "year": "2023",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lanepe.2024.101163_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1109/JBHI.2020.3032060",
+        "article-title": "Measuring domain shift for deep learning in histopathology",
+        "volume": "25",
+        "author": "Stacke",
+        "year": "2021",
+        "journal-title": "IEEE J Biomed Health Inform"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lanepe.2024.101163_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1016/S0167-9473(01)00065-2",
+        "article-title": "Stochastic gradient boosting",
+        "volume": "38",
+        "author": "Friedman",
+        "year": "2002",
+        "journal-title": "Comput Stat Data Anal"
+      },
+      {
+        "key": "10.1016/j.lanepe.2024.101163_bib22",
+        "article-title": "TRIPOD plus AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+        "volume": "385",
+        "author": "Collins",
+        "year": "2024",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lanepe.2024.101163_bib23",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1136/bmjopen-2012-000891",
+        "article-title": "Registration of surgical adverse outcomes: a reliability study in a university hospital",
+        "volume": "2",
+        "author": "Ubbink",
+        "year": "2012",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1016/j.jss.2010.08.042",
+        "article-title": "The accuracy of complications documented in a prospective complication registry",
+        "volume": "173",
+        "author": "Veen",
+        "year": "2012",
+        "journal-title": "J Surg Res"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lanepe.2024.101163_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1097/SLA.0b013e3181b13ca2",
+        "article-title": "The clavien-dindo classification of surgical complications",
+        "volume": "250",
+        "author": "Clavien",
+        "year": "2009",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.lanepe.2024.101163_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1525",
+        "DOI": "10.1093/jamia/ocac093",
+        "article-title": "The harm of class imbalance corrections for risk prediction models: illustration and simulation using logistic regression",
+        "volume": "29",
+        "author": "van den Goorbergh",
+        "year": "2022",
+        "journal-title": "J Am Med Inf Assoc"
+      },
+      {
+        "key": "10.1016/j.lanepe.2024.101163_bib27",
+        "series-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "first-page": "785",
+        "article-title": "XGBoost: a scalable tree boosting system",
+        "author": "Chen",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.lanepe.2024.101163_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "e617",
+        "DOI": "10.1016/j.wneu.2022.04.044",
+        "article-title": "XGBoost machine learning algorism performed better than regression models in predicting mortality of moderate-to-severe traumatic brain injury",
+        "volume": "163",
+        "author": "Wang",
+        "year": "2022",
+        "journal-title": "World Neurosurg"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lanepe.2024.101163_bib29",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0194085",
+        "article-title": "Predicting urinary tract infections in the emergency department with machine learning",
+        "volume": "13",
+        "author": "Taylor",
+        "year": "2018",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.lanepe.2024.101163_bib30",
+        "series-title": "Proceedings of the 31st International Conference on Neural Information Processing Systems",
+        "first-page": "4768",
+        "article-title": "A unified approach to interpreting model predictions",
+        "author": "Lundberg",
+        "year": "2017"
+      },
+      {
+        "issue": "29",
+        "key": "10.1016/j.lanepe.2024.101163_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "1925",
+        "DOI": "10.1093/eurheartj/ehu207",
+        "article-title": "Towards better clinical prediction models: seven steps for development and an ABCD for validation",
+        "volume": "35",
+        "author": "Steyerberg",
+        "year": "2014",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.lanepe.2024.101163_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1177/0272989X06295361",
+        "article-title": "Decision curve analysis: a novel method for evaluating prediction models",
+        "volume": "26",
+        "author": "Vickers",
+        "year": "2006",
+        "journal-title": "Med Decis Making"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1186/s41512-019-0064-7",
+        "article-title": "A simple, step-by-step guide to interpreting decision curve analysis",
+        "volume": "3",
+        "author": "Vickers",
+        "year": "2019",
+        "journal-title": "Diagn Progn Res"
+      },
+      {
+        "key": "10.1016/j.lanepe.2024.101163_bib35",
+        "article-title": "Assessing the utility of deep neural networks in detecting superficial surgical site infections from free text electronic health record data",
+        "volume": "5",
+        "author": "Bonde",
+        "year": "2023",
+        "journal-title": "Front Digit Health"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.lanepe.2024.101163_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "652",
+        "DOI": "10.1097/SLA.0000000000002706",
+        "article-title": "MySurgeryRisk: development and validation of a machine-learning risk algorithm for major complications and death after surgery",
+        "volume": "269",
+        "author": "Bihorac",
+        "year": "2019",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.lanepe.2024.101163_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "e489",
+        "DOI": "10.1016/S2589-7500(20)30186-2",
+        "article-title": "The myth of generalisability in clinical research and machine learning in health care",
+        "volume": "2",
+        "author": "Futoma",
+        "year": "2020",
+        "journal-title": "Lancet Digit Health"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.lanepe.2024.101163_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1065",
+        "DOI": "10.1001/jamainternmed.2021.2626",
+        "article-title": "External validation of a widely implemented proprietary sepsis prediction model in hospitalized patients",
+        "volume": "181",
+        "author": "Wong",
+        "year": "2021",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "key": "10.1016/j.lanepe.2024.101163_bib39",
+        "author": "Landhi"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lanepe.2024.101163_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1016/j.mayocp.2022.11.019",
+        "article-title": "A clinician's guide to running custom machine-learning models in an electronic health record environment",
+        "volume": "98",
+        "author": "Ryu",
+        "year": "2023",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.lanepe.2024.101163_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1302/0301-620X.104B2.BJJ-2021-1030.R1",
+        "article-title": "The association between socioeconomic status and the 30- and 90-day risk of infection after total hip arthroplasty: a registry-based cohort study of 103,901 patients with osteoarthritis",
+        "volume": "104-B",
+        "author": "Edwards",
+        "year": "2022",
+        "journal-title": "Bone Joint J"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1038/s41746-024-01037-4",
+        "article-title": "Why do probabilistic clinical models fail to transport between sites",
+        "volume": "7",
+        "author": "Lasko",
+        "year": "2024",
+        "journal-title": "NPJ Digit Med"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.lanepe.2024.101163_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "e893",
+        "DOI": "10.1016/S2589-7500(22)00154-6",
+        "article-title": "Leveraging electronic health records for data science: common pitfalls and how to avoid them",
+        "volume": "4",
+        "author": "Sauer",
+        "year": "2022",
+        "journal-title": "Lancet Digit Health"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.lanepe.2024.101163_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1001/jama.2023.26930",
+        "article-title": "A nationwide network of health AI assurance laboratories",
+        "volume": "331",
+        "author": "Shah",
+        "year": "2024",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.lanepe.2024.101163_bib47",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1136/bmjhci-2023-100749",
+        "article-title": "Validation framework for the use of AI in healthcare: overview of the new British standard BS30440",
+        "volume": "30",
+        "author": "Sujan",
+        "year": "2023",
+        "journal-title": "BMJ Health Care Inform"
+      }
+    ],
+    "container-title": [
+      "The Lancet Regional Health - Europe"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666776224003326?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666776224003326?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2025-02-03T09:31:34Z",
+      "timestamp": 1738575094000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2666776224003326"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "references-count": 44,
+    "alternative-id": [
+      "S2666776224003326"
+    ],
+    "URL": "https://doi.org/10.1016/j.lanepe.2024.101163",
+    "relation": {},
+    "ISSN": [
+      "2666-7762"
+    ],
+    "issn-type": [
+      {
+        "value": "2666-7762",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Development and validation of artificial intelligence models for early detection of postoperative infections (PERISCOPE): a multicentre study using electronic health record data",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The Lancet Regional Health - Europe",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.lanepe.2024.101163",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Author(s). Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "101163"
+  }
+}

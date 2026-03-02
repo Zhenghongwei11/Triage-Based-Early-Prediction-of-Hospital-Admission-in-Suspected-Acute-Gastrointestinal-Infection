@@ -1,0 +1,1722 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          14
+        ]
+      ],
+      "date-time": "2026-02-14T08:56:41Z",
+      "timestamp": 1771059401066,
+      "version": "3.50.1"
+    },
+    "reference-count": 127,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              8
+            ]
+          ],
+          "date-time": "2022-04-08T00:00:00Z",
+          "timestamp": 1649376000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              8
+            ]
+          ],
+          "date-time": "2022-04-08T00:00:00Z",
+          "timestamp": 1649376000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Med Res Methodol"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Describe and evaluate the methodological conduct of prognostic prediction models developed using machine learning methods in oncology.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>We conducted a systematic review in MEDLINE and Embase between 01/01/2019 and 05/09/2019, for studies developing a prognostic prediction model using machine learning methods in oncology. We used the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD) statement, Prediction model Risk Of Bias ASsessment Tool (PROBAST) and CHecklist for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS) to assess the methodological conduct of included publications. Results were summarised by modelling type: regression-, non-regression-based and ensemble machine learning models.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Sixty-two publications met inclusion criteria developing 152 models across all publications. Forty-two models were regression-based, 71 were non-regression-based and 39 were ensemble models. A median of 647 individuals (IQR: 203 to 4059) and 195 events (IQR: 38 to 1269) were used for model development, and 553 individuals (IQR: 69 to 3069) and 50 events (IQR: 17.5 to 326.5) for model validation. A higher number of events per predictor was used for developing regression-based models (median: 8, IQR: 7.1 to 23.5), compared to alternative machine learning (median: 3.4, IQR: 1.1 to 19.1) and ensemble models (median: 1.7, IQR: 1.1 to 6). Sample size was rarely justified (<jats:italic>n</jats:italic> = 5/62; 8%). Some or all continuous predictors were categorised before modelling in 24 studies (39%). 46% (<jats:italic>n</jats:italic> = 24/62) of models reporting predictor selection before modelling used univariable analyses, and common method across all modelling types. Ten out of 24 models for time-to-event outcomes accounted for censoring (42%). A split sample approach was the most popular method for internal validation (<jats:italic>n</jats:italic> = 25/62, 40%). Calibration was reported in 11 studies. Less than half of models were reported or made available.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>The methodological conduct of machine learning based clinical prediction models is poor. Guidance is urgently needed, with increased awareness and education of minimum prediction modelling standards. Particular focus is needed on sample size estimation, development and validation analysis methods, and ensuring the model is available for independent validation, to improve quality of machine learning based clinical prediction models.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1186/s12874-022-01577-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2022-04-08T10:07:20Z",
+      "timestamp": 1649412440000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 99,
+    "title": [
+      "Methodological conduct of prognostic prediction models developed using machine learning in oncology: a systematic review"
+    ],
+    "prefix": "10.1186",
+    "volume": "22",
+    "author": [
+      {
+        "given": "Paula",
+        "family": "Dhiman",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Constanza L.",
+        "family": "Andaur Navarro",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin",
+        "family": "Speich",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Garrett",
+        "family": "Bullock",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Johanna A. A.",
+        "family": "Damen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lotty",
+        "family": "Hooft",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shona",
+        "family": "Kirtley",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard D.",
+        "family": "Riley",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ben",
+        "family": "Van Calster",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Karel G. M.",
+        "family": "Moons",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gary S.",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1577_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "j2099",
+        "DOI": "10.1136/bmj.j2099",
+        "volume": "357",
+        "author": "J Hippisley-Cox",
+        "year": "2017",
+        "unstructured": "Hippisley-Cox J, Coupland C, Brindle P. Development and validation of QRISK3 risk prediction algorithms to estimate future risk of cardiovascular disease: prospective cohort study. BMJ. 2017;357:j2099.",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "7",
+        "key": "1577_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "860",
+        "DOI": "10.1002/bjs.5731",
+        "volume": "94",
+        "author": "C Pulitanò",
+        "year": "2007",
+        "unstructured": "Pulitanò C, Arru M, Bellio L, Rossini S, Ferla G, Aldrighetti L. A risk score for predicting perioperative blood transfusion in liver surgery. Br J Surg. 2007;94(7):860–5.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "11",
+        "key": "1577_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "987",
+        "DOI": "10.1016/S0195-668X(03)00114-3",
+        "volume": "24",
+        "author": "RM Conroy",
+        "year": "2003",
+        "unstructured": "Conroy RM, Pyörälä K, Fitzgerald AP, Sans S, Menotti A, De Backer G, et al. Estimation of ten-year risk of fatal cardiovascular disease in Europe: the SCORE project. Eur Heart J. 2003;24(11):987–1003.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "734",
+        "DOI": "10.1093/ejcts/ezs043",
+        "volume": "41",
+        "author": "SAM Nashef",
+        "year": "2012",
+        "unstructured": "Nashef SAM, Roques F, Sharples LD, Nilsson J, Smith C, Goldstone AR, et al. EuroSCORE II. Eur J Cardiothorac Surg. 2012;41(4):734–45.",
+        "journal-title": "Eur J Cardiothorac Surg"
+      },
+      {
+        "issue": "6",
+        "key": "1577_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1024",
+        "DOI": "10.1053/j.ajkd.2015.05.014",
+        "volume": "66",
+        "author": "M Thamer",
+        "year": "2015",
+        "unstructured": "Thamer M, Kaufman JS, Zhang Y, Zhang Q, Cotter DJ, Bang H. Predicting early death among elderly dialysis patients: development and validation of a risk score to assist shared decision making for dialysis initiation. Am J Kidney Dis. 2015;66(6):1024–32.",
+        "journal-title": "Am J Kidney Dis"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "e123",
+        "DOI": "10.1016/j.clgc.2018.09.018",
+        "volume": "17",
+        "author": "N Velazquez",
+        "year": "2019",
+        "unstructured": "Velazquez N, Press B, Renson A, Wysock JS, Taneja S, Huang WC, et al. Development of a novel prognostic risk score for predicting complications of penectomy in the surgical management of penile cancer. Clin Genitourin Cancer. 2019;17(1):e123–9.",
+        "journal-title": "Clin Genitourin Cancer"
+      },
+      {
+        "issue": "6",
+        "key": "1577_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1619",
+        "DOI": "10.1378/chest.100.6.1619",
+        "volume": "100",
+        "author": "WA Knaus",
+        "year": "1991",
+        "unstructured": "Knaus WA, Wagner DP, Draper EA, Zimmerman JE, Bergner M, Bastos PG, et al. The APACHE III prognostic system. Risk prediction of hospital mortality for critically ill hospitalized adults. Chest. 1991;100(6):1619–36.",
+        "journal-title": "Chest"
+      },
+      {
+        "issue": "2",
+        "key": "1577_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "137",
+        "DOI": "10.1308/003588414X14055925060514",
+        "volume": "97",
+        "author": "Y Fong",
+        "year": "2015",
+        "unstructured": "Fong Y, Evans J, Brook D, Kenkre J, Jarvis P, Gower-Thomas K. The Nottingham prognostic index: five- and ten-year data for all-cause survival within a screened population. Ann R Coll Surg Engl. 2015;97(2):137–9.",
+        "journal-title": "Ann R Coll Surg Engl"
+      },
+      {
+        "issue": "10",
+        "key": "1577_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "766",
+        "DOI": "10.1093/jnci/90.10.766",
+        "volume": "90",
+        "author": "MW Kattan",
+        "year": "1998",
+        "unstructured": "Kattan MW, Eastham JA, Stapleton AM, Wheeler TM, Scardino PT. A preoperative nomogram for disease recurrence following radical prostatectomy for prostate cancer. J Natl Cancer Inst. 1998;90(10):766–71.",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "issue": "9",
+        "key": "1577_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "746",
+        "DOI": "10.1089/jwh.2014.4742",
+        "volume": "23",
+        "author": "J Corbelli",
+        "year": "2014",
+        "unstructured": "Corbelli J, Borrero S, Bonnema R, McNamara M, Kraemer K, Rubio D, et al. Use of the gail model and breast cancer preventive therapy among three primary care specialties. J Women's Health. 2014;23(9):746–52.",
+        "journal-title": "J Women's Health"
+      },
+      {
+        "key": "1577_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1016/j.ebiom.2018.03.027",
+        "volume": "31",
+        "author": "M Markaki",
+        "year": "2018",
+        "unstructured": "Markaki M, Tsamardinos I, Langhammer A, Lagani V, Hveem K, Røe OD. A validated clinical risk prediction model for lung cancer in smokers of all ages and exposure types: a hunt study. EBioMedicine. 2018;31:36–46.",
+        "journal-title": "EBioMedicine"
+      },
+      {
+        "issue": "8",
+        "key": "1577_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "661",
+        "DOI": "10.1136/thoraxjnl-2020-214626",
+        "volume": "75",
+        "author": "MB Lebrett",
+        "year": "2020",
+        "unstructured": "Lebrett MB, Balata H, Evison M, Colligan D, Duerden R, Elton P, et al. Analysis of lung cancer risk model (PLCOM2012 and LLPv2) performance in a community-based lung cancer screening programme. Thorax. 2020;75(8):661–8.",
+        "journal-title": "Thorax"
+      },
+      {
+        "issue": "3",
+        "key": "1577_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "e007825",
+        "DOI": "10.1136/bmjopen-2015-007825",
+        "volume": "5",
+        "author": "J Hippisley-Cox",
+        "year": "2015",
+        "unstructured": "Hippisley-Cox J, Coupland C. Development and validation of risk prediction algorithms to estimate future risk of common cancers in men and women: prospective cohort study. BMJ Open. 2015;5(3):e007825.",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "issue": "5",
+        "key": "1577_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1001221",
+        "DOI": "10.1371/journal.pmed.1001221",
+        "volume": "9",
+        "author": "W Bouwmeester",
+        "year": "2012",
+        "unstructured": "Bouwmeester W, Zuithoff NPA, Mallett S, Geerlings MI, Vergouwe Y, Steyerberg EW, et al. Reporting and methods in clinical prediction research: a systematic review. Plos Med. 2012;9(5):e1001221.",
+        "journal-title": "Plos Med"
+      },
+      {
+        "issue": "8",
+        "key": "1577_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "e027192",
+        "DOI": "10.1136/bmjopen-2018-027192",
+        "volume": "9",
+        "author": "A Bradley",
+        "year": "2019",
+        "unstructured": "Bradley A, Meer RVD, McKay CJ. A systematic review of methodological quality of model development studies predicting prognostic outcome for resectable pancreatic cancer. BMJ Open. 2019;9(8):e027192.",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0185402",
+        "DOI": "10.1371/journal.pone.0185402",
+        "volume": "13",
+        "author": "M Fahey",
+        "year": "2018",
+        "unstructured": "Fahey M, Crayton E, Wolfe C, Douiri A. Clinical prediction models for mortality and functional outcome following ischemic stroke: a systematic review and meta-analysis. Plos One. 2018;13(1):e0185402.",
+        "journal-title": "Plos One"
+      },
+      {
+        "key": "1577_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "i2416",
+        "DOI": "10.1136/bmj.i2416",
+        "volume": "353",
+        "author": "JAAG Damen",
+        "year": "2016",
+        "unstructured": "Damen JAAG, Hooft L, Schuit E, Debray TPA, Collins GS, Tzoulaki I, et al. Prediction models for cardiovascular disease risk in the general population: systematic review. BMJ. 2016;353:i2416.",
+        "journal-title": "BMJ."
+      },
+      {
+        "issue": "6245",
+        "key": "1577_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "255",
+        "DOI": "10.1126/science.aaa8415",
+        "volume": "349",
+        "author": "MI Jordan",
+        "year": "2015",
+        "unstructured": "Jordan MI, Mitchell TM. Machine learning: trends, perspectives, and prospects. Science. 2015;349(6245):255–60.",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "7553",
+        "key": "1577_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "436",
+        "DOI": "10.1038/nature14539",
+        "volume": "521",
+        "author": "Y LeCun",
+        "year": "2015",
+        "unstructured": "LeCun Y, Bengio Y, Hinton G. Deep learning. Nature. 2015;521(7553):436–44.",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "85",
+        "DOI": "10.1186/s12916-021-01940-7",
+        "volume": "19",
+        "author": "A Banerjee",
+        "year": "2021",
+        "unstructured": "Banerjee A, Chen S, Fatemifar G, Zeina M, Lumbers RT, Mielke J, et al. Machine learning for subtype definition and risk prediction in heart failure, acute coronary syndromes and atrial fibrillation: systematic review of validity and clinical utility. BMC Med. 2021;19(1):85.",
+        "journal-title": "BMC Med"
+      },
+      {
+        "key": "1577_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "n2281",
+        "DOI": "10.1136/bmj.n2281",
+        "volume": "375",
+        "author": "CLA Navarro",
+        "year": "2021",
+        "unstructured": "Navarro CLA, Damen JAA, Takada T, Nijman SWJ, Dhiman P, Ma J, et al. Risk of bias in studies on prediction models developed using supervised machine learning techniques: systematic review. BMJ. 2021;375:n2281.",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "1577_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "12",
+        "DOI": "10.1016/j.jclinepi.2019.02.004",
+        "volume": "110",
+        "author": "E Christodoulou",
+        "year": "2019",
+        "unstructured": "Christodoulou E, Ma J, Collins GS, Steyerberg EW, Verbakel JY, Van Calster B. A systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models. J Clin Epidemiol. 2019;110:12–22.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "8",
+        "key": "1577_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "2078",
+        "DOI": "10.1007/s10620-019-05645-z",
+        "volume": "64",
+        "author": "D Shung",
+        "year": "2019",
+        "unstructured": "Shung D, Simonov M, Gentry M, Au B, Laine L. Machine learning to predict outcomes in patients with acute gastrointestinal bleeding: a systematic review. Dig Dis Sci. 2019;64(8):2078–87.",
+        "journal-title": "Dig Dis Sci"
+      },
+      {
+        "issue": "26",
+        "key": "1577_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "2507",
+        "DOI": "10.1056/NEJMp1702071",
+        "volume": "376",
+        "author": "JH Chen",
+        "year": "2017",
+        "unstructured": "Chen JH, Asch SM. Machine learning and prediction in medicine — beyond the peak of inflated expectations. N Engl J Med. 2017;376(26):2507–9.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "284",
+        "DOI": "10.1186/s13054-019-2564-9",
+        "volume": "23",
+        "author": "D Shillan",
+        "year": "2019",
+        "unstructured": "Shillan D, Sterne JAC, Champneys A, Gibbison B. Use of machine learning to analyse routinely collected intensive care unit data: a systematic review. Crit Care. 2019;23(1):284.",
+        "journal-title": "Crit Care"
+      },
+      {
+        "issue": "6",
+        "key": "1577_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0234722",
+        "DOI": "10.1371/journal.pone.0234722",
+        "volume": "15",
+        "author": "W Wang",
+        "year": "2020",
+        "unstructured": "Wang W, Kiik M, Peek N, Curcin V, Marshall IJ, Rudd AG, et al. A systematic review of machine learning models for predicting outcomes of stroke with structured data. Plos One. 2020;15(6):e0234722.",
+        "journal-title": "Plos One"
+      },
+      {
+        "key": "1577_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "104484",
+        "DOI": "10.1016/j.ijmedinf.2021.104484",
+        "volume": "151",
+        "author": "X Song",
+        "year": "2021",
+        "unstructured": "Song X, Liu X, Liu F, Wang C. Comparison of machine learning and logistic regression models in predicting acute kidney injury: a systematic review and meta-analysis. Int J Med Inform. 2021;151:104484.",
+        "journal-title": "Int J Med Inform"
+      },
+      {
+        "key": "1577_CR28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nagendran M, Chen Y, Lovejoy CA, Gordon AC, Komorowski M, Harvey H, et al. Artificial intelligence versus clinicians: systematic review of design, reporting standards, and claims of deep learning studies. BMJ. 2020;368 Cited 2020 Jun 8. Available from: https://www.bmj.com/content/368/bmj.m689.",
+        "DOI": "10.1136/bmj.m689"
+      },
+      {
+        "key": "1577_CR29",
+        "unstructured": "Dhiman P, Ma J, Navarro CA, Speich B, Bullock G, Damen JA, et al. Reporting of prognostic clinical prediction models based on machine learning methods in oncology needs to be improved. J Clin Epidemiol. 2021; Cited 2021 Jul 13. Available from: https://www.sciencedirect.com/science/article/pii/S089543562100202X."
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.1186/1741-7015-9-103",
+        "volume": "9",
+        "author": "GS Collins",
+        "year": "2011",
+        "unstructured": "Collins GS, Mallett S, Omar O, Yu L-M. Developing risk prediction models for type 2 diabetes: a systematic review of methodology and reporting. BMC Med. 2011;9(1):103.",
+        "journal-title": "BMC Med"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.1186/s12874-020-0913-7",
+        "volume": "20",
+        "author": "J Bridge",
+        "year": "2020",
+        "unstructured": "Bridge J, Blakey JD, Bonnett LJ. A systematic review of methodology used in the development of prediction models for future asthma exacerbation. BMC Med Res Methodol. 2020;20(1):22.",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.1016/j.jclinepi.2007.06.011",
+        "volume": "61",
+        "author": "NA Mushkudiani",
+        "year": "2008",
+        "unstructured": "Mushkudiani NA, Hukkelhoven CWPM, Hernández AV, Murray GD, Choi SC, Maas AIR, et al. A systematic review finds methodological improvements necessary for prognostic models in determining traumatic brain injury outcomes. J Clin Epidemiol. 2008;61(4):331–43.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "9",
+        "key": "1577_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "680",
+        "DOI": "10.1016/j.cardfail.2017.03.005",
+        "volume": "23",
+        "author": "BW Sahle",
+        "year": "2017",
+        "unstructured": "Sahle BW, Owen AJ, Chin KL, Reid CM. Risk prediction models for incident heart failure: a systematic review of methodology and model performance. J Card Fail. 2017;23(9):680–7.",
+        "journal-title": "J Card Fail"
+      },
+      {
+        "issue": "3",
+        "key": "1577_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "268",
+        "DOI": "10.1016/j.jclinepi.2012.06.020",
+        "volume": "66",
+        "author": "GS Collins",
+        "year": "2013",
+        "unstructured": "Collins GS, Omar O, Shanyinde M, Yu L-M. A systematic review finds prediction models for chronic kidney disease were poorly reported and often developed using inappropriate methods. J Clin Epidemiol. 2013;66(3):268–77.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "1577_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1016/j.jclinepi.2020.12.011",
+        "volume": "133",
+        "author": "SD Collins",
+        "year": "2021",
+        "unstructured": "Collins SD, Peek N, Riley RD, Martin GP. Sample sizes of prediction model studies in prostate cancer were rarely justified and often insufficient. J Clin Epidemiol. 2021;133:53–60.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "3",
+        "key": "1577_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "199",
+        "DOI": "10.1214/ss/1009213726",
+        "volume": "16",
+        "author": "L Breiman",
+        "year": "2001",
+        "unstructured": "Breiman L. Statistical modeling: the two cultures. Stat Sci. 2001;16(3):199–231.",
+        "journal-title": "Stat Sci"
+      },
+      {
+        "issue": "7",
+        "key": "1577_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1000097",
+        "DOI": "10.1371/journal.pmed.1000097",
+        "volume": "6",
+        "author": "D Moher",
+        "year": "2009",
+        "unstructured": "Moher D, Liberati A, Tetzlaff J, Altman DG, Group TP. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. Plos Med. 2009;6(7):e1000097.",
+        "journal-title": "Plos Med"
+      },
+      {
+        "key": "1577_CR38",
+        "unstructured": "A systematic review protocol of clinical prediction models using machine learning methods in oncology. PROSPERO. Cited 2020 Dec 19. Available from: https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=140361."
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "W1",
+        "DOI": "10.7326/M14-0698",
+        "volume": "162",
+        "author": "KGM Moons",
+        "year": "2015",
+        "unstructured": "Moons KGM, Altman DG, Reitsma JB, Ioannidis JPA, Macaskill P, Steyerberg EW, et al. Transparent Reporting of a multivariable prediction model for Individual Prognosis or Diagnosis (TRIPOD): explanation and elaboration. Ann Intern Med. 2015;162(1):W1–73.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "55",
+        "DOI": "10.7326/M14-0697",
+        "volume": "162",
+        "author": "GS Collins",
+        "year": "2015",
+        "unstructured": "Collins GS, Reitsma JB, Altman DG, Moons KGM. Transparent Reporting of a multivariable prediction model for Individual Prognosis or Diagnosis (TRIPOD): the TRIPOD statement. Ann Intern Med. 2015;162(1):55–63.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "1577_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "210",
+        "DOI": "10.1186/s13643-016-0384-4",
+        "volume": "5",
+        "author": "M Ouzzani",
+        "year": "2016",
+        "unstructured": "Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan — a web and mobile app for systematic reviews. Syst Rev. 2016;5:210.",
+        "journal-title": "Syst Rev"
+      },
+      {
+        "key": "1577_CR42",
+        "volume-title": "Endnote",
+        "author": "The Endnote Team",
+        "year": "2013",
+        "unstructured": "The Endnote Team. Endnote. Philadelphia: Clarivate Analytics; 2013."
+      },
+      {
+        "issue": "10",
+        "key": "1577_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1001744",
+        "DOI": "10.1371/journal.pmed.1001744",
+        "volume": "11",
+        "author": "KGM Moons",
+        "year": "2014",
+        "unstructured": "Moons KGM, de Groot JAH, Bouwmeester W, Vergouwe Y, Mallett S, Altman DG, et al. Critical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist. Plos Med. 2014;11(10):e1001744.",
+        "journal-title": "Plos Med"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "W1",
+        "DOI": "10.7326/M18-1377",
+        "volume": "170",
+        "author": "KGM Moons",
+        "year": "2019",
+        "unstructured": "Moons KGM, Wolff RF, Riley RD, Whiting PF, Westwood M, Collins GS, et al. PROBAST: a tool to assess risk of bias and applicability of prediction model studies: explanation and elaboration. Ann Intern Med. 2019;170(1):W1–33.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "51",
+        "DOI": "10.7326/M18-1376",
+        "volume": "170",
+        "author": "RF Wolff",
+        "year": "2019",
+        "unstructured": "Wolff RF, Moons KGM, Riley RD, Whiting PF, Westwood M, Collins GS, et al. PROBAST: a tool to assess the risk of bias and applicability of prediction model studies. Ann Intern Med. 2019;170(1):51–8.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "#cr-split#-1577_CR46.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heus P, Damen JAAG, Pajouheshnia R, Scholten RJPM, Reitsma JB, Collins GS, et al. Uniformity in measuring adherence to reporting guidelines: the example of TRIPOD for assessing completeness of reporting of prediction model studies. BMJ Open. 2019;9",
+        "DOI": "10.1136/bmjopen-2018-025611"
+      },
+      {
+        "key": "#cr-split#-1577_CR46.2",
+        "unstructured": "(4) Cited 2020 Feb 12. Available from: https://bmjopen.bmj.com/content/9/4/e025611."
+      },
+      {
+        "issue": "2",
+        "key": "1577_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "377e81",
+        "DOI": "10.1016/j.jbi.2008.08.010",
+        "volume": "42",
+        "author": "P Harris",
+        "year": "2009",
+        "unstructured": "Harris P, Taylor R, Thielke R, Payne J, Gonzalez N, Conde J. Research electronic data capture (REDCap)-metadata-driven methodology and workflow process for providing translational research informatics support. J Biomed Inform. 2009;42(2):377e81.",
+        "journal-title": "J Biomed Inform"
+      },
+      {
+        "key": "1577_CR48",
+        "volume-title": "Stata Statistical Software: Release 15",
+        "author": "StataCorp",
+        "year": "2017",
+        "unstructured": "StataCorp. Stata Statistical Software: Release 15. College Station: StataCorp LLC; 2017."
+      },
+      {
+        "issue": "12",
+        "key": "1577_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "1751",
+        "DOI": "10.1007/s00270-019-02331-5",
+        "volume": "42",
+        "author": "H-F Zhou",
+        "year": "2019",
+        "unstructured": "Zhou H-F, Lu J, Zhu H-D, Guo J-H, Huang M, Ji J-S, et al. Early warning models to estimate the 30-day mortality risk after stent placement for patients with malignant biliary obstruction. Cardiovasc Intervent Radiol. 2019;42(12):1751–9.",
+        "journal-title": "Cardiovasc Intervent Radiol"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "610",
+        "DOI": "10.1186/s12885-019-5827-6",
+        "volume": "19",
+        "author": "L Dihge",
+        "year": "2019",
+        "unstructured": "Dihge L, Ohlsson M, Edén P, Bendahl P-O, Rydén L. Artificial neural network models to predict nodal status in clinically node-negative breast cancer. BMC Cancer. 2019;19(1):610.",
+        "journal-title": "BMC Cancer"
+      },
+      {
+        "key": "1577_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "106",
+        "DOI": "10.1016/j.radonc.2019.01.003",
+        "volume": "133",
+        "author": "JM Luna",
+        "year": "2019",
+        "unstructured": "Luna JM, Chao H-H, Diffenderfer ES, Valdes G, Chinniah C, Ma G, et al. Predicting radiation pneumonitis in locally advanced stage II-III non-small cell lung cancer using machine learning. Radiother Oncol. 2019;133:106–12.",
+        "journal-title": "Radiother Oncol"
+      },
+      {
+        "key": "1577_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "e124",
+        "DOI": "10.1016/j.wneu.2019.02.183",
+        "volume": "127",
+        "author": "X-G Yang",
+        "year": "2019",
+        "unstructured": "Yang X-G, Wang F, Feng J-T, Hu Y-C, Lun D-X, Hua K-C, et al. Recursive Partitioning Analysis (RPA) of prognostic factors for overall survival in patients with spinal metastasis: a new system for stratified treatment. World Neurosurg. 2019;127:e124–31.",
+        "journal-title": "World Neurosurg"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "381.e1",
+        "DOI": "10.1016/j.ajog.2018.12.030",
+        "volume": "220",
+        "author": "K Matsuo",
+        "year": "2019",
+        "unstructured": "Matsuo K, Purushotham S, Jiang B, Mandelbaum RS, Takiuchi T, Liu Y, et al. Survival outcome prediction in cervical cancer: Cox models vs deep-learning model. Am J Obstet Gynecol. 2019;220(4):381.e1–381.e14.",
+        "journal-title": "Am J Obstet Gynecol"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "254",
+        "DOI": "10.1148/radiol.2018180257",
+        "volume": "290",
+        "author": "MH Khalaf",
+        "year": "2019",
+        "unstructured": "Khalaf MH, Sundaram V, AbdelRazek Mohammed MA, Shah R, Khosla A, Jackson K, et al. A predictive model for postembolization syndrome after transarterial hepatic chemoembolization of hepatocellular carcinoma. Radiology. 2019;290(1):254–61.",
+        "journal-title": "Radiology"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "51",
+        "DOI": "10.1111/bju.14477",
+        "volume": "123",
+        "author": "NC Wong",
+        "year": "2019",
+        "unstructured": "Wong NC, Lam C, Patterson L, Shayegan B. Use of machine learning to predict early biochemical recurrence after robot-assisted prostatectomy. BJU Int. 2019;123(1):51–7.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "2",
+        "key": "1577_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "1054",
+        "DOI": "10.1002/mp.13314",
+        "volume": "46",
+        "author": "WD Lindsay",
+        "year": "2019",
+        "unstructured": "Lindsay WD, Ahern CA, Tobias JS, Berlind CG, Chinniah C, Gabriel PE, et al. Automated data extraction and ensemble methods for predictive modeling of breast cancer outcomes after radiation therapy. Med Phys. 2019;46(2):1054–63.",
+        "journal-title": "Med Phys"
+      },
+      {
+        "key": "1577_CR57",
+        "first-page": "438",
+        "volume": "264",
+        "author": "Y-H Wang",
+        "year": "2019",
+        "unstructured": "Wang Y-H, Nguyen P-A, Islam MM, Li Y-C, Yang H-C. Development of deep learning algorithm for detection of colorectal cancer in EHR data. Stud Health Technol Inform. 2019;264:438–41.",
+        "journal-title": "Stud Health Technol Inform"
+      },
+      {
+        "issue": "3",
+        "key": "1577_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "384",
+        "DOI": "10.1093/neuros/nyy343",
+        "volume": "85",
+        "author": "WE Muhlestein",
+        "year": "2019",
+        "unstructured": "Muhlestein WE, Akagi DS, Davies JM, Chambless LB. Predicting inpatient length of stay after brain tumor surgery: developing machine learning ensembles to improve predictive performance. Neurosurgery. 2019;85(3):384–93.",
+        "journal-title": "Neurosurgery"
+      },
+      {
+        "key": "1577_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "75",
+        "DOI": "10.32725/jab.2018.007",
+        "volume": "17",
+        "author": "Iraji ms.",
+        "year": "2019",
+        "unstructured": "Iraji ms. Deep stacked sparse auto-encoders for prediction of post-operative survival expectancy in thoracic lung cancer surgery. J Appl Biomed. 2019;17:75.",
+        "journal-title": "J Appl Biomed"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "E83",
+        "DOI": "10.1093/neuros/nyy469",
+        "volume": "85",
+        "author": "AV Karhade",
+        "year": "2019",
+        "unstructured": "Karhade AV, Thio QCBS, Ogink PT, Shah AA, Bono CM, Oh KS, et al. Development of machine learning algorithms for prediction of 30-day mortality after surgery for spinal metastasis. Neurosurgery. 2019;85(1):E83–91.",
+        "journal-title": "Neurosurgery"
+      },
+      {
+        "key": "1577_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "103117",
+        "DOI": "10.1016/j.jbi.2019.103117",
+        "volume": "92",
+        "author": "S Chi",
+        "year": "2019",
+        "unstructured": "Chi S, Li X, Tian Y, Li J, Kong X, Ding K, et al. Semi-supervised learning to improve generalizability of risk prediction models. J Biomed Inform. 2019;92:103117.",
+        "journal-title": "J Biomed Inform"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "210",
+        "DOI": "10.1186/s12885-019-5432-8",
+        "volume": "19",
+        "author": "Y Xu",
+        "year": "2019",
+        "unstructured": "Xu Y, Kong S, Cheung WY, Bouchard-Fortier A, Dort JC, Quan H, et al. Development and validation of case-finding algorithms for recurrence of breast cancer using routinely collected administrative data. BMC Cancer. 2019;19(1):210.",
+        "journal-title": "BMC Cancer"
+      },
+      {
+        "issue": "5",
+        "key": "1577_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "1165",
+        "DOI": "10.1007/s11605-019-04373-z",
+        "volume": "24",
+        "author": "B Zhao",
+        "year": "2020",
+        "unstructured": "Zhao B, Gabriel RA, Vaida F, Lopez NE, Eisenstein S, Clary BM. Predicting overall survival in patients with metastatic rectal cancer: a machine learning approach. J Gastrointest Surg. 2020;24(5):1165–72.",
+        "journal-title": "J Gastrointest Surg"
+      },
+      {
+        "key": "#cr-split#-1577_CR64.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Günakan E, Atan S, Haberal AN, Küçükyıldız İA, Gökçe E, Ayhan A. A novel prediction method for lymph node involvement in endometrial cancer: machine learning. Int J Gynecol Cancer. 2019;29",
+        "DOI": "10.1136/ijgc-2018-000033"
+      },
+      {
+        "key": "#cr-split#-1577_CR64.2",
+        "unstructured": "(2) Cited 2021 Mar 5. Available from: https://ijgc.bmj.com/content/29/2/320."
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "46",
+        "DOI": "10.1186/s12904-019-0429-2",
+        "volume": "18",
+        "author": "OM Vagnildhaug",
+        "year": "2019",
+        "unstructured": "Vagnildhaug OM, Brunelli C, Hjermstad MJ, Strasser F, Baracos V, Wilcock A, et al. A prospective study examining cachexia predictors in patients with incurable cancer. BMC Palliat Care. 2019;18(1):46.",
+        "journal-title": "BMC Palliat Care"
+      },
+      {
+        "key": "1577_CR66",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thapa S, Fischbach L, Delongchanp R, Faramawi M, Orloff M. Using machine learning to predict progression in the gastric precancerous process in a population from a developing country who underwent a gastroscopy for dyspeptic symptoms. Cited 2021 Mar 5. Available from: https://www.hindawi.com/journals/grp/2019/8321942/",
+        "DOI": "10.1155/2019/8321942"
+      },
+      {
+        "issue": "7",
+        "key": "1577_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "2291",
+        "DOI": "10.1002/hed.25682",
+        "volume": "41",
+        "author": "Y Xu",
+        "year": "2019",
+        "unstructured": "Xu Y, Kong S, Cheung WY, Quan ML, Nakoneshny SC, Dort JC. Developing case-finding algorithms for second events of oropharyngeal cancer using administrative data: A population-based validation study. Head Neck. 2019;41(7):2291–8.",
+        "journal-title": "Head Neck"
+      },
+      {
+        "issue": "6",
+        "key": "1577_CR68",
+        "doi-asserted-by": "publisher",
+        "first-page": "901",
+        "DOI": "10.1016/j.eururo.2018.09.050",
+        "volume": "75",
+        "author": "GB Auffenberg",
+        "year": "2019",
+        "unstructured": "Auffenberg GB, Ghani KR, Ramani S, Usoro E, Denton B, Rogers C, et al. askMUSIC: leveraging a clinical registry to develop a new machine learning model to inform patients of prostate cancer treatments chosen by similar men. Eur Urol. 2019;75(6):901–7.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "489",
+        "DOI": "10.1007/s00428-019-02642-5",
+        "volume": "475",
+        "author": "RO Alabi",
+        "year": "2019",
+        "unstructured": "Alabi RO, Elmusrati M, Sawazaki-Calone I, Kowalski LP, Haglund C, Coletta RD, et al. Machine learning application for prediction of locoregional recurrences in early oral tongue cancer: a Web-based prognostic tool. Virchows Arch. 2019;475(4):489–97.",
+        "journal-title": "Virchows Arch"
+      },
+      {
+        "key": "1577_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "153",
+        "DOI": "10.1016/j.pmedr.2018.11.007",
+        "volume": "13",
+        "author": "MZ Greene",
+        "year": "2019",
+        "unstructured": "Greene MZ, Hughes TL, Hanlon A, Huang L, Sommers MS, Meghani SH. Predicting cervical cancer screening among sexual minority women using classification and regression tree analysis. Prev Med Rep. 2019;13:153–9.",
+        "journal-title": "Prev Med Rep"
+      },
+      {
+        "issue": "8",
+        "key": "1577_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0221421",
+        "DOI": "10.1371/journal.pone.0221421",
+        "volume": "14",
+        "author": "BJ Nartowt",
+        "year": "2019",
+        "unstructured": "Nartowt BJ, Hart GR, Roffman DA, Llor X, Ali I, Muhammad W, et al. Scoring colorectal cancer risk with an artificial neural network based on self-reportable personal health data. Plos One. 2019;14(8):e0221421.",
+        "journal-title": "Plos One"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "12384",
+        "DOI": "10.1038/s41598-019-48769-y",
+        "volume": "9",
+        "author": "J Taninaga",
+        "year": "2019",
+        "unstructured": "Taninaga J, Nishiyama Y, Fujibayashi K, Gunji T, Sasabe N, Iijima K, et al. Prediction of future gastric cancer risk using a machine learning algorithm and comprehensive medical check-up data: a case-control study. Sci Rep. 2019;9(1):12384.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "issue": "23",
+        "key": "1577_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "4124",
+        "DOI": "10.1002/sim.6986",
+        "volume": "35",
+        "author": "GS Collins",
+        "year": "2016",
+        "unstructured": "Collins GS, Ogundimu EO, Cook JA, Manach YL, Altman DG. Quantifying the impact of different approaches for handling continuous predictors on the performance of a prognostic model. Stat Med. 2016;35(23):4124–35.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "20",
+        "DOI": "10.1016/j.jphs.2019.03.004",
+        "volume": "140",
+        "author": "E Oyaga-Iriarte",
+        "year": "2019",
+        "unstructured": "Oyaga-Iriarte E, Insausti A, Sayar O, Aldaz A. Prediction of irinotecan toxicity in metastatic colorectal cancer patients based on machine learning models with pharmacokinetic parameters. J Pharmacol Sci. 2019;140(1):20–5.",
+        "journal-title": "J Pharmacol Sci"
+      },
+      {
+        "issue": "3",
+        "key": "1577_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "495",
+        "DOI": "10.1007/s11060-019-03181-4",
+        "volume": "143",
+        "author": "P Yan",
+        "year": "2019",
+        "unstructured": "Yan P, Huang R, Hu P, Liu F, Zhu X, Hu P, et al. Nomograms for predicting the overall and cause-specific survival in patients with malignant peripheral nerve sheath tumor: a population-based study. J Neuro-Oncol. 2019;143(3):495–503.",
+        "journal-title": "J Neuro-Oncol"
+      },
+      {
+        "key": "1577_CR76",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ryu SM, Lee S-H, Kim E-S, Eoh W. Predicting survival of patients with spinal ependymoma using machine learning algorithms with the SEER database. World Neurosurg. 2019;124:e331–e339",
+        "DOI": "10.1016/j.wneu.2018.12.091"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "10744",
+        "DOI": "10.1038/s41598-019-47211-7",
+        "volume": "9",
+        "author": "S-S Feng",
+        "year": "2019",
+        "unstructured": "Feng S-S, Li H, Fan F, Li J, Cao H, Xia Z-W, et al. Clinical characteristics and disease-specific prognostic nomogram for primary gliosarcoma: a SEER population-based analysis. Sci Rep. 2019;9(1):10744.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "E756",
+        "DOI": "10.1093/neuros/nyz145",
+        "volume": "85",
+        "author": "CHB van Niftrik",
+        "year": "2019",
+        "unstructured": "van Niftrik CHB, van der Wouden F, Staartjes VE, Fierstra J, Stienen MN, Akeret K, et al. Machine learning algorithm identifies patients at high risk for early complications after intracranial tumor surgery: registry-based cohort study. Neurosurgery. 2019;85(4):E756–64.",
+        "journal-title": "Neurosurgery"
+      },
+      {
+        "issue": "8",
+        "key": "1577_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "1843",
+        "DOI": "10.1007/s11605-019-04338-2",
+        "volume": "24",
+        "author": "K Merath",
+        "year": "2020",
+        "unstructured": "Merath K, Hyer JM, Mehta R, Farooq A, Bagante F, Sahara K, et al. Use of machine learning for prediction of patient risk of postoperative complications after liver, pancreatic, and colorectal surgery. J Gastrointest Surg. 2020;24(8):1843–51.",
+        "journal-title": "J Gastrointest Surg"
+      },
+      {
+        "issue": "12",
+        "key": "1577_CR80",
+        "doi-asserted-by": "publisher",
+        "first-page": "3955",
+        "DOI": "10.1245/s10434-019-07690-4",
+        "volume": "26",
+        "author": "ME Egger",
+        "year": "2019",
+        "unstructured": "Egger ME, Stevenson M, Bhutiani N, Jordan AC, Scoggins CR, Philips P, et al. Age and lymphovascular invasion accurately predict sentinel lymph node metastasis in T2 melanoma patients. Ann Surg Oncol. 2019;26(12):3955–61.",
+        "journal-title": "Ann Surg Oncol"
+      },
+      {
+        "issue": "6",
+        "key": "1577_CR81",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0218283",
+        "DOI": "10.1371/journal.pone.0218283",
+        "volume": "14",
+        "author": "JCR Alcantud",
+        "year": "2019",
+        "unstructured": "Alcantud JCR, Varela G, Santos-Buitrago B, Santos-García G, Jiménez MF. Analysis of survival for lung cancer resections cases with fuzzy and soft set theory in surgical decision making. Plos One. 2019;14(6):e0218283.",
+        "journal-title": "Plos One"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "163",
+        "DOI": "10.1186/s12874-016-0267-3",
+        "volume": "16",
+        "author": "M van Smeden",
+        "year": "2016",
+        "unstructured": "van Smeden M, de Groot JAH, Moons KGM, Collins GS, Altman DG, Eijkemans MJC, et al. No rationale for 1 variable per 10 events criterion for binary logistic regression analysis. BMC Med Res Methodol. 2016;16(1):163.",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR83",
+        "doi-asserted-by": "publisher",
+        "first-page": "58",
+        "DOI": "10.1016/j.clbc.2018.08.001",
+        "volume": "19",
+        "author": "J Hammer",
+        "year": "2019",
+        "unstructured": "Hammer J, Geinitz H, Nieder C, Track C, Thames HD, Seewald DH, et al. Risk factors for local relapse and inferior disease-free survival after breast-conserving management of breast cancer: recursive partitioning analysis of 2161 patients. Clin Breast Cancer. 2019;19(1):58–62.",
+        "journal-title": "Clin Breast Cancer"
+      },
+      {
+        "key": "1577_CR84",
+        "doi-asserted-by": "publisher",
+        "first-page": "2674",
+        "DOI": "10.12688/f1000research.8192.1",
+        "volume": "5",
+        "author": "M Mahmoudian",
+        "year": "2016",
+        "unstructured": "Mahmoudian M, Seyednasrollah F, Koivu L, Hirvonen O, Jyrkkiö S, Elo LL. A predictive model of overall survival in patients with metastatic castration-resistant prostate cancer. F1000Res. 2016;5:2674.",
+        "journal-title": "F1000Res"
+      },
+      {
+        "issue": "11",
+        "key": "1577_CR85",
+        "doi-asserted-by": "publisher",
+        "first-page": "4213",
+        "DOI": "10.1007/s00520-019-04699-z",
+        "volume": "27",
+        "author": "B Zheng",
+        "year": "2019",
+        "unstructured": "Zheng B, Lin J, Li Y, Zhuo X, Huang X, Shen Q, et al. Predictors of the therapeutic effect of corticosteroids on radiation-induced optic neuropathy following nasopharyngeal carcinoma. Support Care Cancer. 2019;27(11):4213–9.",
+        "journal-title": "Support Care Cancer"
+      },
+      {
+        "key": "1577_CR86",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li M, Zhan C, Sui X, Jiang W, Shi Y, Yang X, et al. A proposal to reflect survival difference and modify the staging system for lung adenocarcinoma and squamous cell carcinoma: based on the machine learning. Front Oncol. 2019;9 Cited 2021 Mar 5. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6702456/.",
+        "DOI": "10.3389/fonc.2019.00771"
+      },
+      {
+        "issue": "2",
+        "key": "1577_CR87",
+        "doi-asserted-by": "publisher",
+        "first-page": "171",
+        "DOI": "10.1002/pds.4681",
+        "volume": "28",
+        "author": "DC Beachler",
+        "year": "2019",
+        "unstructured": "Beachler DC, de Luise C, Yin R, Gangemi K, Cochetti PT, Lanes S. Predictive model algorithms identifying early and advanced stage ER+/HER2- breast cancer in claims data. Pharmacoepidemiol Drug Saf. 2019;28(2):171–8.",
+        "journal-title": "Pharmacoepidemiol Drug Saf"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR88",
+        "doi-asserted-by": "publisher",
+        "first-page": "530",
+        "DOI": "10.1016/j.brachy.2019.04.004",
+        "volume": "18",
+        "author": "Z Tian",
+        "year": "2019",
+        "unstructured": "Tian Z, Yen A, Zhou Z, Shen C, Albuquerque K, Hrycushko B. A machine-learning–based prediction model of fistula formation after interstitial brachytherapy for locally advanced gynecological malignancies. Brachytherapy. 2019;18(4):530–8.",
+        "journal-title": "Brachytherapy"
+      },
+      {
+        "issue": "18",
+        "key": "1577_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "4189",
+        "DOI": "10.7150/jca.33945",
+        "volume": "10",
+        "author": "B Obrzut",
+        "year": "2019",
+        "unstructured": "Obrzut B, Kusy M, Semczuk A, Obrzut M, Kluska J. Prediction of 10-year overall survival in patients with operable cervical cancer using a probabilistic neural network. J Cancer. 2019;10(18):4189–95.",
+        "journal-title": "J Cancer"
+      },
+      {
+        "issue": "11",
+        "key": "1577_CR90",
+        "doi-asserted-by": "publisher",
+        "first-page": "5058",
+        "DOI": "10.1002/cam4.2401",
+        "volume": "8",
+        "author": "K Fuse",
+        "year": "2019",
+        "unstructured": "Fuse K, Uemura S, Tamura S, Suwabe T, Katagiri T, Tanaka T, et al. Patient-based prediction algorithm of relapse after allo-HSCT for acute Leukemia and its usefulness in the decision-making process using a machine learning approach. Cancer Med. 2019;8(11):5058–67.",
+        "journal-title": "Cancer Med"
+      },
+      {
+        "issue": "8",
+        "key": "1577_CR91",
+        "doi-asserted-by": "publisher",
+        "first-page": "771",
+        "DOI": "10.1016/j.bjoms.2019.05.026",
+        "volume": "57",
+        "author": "D Tighe",
+        "year": "2019",
+        "unstructured": "Tighe D, Lewis-Morris T, Freitas A. Machine learning methods applied to audit of surgical outcomes after treatment for cancer of the head and neck. Br J Oral Maxillofac Surg. 2019;57(8):771–7.",
+        "journal-title": "Br J Oral Maxillofac Surg"
+      },
+      {
+        "key": "1577_CR92",
+        "doi-asserted-by": "publisher",
+        "first-page": "79",
+        "DOI": "10.1016/j.ijmedinf.2019.05.003",
+        "volume": "128",
+        "author": "Y-J Tseng",
+        "year": "2019",
+        "unstructured": "Tseng Y-J, Huang C-E, Wen C-N, Lai P-Y, Wu M-H, Sun Y-C, et al. Predicting breast cancer metastasis by using serum biomarkers and clinicopathological data with machine learning technologies. Int J Med Inform. 2019;128:79–86.",
+        "journal-title": "Int J Med Inform"
+      },
+      {
+        "key": "1577_CR93",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sala Elarre P, Oyaga-Iriarte E, Yu KH, Baudin V, Arbea Moreno L, Carranza O, et al. Use of machine-learning algorithms in intensified preoperative therapy of pancreatic cancer to predict individual risk of relapse. Cancers (Basel). 2019;11(5):606.",
+        "DOI": "10.3390/cancers11050606"
+      },
+      {
+        "issue": "11",
+        "key": "1577_CR94",
+        "doi-asserted-by": "publisher",
+        "first-page": "1277",
+        "DOI": "10.1001/jamadermatol.2019.2335",
+        "volume": "155",
+        "author": "H-H Wang",
+        "year": "2019",
+        "unstructured": "Wang H-H, Wang Y-H, Liang C-W, Li Y-C. Assessment of deep learning using nonimaging information and sequential medical records to develop a prediction model for nonmelanoma skin cancer. JAMA Dermatol. 2019;155(11):1277–83.",
+        "journal-title": "JAMA Dermatol."
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR95",
+        "doi-asserted-by": "publisher",
+        "first-page": "e65",
+        "DOI": "10.3802/jgo.2019.30.e65",
+        "volume": "30",
+        "author": "ES Paik",
+        "year": "2019",
+        "unstructured": "Paik ES, Lee JW, Park JY, Kim JH, Kim M, Kim TJ, et al. Prediction of survival outcomes in patients with epithelial ovarian cancer using machine learning methods. J Gynecol Oncol. 2019;30(4):e65.",
+        "journal-title": "J Gynecol Oncol"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR96",
+        "doi-asserted-by": "publisher",
+        "first-page": "E671",
+        "DOI": "10.1093/neuros/nyz070",
+        "volume": "85",
+        "author": "AV Karhade",
+        "year": "2019",
+        "unstructured": "Karhade AV, Thio QCBS, Ogink PT, Bono CM, Ferrone ML, Oh KS, et al. Predicting 90-day and 1-year mortality in spinal metastatic disease: development and internal validation. Neurosurgery. 2019;85(4):E671–81.",
+        "journal-title": "Neurosurgery"
+      },
+      {
+        "issue": "6",
+        "key": "1577_CR97",
+        "doi-asserted-by": "publisher",
+        "first-page": "866",
+        "DOI": "10.1016/j.pan.2019.07.038",
+        "volume": "19",
+        "author": "A Facciorusso",
+        "year": "2019",
+        "unstructured": "Facciorusso A, Del Prete V, Antonino M, Buccino VR, Muscatiello N. Response to repeat echoendoscopic celiac plexus neurolysis in pancreatic cancer patients: a machine learning approach. Pancreatology. 2019;19(6):866–72.",
+        "journal-title": "Pancreatology"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR98",
+        "doi-asserted-by": "publisher",
+        "first-page": "5944",
+        "DOI": "10.1038/s41598-019-42451-z",
+        "volume": "9",
+        "author": "J-M Lemée",
+        "year": "2019",
+        "unstructured": "Lemée J-M, Corniola MV, Da Broi M, Joswig H, Scheie D, Schaller K, et al. extent of resection in meningioma: predictive factors and clinical implications. Sci Rep. 2019;9(1):5944.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "1577_CR99",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang CQ, Gardiner L, Wang H, Hueman MT, Chen D. Creating prognostic systems for well-differentiated thyroid cancer using machine learning. Front Endocrinol (Lausanne). 2019;10 Cited 2021 Mar 5. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6517862/.",
+        "DOI": "10.3389/fendo.2019.00288"
+      },
+      {
+        "issue": "5",
+        "key": "1577_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "1003",
+        "DOI": "10.1007/s00701-019-03862-z",
+        "volume": "161",
+        "author": "MV Corniola",
+        "year": "2019",
+        "unstructured": "Corniola MV, Lemée J-M, Da Broi M, Joswig H, Schaller K, Helseth E, et al. Posterior fossa meningiomas: perioperative predictors of extent of resection, overall survival and progression-free survival. Acta Neurochir. 2019;161(5):1003–11.",
+        "journal-title": "Acta Neurochir"
+      },
+      {
+        "issue": "7",
+        "key": "1577_CR101",
+        "doi-asserted-by": "publisher",
+        "first-page": "201",
+        "DOI": "10.1007/s10916-019-1297-2",
+        "volume": "43",
+        "author": "R Kaviarasi",
+        "year": "2019",
+        "unstructured": "Kaviarasi R, Gandhi RR. Accuracy enhanced lung cancer prognosis for improving patient survivability using proposed gaussian classifier system. J Med Syst. 2019;43(7):201.",
+        "journal-title": "J Med Syst"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR102",
+        "doi-asserted-by": "publisher",
+        "first-page": "120",
+        "DOI": "10.1016/j.jgo.2018.06.012",
+        "volume": "10",
+        "author": "K Sasani",
+        "year": "2019",
+        "unstructured": "Sasani K, Catanese HN, Ghods A, Rokni SA, Ghasemzadeh H, Downey RJ, et al. Gait speed and survival of older surgical patient with cancer: prediction after machine learning. J Geriatr Oncol. 2019;10(1):120–5.",
+        "journal-title": "J Geriatr Oncol"
+      },
+      {
+        "issue": "5",
+        "key": "1577_CR103",
+        "doi-asserted-by": "publisher",
+        "first-page": "e13260",
+        "DOI": "10.2196/13260",
+        "volume": "21",
+        "author": "X Wang",
+        "year": "2019",
+        "unstructured": "Wang X, Zhang Y, Hao S, Zheng L, Liao J, Ye C, et al. Prediction of the 1-year risk of incident lung cancer: prospective study using electronic health records from the State of Maine. J Med Internet Res. 2019;21(5):e13260.",
+        "journal-title": "J Med Internet Res"
+      },
+      {
+        "issue": "7",
+        "key": "1577_CR104",
+        "doi-asserted-by": "publisher",
+        "first-page": "728",
+        "DOI": "10.1016/j.jclinepi.2009.08.028",
+        "volume": "63",
+        "author": "MJ Knol",
+        "year": "2010",
+        "unstructured": "Knol MJ, Janssen KJM, Donders ART, Egberts ACG, Heerdink ER, Grobbee DE, et al. Unpredictable bias when using the missing indicator method or complete case analysis for missing confounder values: an empirical example. J Clin Epidemiol. 2010;63(7):728–36.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "11",
+        "key": "1577_CR105",
+        "doi-asserted-by": "publisher",
+        "first-page": "1265",
+        "DOI": "10.1503/cmaj.110977",
+        "volume": "184",
+        "author": "RHH Groenwold",
+        "year": "2012",
+        "unstructured": "Groenwold RHH, White IR, Donders ART, Carpenter JR, Altman DG, Moons KGM. Missing covariate data in clinical research: when and when not to use the missing-indicator method for analysis. CMAJ. 2012;184(11):1265–9.",
+        "journal-title": "CMAJ"
+      },
+      {
+        "key": "1577_CR106",
+        "doi-asserted-by": "publisher",
+        "first-page": "b2393",
+        "DOI": "10.1136/bmj.b2393",
+        "volume": "338",
+        "author": "JAC Sterne",
+        "year": "2009",
+        "unstructured": "Sterne JAC, White IR, Carlin JB, Spratt M, Royston P, Kenward MG, et al. Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls. BMJ. 2009;338:b2393.",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "1577_CR107",
+        "first-page": "1588",
+        "volume": "264",
+        "author": "J-A Sim",
+        "year": "2019",
+        "unstructured": "Sim J-A, Yun YH. Predicting disease-free lung cancer survival using Patient Reported Outcome (PRO) measurements with comparisons of five Machine Learning Techniques (MLT). Stud Health Technol Inform. 2019;264:1588–9.",
+        "journal-title": "Stud Health Technol Inform"
+      },
+      {
+        "issue": "12",
+        "key": "1577_CR108",
+        "doi-asserted-by": "publisher",
+        "first-page": "1115",
+        "DOI": "10.1001/jamaoto.2019.0981",
+        "volume": "145",
+        "author": "OA Karadaghy",
+        "year": "2019",
+        "unstructured": "Karadaghy OA, Shew M, New J, Bur AM. Development and assessment of a machine learning model to help predict survival among patients with oral squamous cell carcinoma. JAMA Otolaryngol Head Neck Surg. 2019;145(12):1115–20.",
+        "journal-title": "JAMA Otolaryngol Head Neck Surg."
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR109",
+        "doi-asserted-by": "publisher",
+        "first-page": "6994",
+        "DOI": "10.1038/s41598-019-43372-7",
+        "volume": "9",
+        "author": "DW Kim",
+        "year": "2019",
+        "unstructured": "Kim DW, Lee S, Kwon S, Nam W, Cha I-H, Kim HJ. Deep learning-based survival prediction of oral cancer patients. Sci Rep. 2019;9(1):6994.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "issue": "3",
+        "key": "1577_CR110",
+        "doi-asserted-by": "publisher",
+        "first-page": "878",
+        "DOI": "10.1177/1460458217720395",
+        "volume": "25",
+        "author": "R Al-Bahrani",
+        "year": "2019",
+        "unstructured": "Al-Bahrani R, Agrawal A, Choudhary A. Survivability prediction of colon cancer patients using neural networks. Health Inform J. 2019;25(3):878–91.",
+        "journal-title": "Health Inform J"
+      },
+      {
+        "key": "1577_CR111",
+        "doi-asserted-by": "publisher",
+        "first-page": "120",
+        "DOI": "10.1016/j.suronc.2019.04.008",
+        "volume": "29",
+        "author": "A Maubert",
+        "year": "2019",
+        "unstructured": "Maubert A, Birtwisle L, Bernard JL, Benizri E, Bereder JM. Can machine learning predict resecability of a peritoneal carcinomatosis? Surg Oncol. 2019;29:120–5.",
+        "journal-title": "Surg Oncol"
+      },
+      {
+        "key": "1577_CR112",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Harrell FE Jr. Regression modeling strategies: with applications to linear models, logistic and ordinal regression, and survival analysis: Springer; 2015. p. 598.",
+        "DOI": "10.1007/978-3-319-19425-7"
+      },
+      {
+        "issue": "8",
+        "key": "1577_CR113",
+        "doi-asserted-by": "publisher",
+        "first-page": "907",
+        "DOI": "10.1016/0895-4356(96)00025-X",
+        "volume": "49",
+        "author": "G-W Sun",
+        "year": "1996",
+        "unstructured": "Sun G-W, Shook TL, Kay GL. Inappropriate use of bivariable analysis to screen risk factors for use in multivariable analysis. J Clin Epidemiol. 1996;49(8):907–16.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "6",
+        "key": "1577_CR114",
+        "doi-asserted-by": "publisher",
+        "first-page": "1206",
+        "DOI": "10.1080/10543406.2011.629890",
+        "volume": "21",
+        "author": "W Sauerbrei",
+        "year": "2011",
+        "unstructured": "Sauerbrei W, Boulesteix A-L, Binder H. Stability investigations of multivariable regression models derived from low- and high-dimensional data. J Biopharm Stat. 2011;21(6):1206–31.",
+        "journal-title": "J Biopharm Stat"
+      },
+      {
+        "key": "1577_CR115",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Steyerberg EW. Clinical prediction models: a practical approach to development, validation, and updating: Springer; 2019. p. 574.",
+        "DOI": "10.1007/978-3-030-16399-0"
+      },
+      {
+        "key": "1577_CR116",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riley RD, Ensor J, Snell KIE, Harrell FE, Martin GP, Reitsma JB, et al. Calculating the sample size required for developing a clinical prediction model. BMJ. 2020;368 Cited 2020 Jun 8. Available from: https://www.bmj.com/content/368/bmj.m441.",
+        "DOI": "10.1136/bmj.m441"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR117",
+        "doi-asserted-by": "publisher",
+        "first-page": "137",
+        "DOI": "10.1186/1471-2288-14-137",
+        "volume": "14",
+        "author": "T van der Ploeg",
+        "year": "2014",
+        "unstructured": "van der Ploeg T, Austin PC, Steyerberg EW. Modern modelling techniques are data hungry: a simulation study for predicting dichotomous endpoints. BMC Med Res Methodol. 2014;14(1):137.",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR118",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0250370",
+        "DOI": "10.1371/journal.pone.0250370",
+        "volume": "16",
+        "author": "J Li",
+        "year": "2021",
+        "unstructured": "Li J, Zhou Z, Dong J, Fu Y, Li Y, Luan Z, et al. Predicting breast cancer 5-year survival using machine learning: A systematic review. Plos One. 2021;16(4):e0250370.",
+        "journal-title": "Plos One"
+      },
+      {
+        "issue": "3",
+        "key": "1577_CR119",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1145/2988544",
+        "volume": "49",
+        "author": "PH Abreu",
+        "year": "2016",
+        "unstructured": "Abreu PH, Santos MS, Abreu MH, Andrade B, Silva DC. Predicting breast cancer recurrence using machine learning techniques: a systematic review. ACM Comput Surv. 2016;49(3):1–40.",
+        "journal-title": "ACM Comput Surv"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR120",
+        "doi-asserted-by": "publisher",
+        "first-page": "13",
+        "DOI": "10.1158/1940-6207.CAPR-15-0274",
+        "volume": "9",
+        "author": "JA Usher-Smith",
+        "year": "2016",
+        "unstructured": "Usher-Smith JA, Walter FM, Emery JD, Win AK, Griffin SJ. Risk prediction models for colorectal cancer: a systematic review. Cancer Prev Res (Phila). 2016;9(1):13–26.",
+        "journal-title": "Cancer Prev Res (Phila)"
+      },
+      {
+        "key": "1577_CR121",
+        "doi-asserted-by": "publisher",
+        "first-page": "20",
+        "DOI": "10.1186/1741-7015-8-20",
+        "volume": "8",
+        "author": "S Mallett",
+        "year": "2010",
+        "unstructured": "Mallett S, Royston P, Dutton S, Waters R, Altman DG. Reporting methods in studies developing prognostic models in cancer: a review. BMC Med. 2010;8:20.",
+        "journal-title": "BMC Med"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR122",
+        "doi-asserted-by": "publisher",
+        "first-page": "1084",
+        "DOI": "10.1186/s12885-020-07572-z",
+        "volume": "20",
+        "author": "B Grigore",
+        "year": "2020",
+        "unstructured": "Grigore B, Lewis R, Peters J, Robinson S, Hyde CJ. Development, validation and effectiveness of diagnostic prediction tools for colorectal cancer in primary care: a systematic review. BMC Cancer. 2020;20(1):1084.",
+        "journal-title": "BMC Cancer"
+      },
+      {
+        "issue": "1",
+        "key": "1577_CR123",
+        "doi-asserted-by": "publisher",
+        "first-page": "230",
+        "DOI": "10.1186/s12885-019-5442-6",
+        "volume": "19",
+        "author": "MT Phung",
+        "year": "2019",
+        "unstructured": "Phung MT, Tin Tin S, Elwood JM. Prognostic models for breast cancer: a systematic review. BMC Cancer. 2019;19(1):230.",
+        "journal-title": "BMC Cancer"
+      },
+      {
+        "issue": "4",
+        "key": "1577_CR124",
+        "doi-asserted-by": "publisher",
+        "first-page": "344",
+        "DOI": "10.1016/j.carj.2019.06.002",
+        "volume": "70",
+        "author": "I Balki",
+        "year": "2019",
+        "unstructured": "Balki I, Amirabadi A, Levman J, Martel AL, Emersic Z, Meden B, et al. Sample-Size Determination Methodologies for Machine Learning in Medical Imaging Research: A Systematic Review. Can Assoc Radiol J. 2019;70(4):344–53.",
+        "journal-title": "Can Assoc Radiol J"
+      },
+      {
+        "issue": "10181",
+        "key": "1577_CR125",
+        "doi-asserted-by": "publisher",
+        "first-page": "1577",
+        "DOI": "10.1016/S0140-6736(19)30037-6",
+        "volume": "393",
+        "author": "GS Collins",
+        "year": "2019",
+        "unstructured": "Collins GS, Moons KGM. Reporting of artificial intelligence prediction models. Lancet. 2019;393(10181):1577–9.",
+        "journal-title": "Lancet"
+      }
+    ],
+    "container-title": [
+      "BMC Medical Research Methodology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12874-022-01577-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1186/s12874-022-01577-x/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12874-022-01577-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2022-11-12T21:05:03Z",
+      "timestamp": 1668287103000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01577-x"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          8
+        ]
+      ]
+    },
+    "references-count": 127,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1577"
+    ],
+    "URL": "https://doi.org/10.1186/s12874-022-01577-x",
+    "relation": {},
+    "ISSN": [
+      "1471-2288"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2288",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "21 November 2021",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "18 March 2022",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "8 April 2022",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval and consent to participate"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      },
+      {
+        "value": "The authors declare no conflict of interest.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "101"
+  }
+}

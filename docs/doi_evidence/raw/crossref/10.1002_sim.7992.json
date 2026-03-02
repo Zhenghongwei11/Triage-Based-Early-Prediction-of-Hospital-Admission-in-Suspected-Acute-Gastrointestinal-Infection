@@ -1,0 +1,743 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T01:59:19Z",
+      "timestamp": 1772243959862,
+      "version": "3.50.1"
+    },
+    "reference-count": 60,
+    "publisher": "Wiley",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              24
+            ]
+          ],
+          "date-time": "2018-10-24T00:00:00Z",
+          "timestamp": 1540339200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000272",
+        "name": "National Institute for Health Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000272",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "9120.8004"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "9120.8004"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "918.10.615"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "918.10.615"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100006108",
+        "name": "National Center for Advancing Translational Sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "UL1 TR002243"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UL1 TR002243"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100006108",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000272",
+        "name": "National Institute for Health Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000272",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Statistics in Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:p>When designing a study to develop a new prediction model with binary or time‐to‐event outcomes, researchers should ensure their sample size is adequate in terms of the number of participants (<jats:italic>n</jats:italic>) and outcome events (<jats:italic>E</jats:italic>) relative to the number of predictor parameters (<jats:italic>p</jats:italic>) considered for inclusion. We propose that the minimum values of<jats:italic>n</jats:italic>and<jats:italic>E</jats:italic>(and subsequently the minimum number of events per predictor parameter, EPP) should be calculated to meet the following three criteria: (i) small optimism in predictor effect estimates as defined by a global shrinkage factor of<jats:styled-content>≥</jats:styled-content>0.9, (ii) small absolute difference of<jats:styled-content>≤</jats:styled-content>0.05 in the model's apparent and adjusted Nagelkerke's<jats:styled-content><jats:italic>R</jats:italic><jats:sup>2</jats:sup></jats:styled-content>, and (iii) precise estimation of the overall risk in the population. Criteria (i) and (ii) aim to reduce overfitting conditional on a chosen<jats:italic>p</jats:italic>, and require prespecification of the model's anticipated Cox‐Snell<jats:styled-content><jats:italic>R</jats:italic><jats:sup>2</jats:sup></jats:styled-content>, which we show can be obtained from previous studies. The values of<jats:italic>n</jats:italic>and<jats:italic>E</jats:italic>that meet all three criteria provides the minimum sample size required for model development. Upon application of our approach, a new diagnostic model for Chagas disease requires an EPP of at least 4.8 and a new prognostic model for recurrent venous thromboembolism requires an EPP of at least 23. This reinforces why rules of thumb (eg, 10 EPP) should be avoided. Researchers might additionally ensure the sample size gives precise estimates of key predictor effects; this is especially important when key categorical predictors have few events in some categories, as this may substantially increase the numbers required.</jats:p>",
+    "DOI": "10.1002/sim.7992",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2018-10-24T22:09:58Z",
+      "timestamp": 1540418998000
+    },
+    "page": "1276-1296",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 906,
+    "title": [
+      "Minimum sample size for developing a multivariable prediction model: PART II ‐ binary and time‐to‐event outcomes"
+    ],
+    "prefix": "10.1002",
+    "volume": "38",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8699-0735",
+        "authenticated-orcid": false,
+        "given": "Richard D",
+        "family": "Riley",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Staffordshire UK"
+          }
+        ]
+      },
+      {
+        "given": "Kym IE",
+        "family": "Snell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Staffordshire UK"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7481-0282",
+        "authenticated-orcid": false,
+        "given": "Joie",
+        "family": "Ensor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Staffordshire UK"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2803-1151",
+        "authenticated-orcid": false,
+        "given": "Danielle L",
+        "family": "Burke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Staffordshire UK"
+          }
+        ]
+      },
+      {
+        "given": "Frank E",
+        "family": "Harrell Jr",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biostatistics Vanderbilt University School of Medicine Nashville Tennessee"
+          }
+        ]
+      },
+      {
+        "given": "Karel GM",
+        "family": "Moons",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julius Centre for Health Sciences and Primary Care University Medical Centre Utrecht Utrecht The Netherlands"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2772-2316",
+        "authenticated-orcid": false,
+        "given": "Gary S",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences University of Oxford Oxford UK"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          24
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-77244-8"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b604"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001381"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1055/s-0037-1613830"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(97)08140-3"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-8703(91)90861-B"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.39609.449676.25"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/bjc.1982.62"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF01840834"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7993"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(95)00048-8"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(96)00236-3"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(95)00510-2"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwk052"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-19425-7"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2016.02.031"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280214558972"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.02.002"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-14-137"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2010.11.012"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "volume-title": "The Analysis of Binary Data",
+        "author": "Cox DR",
+        "year": "1989"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9574.00154"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780091109"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1111/j.2517-6161.1983.tb01258.x",
+        "article-title": "Regression, prediction and shrinkage",
+        "volume": "45",
+        "author": "Copas JB",
+        "year": "1983",
+        "journal-title": "J Royal Stat Soc Ser B Methodol"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_9_26_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+        "article-title": "Regression shrinkage and selection via the lasso",
+        "volume": "58",
+        "author": "Tibshirani R",
+        "year": "1996",
+        "journal-title": "J Royal Stat Soc Ser B Methodol"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.h3868"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2004.01.020"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aos/1176344552"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0089744"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/096228029700600206"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_9_32_1",
+        "first-page": "250",
+        "article-title": "R2 measures based on wald and likelihood ratio joint significance tests",
+        "volume": "44",
+        "author": "Magee L",
+        "year": "1990",
+        "journal-title": "Am Stat"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2307/j.ctv30pnvtj",
+        "volume-title": "Econometric Modeling: A Likelihood Approach",
+        "author": "Hendry DF",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "unstructured": "MittlboeckM HeinzlH.Pseudo R‐squared measures of generalized linear models. In: Proceedings of the 1st European Workshop on the Assessment of Diagnostic Performance;2004;Milan Italy."
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/78.3.691"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i6460"
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41512-017-0021-2"
+      },
+      {
+        "key": "e_1_2_9_38_1",
+        "first-page": "104",
+        "volume-title": "Frontiers in Econometrics",
+        "author": "McFadden D",
+        "year": "1974"
+      },
+      {
+        "key": "e_1_2_9_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1946"
+      },
+      {
+        "key": "e_1_2_9_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1536867X0600600105"
+      },
+      {
+        "key": "e_1_2_9_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1621"
+      },
+      {
+        "key": "e_1_2_9_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12874-015-0078-y"
+      },
+      {
+        "key": "e_1_2_9_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2016-310668"
+      },
+      {
+        "key": "e_1_2_9_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.j5019"
+      },
+      {
+        "key": "e_1_2_9_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i6253"
+      },
+      {
+        "key": "e_1_2_9_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aoms/1177728174"
+      },
+      {
+        "key": "e_1_2_9_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1590/0037-8682-0196-2016"
+      },
+      {
+        "key": "e_1_2_9_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3310/hta20120"
+      },
+      {
+        "key": "e_1_2_9_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1203"
+      },
+      {
+        "key": "e_1_2_9_50_1",
+        "volume-title": "Flexible Parametric Survival Analysis Using Stata: Beyond the Cox Model",
+        "author": "Royston P",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_9_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.59.103006.093735"
+      },
+      {
+        "key": "e_1_2_9_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0163278703255230"
+      },
+      {
+        "key": "e_1_2_9_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0197-2456(00)00104-5"
+      },
+      {
+        "key": "e_1_2_9_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(20000229)19:4<441::AID-SIM349>3.0.CO;2-N"
+      },
+      {
+        "key": "e_1_2_9_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(94)90133-3"
+      },
+      {
+        "key": "e_1_2_9_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1536867X0200200201"
+      },
+      {
+        "key": "e_1_2_9_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19980730)17:14<1623::AID-SIM871>3.0.CO;2-S"
+      },
+      {
+        "key": "e_1_2_9_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12874-016-0267-3"
+      },
+      {
+        "key": "e_1_2_9_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001380"
+      },
+      {
+        "key": "e_1_2_9_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0698"
+      },
+      {
+        "key": "e_1_2_9_61_1",
+        "article-title": "Sample size for binary logistic prediction models: beyond events per variable criteria",
+        "author": "Smeden M",
+        "year": "2018",
+        "journal-title": "Stat Methods Med Res"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1002/sim.8409",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              29
+            ]
+          ],
+          "date-time": "2019-10-29T00:00:00Z",
+          "timestamp": 1572307200000
+        }
+      }
+    ],
+    "container-title": [
+      "Statistics in Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsim.7992",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.7992",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2024-07-11T18:58:35Z",
+      "timestamp": 1720724315000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/sim.7992"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          24
+        ]
+      ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            30
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/sim.7992"
+    ],
+    "URL": "https://doi.org/10.1002/sim.7992",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {
+      "correction": [
+        {
+          "id-type": "doi",
+          "id": "10.1002/sim.8409",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0277-6715",
+      "1097-0258"
+    ],
+    "issn-type": [
+      {
+        "value": "0277-6715",
+        "type": "print"
+      },
+      {
+        "value": "1097-0258",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          24
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2018-02-04",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-09-13",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-10-24",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

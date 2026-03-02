@@ -1,0 +1,519 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2025-10-09T15:41:35Z",
+      "timestamp": 1760024495877,
+      "version": "build-2065373602"
+    },
+    "reference-count": 30,
+    "publisher": "American Medical Association (AMA)",
+    "issue": "10",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JAMA Netw Open"
+    ],
+    "abstract": "<jats:sec id=\"ab-zoi251014-4\"><jats:title>Importance</jats:title><jats:p>Norovirus is the leading cause of acute gastroenteritis among all ages in the US. Older adults, including veterans, are a potential target group for future vaccination and therapeutics, and more data are needed on the economic burden of norovirus among this population.</jats:p></jats:sec><jats:sec id=\"ab-zoi251014-5\"><jats:title>Objective</jats:title><jats:p>To quantify the outpatient, emergency department (ED), and inpatient health care costs associated with laboratory-confirmed norovirus episodes among veterans seeking care in the Veterans Health Administration (VHA).</jats:p></jats:sec><jats:sec id=\"ab-zoi251014-6\"><jats:title>Design, Setting, and Participants</jats:title><jats:p>This economic evaluation used VHA electronic health record and health care cost data between January 1, 2010, and December 31, 2024, with costs adjusted to 2024 dollars. Participants were veterans (aged ≥18 years) with norovirus who sought care from VHA clinics and hospitals nationwide. Norovirus episodes were categorized as outpatient, ED, or inpatient.</jats:p></jats:sec><jats:sec id=\"ab-zoi251014-7\"><jats:title>Exposure</jats:title><jats:p>Norovirus episodes laboratory-confirmed by polymerase chain reaction assays.</jats:p></jats:sec><jats:sec id=\"ab-zoi251014-8\"><jats:title>Main Outcomes and Measures</jats:title><jats:p>Outpatient, ED, and inpatient costs for encounters or admissions within 2 days of the norovirus-positive test result. Costs were extrapolated to the expected number of annual norovirus episodes with and without laboratory confirmation in the VHA using published incidence rates.</jats:p></jats:sec><jats:sec id=\"ab-zoi251014-9\"><jats:title>Results</jats:title><jats:p>A total of 7768 norovirus episodes from 7520 patients (median [IQR] age, 62 [45-74] years; 6862 males [88%]; median [IQR] Charlson Comorbidity Index [CCI], 1 [0-4]) were included in the analysis. There were 3520 outpatient, 2018 ED, and 2230 inpatient norovirus episodes, with respective median (IQR) costs of $640 ($207-$1291), $2203 ($1596-$2989), and $14 083 ($8045-$26 672). Median (IQR) inpatient costs were higher among older age groups ($12 777 [$7297-$23 737], $16 075 [$9291-$29 311], and $18 566 [$10 676-$33 582] for those aged 45-64 years, 65-84 years, and ≥85 years, respectively) than younger adults ($7751 [$4768-$14 984] and $9394 [$5474-$15 830] for those aged 18-24 years and 25-44 years, respectively; <jats:italic>P</jats:italic> &amp;amp;lt; .001). Median (IQR) inpatient costs were also higher across CCI categories, with the highest for CCI of 5 or higher ($18 508 [$10 445-$35 900]). The overall extrapolated annual cost to the VHA was $28 438 556.</jats:p></jats:sec><jats:sec id=\"ab-zoi251014-10\"><jats:title>Conclusions and Relevance</jats:title><jats:p>This study found norovirus to be a substantial economic burden in the VHA. Developing targeted interventions, such as vaccines and antivirals, for this population may result in cost savings.</jats:p></jats:sec>",
+    "DOI": "10.1001/jamanetworkopen.2025.36600",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2025-10-09T15:00:46Z",
+      "timestamp": 1760022046000
+    },
+    "page": "e2536600",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Health Care Costs Associated With Norovirus at the Veterans Health Administration"
+    ],
+    "prefix": "10.1001",
+    "volume": "8",
+    "author": [
+      {
+        "given": "Jordan E.",
+        "family": "Cates",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Viral Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia"
+          }
+        ]
+      },
+      {
+        "given": "Richard E.",
+        "family": "Nelson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Informatics, Decision-Enhancement, and Analytic Sciences Center, Veterans Affairs Salt Lake City, Salt Lake City, Utah"
+          },
+          {
+            "name": "Division of Epidemiology, University of Utah, Salt Lake City"
+          }
+        ]
+      },
+      {
+        "given": "Ying",
+        "family": "Suo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Epidemiology, University of Utah, Salt Lake City"
+          }
+        ]
+      },
+      {
+        "given": "Umesh D.",
+        "family": "Parashar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Viral Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia"
+          }
+        ]
+      },
+      {
+        "given": "Cynthia A.",
+        "family": "Lucero-Obusan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Public Health National Program Office, Department of Veterans Affairs, Washington, DC"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Holodniy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Public Health National Program Office, Department of Veterans Affairs, Washington, DC"
+          },
+          {
+            "name": "Division of Infectious Diseases and Geographic Medicine, Stanford University, Stanford, California"
+          }
+        ]
+      },
+      {
+        "given": "Sara A.",
+        "family": "Mirza",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Viral Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia"
+          }
+        ]
+      }
+    ],
+    "member": "10",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "8",
+        "key": "zoi251014r1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofac339",
+        "article-title": "Risk factors for acute gastroenteritis among patients hospitalized in 5 Veterans Affairs medical centers, 2016-2019.",
+        "volume": "9",
+        "author": "Balachandran",
+        "year": "2022",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "issue": "4",
+        "key": "zoi251014r2",
+        "doi-asserted-by": "publisher",
+        "first-page": "839",
+        "DOI": "10.1016/j.idc.2017.07.012",
+        "article-title": "Norovirus infection in older adults: epidemiology, risk factors, and opportunities for prevention and control.",
+        "volume": "31",
+        "author": "Cardemil",
+        "year": "2017",
+        "journal-title": "Infect Dis Clin North Am"
+      },
+      {
+        "issue": "11",
+        "key": "zoi251014r3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofad556",
+        "article-title": "Risk of hospitalization and mortality following medically attended norovirus infection-Veterans Health Administration, 2010-2018.",
+        "volume": "10",
+        "author": "Cates",
+        "year": "2023",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "issue": "1",
+        "key": "zoi251014r4",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1",
+        "DOI": "10.1093/cid/ciaa438",
+        "article-title": "Burden of norovirus in the United States, as estimated based on administrative data: updates for medically attended illness and mortality, 2001-2015.",
+        "volume": "73",
+        "author": "Burke",
+        "year": "2021",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "11",
+        "key": "zoi251014r5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1910",
+        "DOI": "10.1093/infdis/jiaa292",
+        "article-title": "The clinical and economic burden of norovirus gastroenteritis in the United States.",
+        "volume": "222",
+        "author": "Bartsch",
+        "year": "2020",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "issue": "4",
+        "key": "zoi251014r6",
+        "doi-asserted-by": "publisher",
+        "first-page": "466",
+        "DOI": "10.1093/cid/ciq163",
+        "article-title": "Increasing rates of gastroenteritis hospital discharges in US adults and the contribution of norovirus, 1996-2007.",
+        "volume": "52",
+        "author": "Lopman",
+        "year": "2011",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "6",
+        "key": "zoi251014r7",
+        "doi-asserted-by": "publisher",
+        "first-page": "539",
+        "DOI": "10.1080/14760584.2020.1777860",
+        "article-title": "Recent advances in human norovirus research and implications for candidate vaccines.",
+        "volume": "19",
+        "author": "Cates",
+        "year": "2020",
+        "journal-title": "Expert Rev Vaccines"
+      },
+      {
+        "issue": "3",
+        "key": "zoi251014r8",
+        "doi-asserted-by": "publisher",
+        "first-page": "860",
+        "DOI": "10.1002/med.21545",
+        "article-title": "Norovirus antivirals: where are we now?",
+        "volume": "39",
+        "author": "Netzler",
+        "year": "2019",
+        "journal-title": "Med Res Rev"
+      },
+      {
+        "issue": "21",
+        "key": "zoi251014r9",
+        "doi-asserted-by": "publisher",
+        "first-page": "3252",
+        "DOI": "10.1001/archinte.160.21.3252",
+        "article-title": "Are patients at Veterans Affairs medical centers sicker? A comparative analysis of health status and medical resource use.",
+        "volume": "160",
+        "author": "Agha",
+        "year": "2000",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "9",
+        "key": "zoi251014r10",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2729",
+        "DOI": "10.1093/cid/ciaa806",
+        "article-title": "Incidence, etiology, and severity of acute gastroenteritis among prospectively enrolled patients in 4 Veterans Affairs hospitals and outpatient centers, 2016-2018.",
+        "volume": "73",
+        "author": "Cardemil",
+        "year": "2021",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "3",
+        "key": "zoi251014r11",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "DOI": "10.1097/00004479-200407000-00009",
+        "article-title": "Comparing the health status of VA and non-VA ambulatory patients: the veterans’ health and medical outcomes studies.",
+        "volume": "27",
+        "author": "Rogers",
+        "year": "2004",
+        "journal-title": "J Ambul Care Manage"
+      },
+      {
+        "issue": "1",
+        "key": "zoi251014r13",
+        "doi-asserted-by": "publisher",
+        "first-page": "272",
+        "DOI": "10.1186/s12889-022-12578-2",
+        "article-title": "Public health surveillance in the U.S. Department of Veterans Affairs: evaluation of the Praedico surveillance system.",
+        "volume": "22",
+        "author": "Lucero-Obusan",
+        "year": "2022",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "issue": "1",
+        "key": "zoi251014r15",
+        "doi-asserted-by": "publisher",
+        "first-page": "175",
+        "DOI": "10.1111/1475-6773.12612",
+        "article-title": "Adjusting health expenditures for inflation: a review of measures for health services research in the United States.",
+        "volume": "53",
+        "author": "Dunn",
+        "year": "2018",
+        "journal-title": "Health Serv Res"
+      },
+      {
+        "issue": "2",
+        "key": "zoi251014r17",
+        "doi-asserted-by": "publisher",
+        "first-page": "275",
+        "DOI": "10.1016/j.gtc.2006.03.001",
+        "article-title": "The epidemiologic and clinical importance of norovirus infection.",
+        "volume": "35",
+        "author": "Atmar",
+        "year": "2006",
+        "journal-title": "Gastroenterol Clin North Am"
+      },
+      {
+        "issue": "6",
+        "key": "zoi251014r20",
+        "doi-asserted-by": "publisher",
+        "first-page": "676",
+        "DOI": "10.1093/aje/kwq433",
+        "article-title": "Updating and validating the Charlson Comorbidity Index and score for risk adjustment in hospital discharge abstracts using data from 6 countries.",
+        "volume": "173",
+        "author": "Quan",
+        "year": "2011",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "issue": "5",
+        "key": "zoi251014r22",
+        "doi-asserted-by": "publisher",
+        "first-page": "809",
+        "DOI": "10.1093/cid/ciac841",
+        "article-title": "Costs attributable to Clostridioides difficile infection based on the setting of onset.",
+        "volume": "76",
+        "author": "Sahrmann",
+        "year": "2023",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "1",
+        "key": "zoi251014r23",
+        "doi-asserted-by": "publisher",
+        "first-page": "12",
+        "DOI": "10.1016/j.jhin.2014.04.011",
+        "article-title": "Hospitalization stay and costs attributable to Clostridium difficile infection: a critical review.",
+        "volume": "88",
+        "author": "Gabriel",
+        "year": "2014",
+        "journal-title": "J Hosp Infect"
+      },
+      {
+        "issue": "22",
+        "key": "zoi251014r24",
+        "doi-asserted-by": "publisher",
+        "first-page": "2126",
+        "DOI": "10.1056/NEJMra1207742",
+        "article-title": "Norovirus gastroenteritis in immunocompromised patients.",
+        "volume": "367",
+        "author": "Bok",
+        "year": "2012",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "12",
+        "key": "zoi251014r25",
+        "doi-asserted-by": "publisher",
+        "first-page": "e45",
+        "DOI": "10.1093/cid/cix669",
+        "article-title": "2017 Infectious Diseases Society of America clinical practice guidelines for the diagnosis and management of infectious diarrhea.",
+        "volume": "65",
+        "author": "Shane",
+        "year": "2017",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "6",
+        "key": "zoi251014r26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1279",
+        "DOI": "10.1080/21645515.2018.1553594",
+        "article-title": "Epidemiologic challenges in norovirus vaccine development.",
+        "volume": "15",
+        "author": "Hallowell",
+        "year": "2019",
+        "journal-title": "Hum Vaccin Immunother"
+      },
+      {
+        "issue": "12",
+        "key": "zoi251014r27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1641",
+        "DOI": "10.3390/pathogens10121641",
+        "article-title": "Norovirus vaccines: current clinical development and challenges.",
+        "volume": "10",
+        "author": "Tan",
+        "year": "2021",
+        "journal-title": "Pathogens"
+      },
+      {
+        "issue": "41",
+        "key": "zoi251014r28",
+        "doi-asserted-by": "publisher",
+        "first-page": "6442",
+        "DOI": "10.1016/j.vaccine.2020.07.069",
+        "article-title": "Efficacy of an intramuscular bivalent norovirus GI.1/GII.4 virus-like particle vaccine candidate in healthy US adults.",
+        "volume": "38",
+        "author": "Sherwood",
+        "year": "2020",
+        "journal-title": "Vaccine"
+      },
+      {
+        "issue": "1",
+        "key": "zoi251014r30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2023.52104",
+        "article-title": "Administration’s share of personnel in Veterans Health Administration and private sector care.",
+        "volume": "7",
+        "author": "Woolhandler",
+        "year": "2024",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "key": "zoi251014r14",
+        "volume-title": "Research Guide to the Managerial Cost Accounting National Cost Extracts",
+        "author": "Phibbs",
+        "year": "2015"
+      },
+      {
+        "key": "zoi251014r12",
+        "unstructured": "National Center for Veterans Analysis and Statistics. VA benefits and health care utilization. Accessed September 18, 2024. https://www.va.gov/vetdata/docs/pocketcards/fy2024q2.pdf"
+      },
+      {
+        "key": "zoi251014r16",
+        "unstructured": "Class 2 device recall BIOFIRE FilmArray gastrointestinal (GI) panel. US Food and Drug Administration. Accessed July 31, 2025. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=205002"
+      },
+      {
+        "key": "zoi251014r18",
+        "unstructured": "Rural-urban commuting codes. US Department of Agriculture. Accessed July 25, 2025. https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes"
+      },
+      {
+        "key": "zoi251014r19",
+        "unstructured": "Clinical Classifications Software Refined (CCSR). Healthcare Cost and Utilization Project (HCUP). October 2021. Accessed July 14, 2025. https://hcup-us.ahrq.gov/toolssoftware/ccsr/ccs_refined.jsp"
+      },
+      {
+        "key": "zoi251014r21",
+        "unstructured": "National Center for Veterans Analysis and Statistics. VA benefits and health care utilization. December 31, 2024. Accessed July 31, 2025. https://www.va.gov/vetdata/docs/pocketcards/fy2025q1.pdf"
+      },
+      {
+        "key": "zoi251014r29",
+        "unstructured": "Comparing the costs of the Veterans’ Health Care System with private-sector costs. Congressional Budget Office. Accessed July 31, 2025. https://www.cbo.gov/sites/default/files/113th-congress-2013-2014/reports/49763-VA_Healthcare_Costs.pdf"
+      }
+    ],
+    "container-title": [
+      "JAMA Network Open"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839883/cates_2025_oi_251014_1759410844.19598.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2025-10-09T15:00:49Z",
+      "timestamp": 1760022049000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839883"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1001/jamanetworkopen.2025.36600",
+    "relation": {},
+    "ISSN": [
+      "2574-3805"
+    ],
+    "issn-type": [
+      {
+        "value": "2574-3805",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ]
+    }
+  }
+}

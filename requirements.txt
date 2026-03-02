@@ -1,0 +1,11 @@
+# Core scientific stack
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+
+# Modeling
+scikit-learn>=1.4
+
+# Figures
+matplotlib>=3.8
+

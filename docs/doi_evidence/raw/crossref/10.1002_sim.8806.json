@@ -1,0 +1,419 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T14:53:27Z",
+      "timestamp": 1772204007357,
+      "version": "3.50.1"
+    },
+    "reference-count": 13,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              7
+            ]
+          ],
+          "date-time": "2020-12-07T00:00:00Z",
+          "timestamp": 1607299200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000289",
+        "name": "Cancer Research UK",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "C49297/A27294"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C49297/A27294"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000289",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004497",
+        "name": "Onderzoeksraad, KU Leuven",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "C24M/20/064"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C24M/20/064"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004497",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100013373",
+        "name": "NIHR Oxford Biomedical Research Centre",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100013373",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003130",
+        "name": "Fonds Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "G0B4716N"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "G0B4716N"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003130",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Statistics in Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:p>In 2019 we published a pair of articles in <jats:italic>Statistics in Medicine</jats:italic> that describe how to calculate the minimum sample size for developing a multivariable prediction model with a continuous outcome, or with a binary or time‐to‐event outcome. As for any sample size calculation, the approach requires the user to specify anticipated values for key parameters. In particular, for a prediction model with a binary outcome, the outcome proportion and a conservative estimate for the overall fit of the developed model as measured by the Cox‐Snell <jats:italic>R</jats:italic><jats:sup>2</jats:sup> (proportion of variance explained) must be specified. This proposal raises the question of how to identify a plausible value for <jats:italic>R</jats:italic><jats:sup>2</jats:sup> in advance of model development. Our articles suggest researchers should identify <jats:italic>R</jats:italic><jats:sup>2</jats:sup> from closely related models already published in their field. In this letter, we present details on how to derive <jats:italic>R</jats:italic><jats:sup>2</jats:sup> using the reported <jats:italic>C</jats:italic> statistic (AUROC) for such existing prediction models with a binary outcome. The <jats:italic>C</jats:italic> statistic is commonly reported, and so our approach allows researchers to obtain <jats:italic>R</jats:italic><jats:sup>2</jats:sup> for subsequent sample size calculations for new models. Stata and R code is provided, and a small simulation study.</jats:p>",
+    "DOI": "10.1002/sim.8806",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          7
+        ]
+      ],
+      "date-time": "2020-12-07T13:47:16Z",
+      "timestamp": 1607348836000
+    },
+    "page": "859-864",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 49,
+    "title": [
+      "A note on estimating the <scp>Cox‐Snell <i>R</i><sup>2</sup></scp> from a reported <i>C</i> statistic (<scp>AUROC</scp>) to inform sample size calculations for developing a prediction model with a binary outcome"
+    ],
+    "prefix": "10.1002",
+    "volume": "40",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8699-0735",
+        "authenticated-orcid": false,
+        "given": "Richard D.",
+        "family": "Riley",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, School of Medicine Keele University  Staffordshire UK"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1613-7450",
+        "authenticated-orcid": false,
+        "given": "Ben",
+        "family": "Van Calster",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Development and Regeneration KU Leuven  Leuven Belgium"
+          },
+          {
+            "name": "Department of Biomedical Data Sciences Leiden University Medical Center  Leiden the Netherlands"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2772-2316",
+        "authenticated-orcid": false,
+        "given": "Gary S.",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences University of Oxford  Oxford UK"
+          },
+          {
+            "name": "NIHR Oxford Biomedical Research Centre John Radcliffe Hospital  Oxford UK"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7993"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7992"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "unstructured": "EnsorJ MartinEC RileyRD.pmsampsize: calculates the minimum sample size required for developing a multivariable prediction model. R Package Version 1.0.3; 2020.https://CRANR‐projectorg/package=pmsampsize."
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "volume-title": "The Analysis of Binary Data",
+        "author": "Cox DR",
+        "year": "1989"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_7_6_1",
+        "first-page": "250",
+        "article-title": "R‐squared measures based on Wald and Likelihood ratio joint significance tests",
+        "volume": "44",
+        "author": "Magee L",
+        "year": "1990",
+        "journal-title": "Am Stat"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12874-015-0078-y"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-12-82"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10985-012-9238-0"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.1993.10476417"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "first-page": "925",
+        "volume-title": "Handbook of Mathematical Functions",
+        "author": "Zelen M",
+        "year": "1964"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m441"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0698"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3310/hta21180"
+      }
+    ],
+    "container-title": [
+      "Statistics in Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.8806",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/sim.8806",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.8806",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          2
+        ]
+      ],
+      "date-time": "2023-09-02T00:46:33Z",
+      "timestamp": 1693615593000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/sim.8806"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          7
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            20
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/sim.8806"
+    ],
+    "URL": "https://doi.org/10.1002/sim.8806",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0277-6715",
+      "1097-0258"
+    ],
+    "issn-type": [
+      {
+        "value": "0277-6715",
+        "type": "print"
+      },
+      {
+        "value": "1097-0258",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2020-10-22",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-10-23",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-12-07",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

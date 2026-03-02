@@ -1,0 +1,38 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.~*
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local outputs
+tmp/
+logs/
+
+# Local-only materials (do not publish)
+conductor/
+openspec/
+docs/submissions/
+docs/manuscript/
+
+# Assistant/editor metadata (do not publish)
+.agents/
+.codex/
+.claude/
+.gemini/
+.copilot/
+.vscode/
+.idea/
+
+# Large / restricted datasets (do not commit)
+data/raw/
+data/processed/
+
+# Optional local venvs
+.venv/
+venv/

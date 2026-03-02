@@ -1,0 +1,51 @@
+ref_num	short_id	doi	pmid	source1	source2	full_text_checked	checked_by	checked_date	notes
+1	idsa2017-infectious-diarrhea	10.1093/cid/cix959		https://doi.org/10.1093/cid/cix959	https://api.crossref.org/works/10.1093%2Fcid%2Fcix959	TODO			TODO: verify (2 sources + full text)
+2	acg2016-acute-diarrheal-infections	10.1038/ajg.2016.126		https://doi.org/10.1038/ajg.2016.126	https://api.crossref.org/works/10.1038%2Fajg.2016.126	TODO			TODO: verify (2 sources + full text)
+3	moon2023-age-burden-us	10.14309/ajg.0000000000002186		https://doi.org/10.14309/ajg.0000000000002186	https://api.crossref.org/works/10.14309%2Fajg.0000000000002186	TODO			TODO: verify (2 sources + full text)
+4	cates2025-norovirus-costs-vha	10.1001/jamanetworkopen.2025.36600		https://doi.org/10.1001/jamanetworkopen.2025.36600	https://api.crossref.org/works/10.1001%2Fjamanetworkopen.2025.36600	TODO			TODO: verify (2 sources + full text)
+5	singer2016-sepsis3	10.1001/jama.2016.0287		https://doi.org/10.1001/jama.2016.0287	https://api.crossref.org/works/10.1001%2Fjama.2016.0287	TODO			TODO: verify (2 sources + full text)
+6	freund2017-qsofa-ed	10.1001/jama.2016.20329		https://doi.org/10.1001/jama.2016.20329	https://api.crossref.org/works/10.1001%2Fjama.2016.20329	TODO			TODO: verify (2 sources + full text)
+7	rcp2017-news2	10.7717/peerj.6947		https://doi.org/10.7717/peerj.6947	https://api.crossref.org/works/10.7717%2Fpeerj.6947	TODO			TODO: verify (2 sources + full text)
+8	ahrq2012-esi-handbook	10.1111/j.1553-2712.2000.tb01066.x		https://doi.org/10.1111/j.1553-2712.2000.tb01066.x	https://api.crossref.org/works/10.1111%2Fj.1553-2712.2000.tb01066.x	TODO			TODO: verify (2 sources + full text)
+9	hosseini2026-ml-ed-sr	10.1177/20552076251411209		https://doi.org/10.1177/20552076251411209	https://api.crossref.org/works/10.1177%2F20552076251411209	TODO			TODO: verify (2 sources + full text)
+10	collins2015-tripod-bmc	10.1186/s12916-014-0241-z		https://doi.org/10.1186/s12916-014-0241-z	https://api.crossref.org/works/10.1186%2Fs12916-014-0241-z	TODO			TODO: verify (2 sources + full text)
+11	moons2015-tripod-ee	10.7326/M14-0698		https://doi.org/10.7326/M14-0698	https://api.crossref.org/works/10.7326%2FM14-0698	TODO			TODO: verify (2 sources + full text)
+12	collins2024-tripod-ai	10.1136/bmj-2023-078378		https://doi.org/10.1136/bmj-2023-078378	https://api.crossref.org/works/10.1136%2Fbmj-2023-078378	TODO			TODO: verify (2 sources + full text)
+13	wolff2019-probast	10.7326/M18-1376		https://doi.org/10.7326/M18-1376	https://api.crossref.org/works/10.7326%2FM18-1376	TODO			TODO: verify (2 sources + full text)
+14	moons2019-probast-ee	10.7326/M18-1377		https://doi.org/10.7326/M18-1377	https://api.crossref.org/works/10.7326%2FM18-1377	TODO			TODO: verify (2 sources + full text)
+15	debray2017-meta-pm-perf	10.1136/bmj.i6460		https://doi.org/10.1136/bmj.i6460	https://api.crossref.org/works/10.1136%2Fbmj.i6460	TODO			TODO: verify (2 sources + full text)
+16	steyerberg2010-perf-framework	10.1097/EDE.0b013e3181c30fb2		https://doi.org/10.1097/EDE.0b013e3181c30fb2	https://api.crossref.org/works/10.1097%2FEDE.0b013e3181c30fb2	TODO			TODO: verify (2 sources + full text)
+17	vancalster2019-calibration	10.1186/s12916-019-1466-7		https://doi.org/10.1186/s12916-019-1466-7	https://api.crossref.org/works/10.1186%2Fs12916-019-1466-7	TODO			TODO: verify (2 sources + full text)
+18	vickers2006-dca	10.1177/0272989X06295361		https://doi.org/10.1177/0272989X06295361	https://api.crossref.org/works/10.1177%2F0272989X06295361	TODO			TODO: verify (2 sources + full text)
+19	johnson2023-mimic-iv-scidata	10.1038/s41597-022-01899-x		https://doi.org/10.1038/s41597-022-01899-x	https://api.crossref.org/works/10.1038%2Fs41597-022-01899-x	TODO			TODO: verify (2 sources + full text)
+20	mimiciv2024-physionet-v3-1	10.13026/kpb9-mt58		https://doi.org/10.13026/kpb9-mt58	https://api.datacite.org/dois/10.13026%2Fkpb9-mt58	TODO			TODO: add PhysioNet landing page + full-text check (project description)
+21	mimicived2023-physionet-v2-2	10.13026/5ntk-km72		https://doi.org/10.13026/5ntk-km72	https://api.datacite.org/dois/10.13026%2F5ntk-km72	TODO			TODO: add PhysioNet landing page + full-text check (project description)
+22	nhamcs2016-2022-ed-docs	10.15620/cdc:121911		https://doi.org/10.15620/cdc%3A121911	https://api.crossref.org/works/10.15620%2Fcdc%3A121911	TODO			TODO: verify (2 sources + full text)
+23	zou2005-elastic-net	10.1111/j.1467-9868.2005.00503.x		https://doi.org/10.1111/j.1467-9868.2005.00503.x	https://api.crossref.org/works/10.1111%2Fj.1467-9868.2005.00503.x	TODO			TODO: add second source + full-text check
+24	friedman2010-glmnet	10.18637/jss.v033.i01		https://doi.org/10.18637/jss.v033.i01	https://api.crossref.org/works/10.18637%2Fjss.v033.i01	TODO			TODO: add JSS landing page + full-text check
+25	pedregosa2011-scikit-learn	10.1145/2786984.2786995		https://doi.org/10.1145/2786984.2786995	https://api.crossref.org/works/10.1145%2F2786984.2786995	TODO			TODO: add JMLR PDF + full-text check
+26	riley2019-sample-size-i	10.1002/sim.7993		https://doi.org/10.1002/sim.7993	https://api.crossref.org/works/10.1002%2Fsim.7993	TODO			TODO: verify (2 sources + full text)
+27	riley2019-sample-size-ii	10.1002/sim.7992		https://doi.org/10.1002/sim.7992	https://api.crossref.org/works/10.1002%2Fsim.7992	TODO			TODO: verify (2 sources + full text)
+28	riley2021-cox-snell-note	10.1002/sim.8806		https://doi.org/10.1002/sim.8806	https://api.crossref.org/works/10.1002%2Fsim.8806	TODO			TODO: verify (2 sources + full text)
+29	dhiman2022-ml-oncology-sr	10.1186/s12874-022-01577-x		https://doi.org/10.1186/s12874-022-01577-x	https://api.crossref.org/works/10.1186%2Fs12874-022-01577-x	TODO			TODO: verify (2 sources + full text)
+30	wynants2020-covid-pm-sr	10.1136/bmj.m1328		https://doi.org/10.1136/bmj.m1328	https://api.crossref.org/works/10.1136%2Fbmj.m1328	TODO			TODO: verify (2 sources + full text)
+31	luijken2020-measurement-heterogeneity	10.1016/j.jclinepi.2019.11.001		https://doi.org/10.1016/j.jclinepi.2019.11.001	https://api.crossref.org/works/10.1016%2Fj.jclinepi.2019.11.001	TODO			TODO: verify (2 sources + full text)
+32	wood2015-mi-performance	10.1002/bimj.201400004		https://doi.org/10.1002/bimj.201400004	https://api.crossref.org/works/10.1002%2Fbimj.201400004	TODO			TODO: verify (2 sources + full text)
+33	morris2014-pmm	10.1186/1471-2288-14-75		https://doi.org/10.1186/1471-2288-14-75	https://api.crossref.org/works/10.1186%2F1471-2288-14-75	TODO			TODO: verify (2 sources + full text)
+34	white2010-perfect-pred-mi	10.1016/j.csda.2010.04.005		https://doi.org/10.1016/j.csda.2010.04.005	https://api.crossref.org/works/10.1016%2Fj.csda.2010.04.005	TODO			TODO: verify (2 sources + full text)
+35	hanley1982-auc	10.1148/radiology.143.1.7063747		https://doi.org/10.1148/radiology.143.1.7063747	https://api.crossref.org/works/10.1148%2Fradiology.143.1.7063747	TODO			TODO: verify (2 sources + full text)
+36	brier1950-score	10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2		https://doi.org/10.1175/1520-0493%281950%29078%3C0001%3AVOFEIT%3E2.0.CO%3B2	https://api.crossref.org/works/10.1175%2F1520-0493%281950%29078%3C0001%3AVOFEIT%3E2.0.CO%3B2	TODO			TODO: add stable source (journal archive) + full-text check
+37	efron1979-bootstrap	10.1214/aos/1176344552		https://doi.org/10.1214/aos/1176344552	https://api.crossref.org/works/10.1214%2Faos%2F1176344552	TODO			TODO: add stable source (journal archive) + full-text check
+38	efron1993-bootstrap-book	10.1007/978-1-4899-4541-9		https://doi.org/10.1007/978-1-4899-4541-9	https://api.crossref.org/works/10.1007%2F978-1-4899-4541-9	TODO			TODO: add publisher page + full-text check
+39	vanhoorde2014-multinomial-calibration	10.1002/sim.6114		https://doi.org/10.1002/sim.6114	https://api.crossref.org/works/10.1002%2Fsim.6114	TODO			TODO: verify (2 sources + full text)
+40	dehond2023-icu-readmit-ml	10.1097/CCM.0000000000005758		https://doi.org/10.1097/CCM.0000000000005758	https://api.crossref.org/works/10.1097%2FCCM.0000000000005758	TODO			TODO: verify (2 sources + full text)
+41	siregar2016-dynamic-updating	10.1161/CIRCOUTCOMES.114.001645		https://doi.org/10.1161/CIRCOUTCOMES.114.001645	https://api.crossref.org/works/10.1161%2FCIRCOUTCOMES.114.001645	TODO			TODO: verify (2 sources + full text)
+42	binuya2022-updating-guidance	10.1186/s12874-022-01801-8		https://doi.org/10.1186/s12874-022-01801-8	https://api.crossref.org/works/10.1186%2Fs12874-022-01801-8	TODO			TODO: verify (2 sources + full text)
+43	vandermeijden2025-periscope	10.1016/j.lanepe.2024.101163		https://doi.org/10.1016/j.lanepe.2024.101163	https://api.crossref.org/works/10.1016%2Fj.lanepe.2024.101163	TODO			TODO: verify (2 sources + full text)
+44	gao2023-clabsi-pm-sr	10.1016/j.jclinepi.2023.07.019		https://doi.org/10.1016/j.jclinepi.2023.07.019	https://api.crossref.org/works/10.1016%2Fj.jclinepi.2023.07.019	TODO			TODO: verify (2 sources + full text)
+45	dylla2025-head-ct-nhamcs	10.1212/WNL.0000000000214347		https://doi.org/10.1212/WNL.0000000000214347	https://api.crossref.org/works/10.1212%2FWNL.0000000000214347	TODO			TODO: verify (2 sources + full text)
+46	kang2022-opioid-disparities	10.1016/j.ajem.2022.02.043		https://doi.org/10.1016/j.ajem.2022.02.043	https://api.crossref.org/works/10.1016%2Fj.ajem.2022.02.043	TODO			TODO: verify (2 sources + full text)
+47	kim2024-norovirus-surveillance	10.1093/infdis/jiad437		https://doi.org/10.1093/infdis/jiad437	https://api.crossref.org/works/10.1093%2Finfdis%2Fjiad437	TODO			TODO: verify (2 sources + full text)
+48	johnson2018-mimic-code	10.1093/jamia/ocx084		https://doi.org/10.1093/jamia/ocx084	https://api.crossref.org/works/10.1093%2Fjamia%2Focx084	TODO			TODO: verify (2 sources + full text)
+49	steyerberg2019-clinical-prediction-models	10.1007/978-3-030-16399-0		https://doi.org/10.1007/978-3-030-16399-0	https://api.crossref.org/works/10.1007%2F978-3-030-16399-0	TODO			TODO: add publisher page + full-text check
+50	harrell2015-regression-modeling-strategies	10.1007/978-3-319-19425-7		https://doi.org/10.1007/978-3-319-19425-7	https://api.crossref.org/works/10.1007%2F978-3-319-19425-7	TODO			TODO: add publisher page + full-text check

@@ -1,0 +1,480 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T12:47:39Z",
+      "timestamp": 1772282859286,
+      "version": "3.50.1"
+    },
+    "reference-count": 21,
+    "publisher": "PeerJ",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              16
+            ]
+          ],
+          "date-time": "2019-05-16T00:00:00Z",
+          "timestamp": 1557964800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "abstract": "<jats:p>The aim of this study is to evaluate the usefulness of the pre-hospital National Early Warning Score (pNEWS) and the pre-hospital Modified Early Warning Score (pMEWS) for predicting admission and in-hospital mortality in elderly patients presenting to the emergency department (ED). We also compare the value of the pNEWS with that of the ED NEWS (eNEWS) and ED MEWS (eMEWS) for predicting admission and in-hospital mortality. This retrospective, single-centre observational study was carried out in the ED of Jikei University Kashiwa Hospital, in Chiba, Japan, from 1st April 2017 to 31st March 2018. All patients aged 65 years or older were included in this study. The pNEWS/eNEWS were derived from seven common physiological vital signs: respiratory rate, peripheral oxygen saturation, the presence of inhaled oxygen parameters, body temperature, systolic blood pressure, pulse rate and Alert, responds to Voice, responds to Pain, Unresponsive (AVPU) score, whereas the pMEWS/eMEWS were derived from six common physiological vital signs: respiratory rate, peripheral oxygen saturation, body temperature, systolic blood pressure, pulse rate and AVPU score. Discrimination was assessed by plotting the receiver operating characteristic (ROC) curve and calculating the area under the ROC curve (AUC). The median pNEWS, pMEWS, eNEWS and eMEWS were significantly higher at admission than at discharge (<jats:italic>p</jats:italic> &lt; 0.001). The median pNEWS, pMEWS, eNEWS and eMEWS of non-survivors were significantly higher than those of the survivors (<jats:italic>p</jats:italic> &lt; 0.001). The AUC for predicting admission was 0.559 for the pNEWS and 0.547 for the pMEWS. There was no significant difference between the AUCs of the pNEWS and the pMEWS for predicting admission (<jats:italic>p</jats:italic> = 0.102). The AUCs for predicting in-hospital mortality were 0.678 for the pNEWS and 0.652 for the pMEWS. There was no significant difference between the AUCs of the pNEWS and the pMEWS for predicting in-hospital mortality (<jats:italic>p</jats:italic> = 0.081). The AUC for predicting admission was 0.628 for the eNEWS and 0.591 for the eMEWS. The AUC of the eNEWS was significantly greater than that of the eMEWS for predicting admission (<jats:italic>p</jats:italic> &lt; 0.001). The AUC for predicting in-hospital mortality was 0.789 for the eNEWS and 0.720 for the eMEWS. The AUC of the eNEWS was significantly greater than that of the eMEWS for predicting in-hospital mortality (<jats:italic>p</jats:italic> &lt; 0.001). For admission and in-hospital mortality, the AUC of the eNEWS was significantly greater than that of the pNEWS (<jats:italic>p</jats:italic> &lt; 0.001, <jats:italic>p</jats:italic> &lt; 0.001), and the AUC of the eMEWS was significantly greater than that of the pMEWS (<jats:italic>p</jats:italic> &lt; 0.01, <jats:italic>p</jats:italic> &lt; 0.05). Our single-centre study has demonstrated the low utility of the pNEWS and the pMEWS as predictors of admission and in-hospital mortality in elderly patients, whereas the eNEWS and the eMEWS predicted admission and in-hospital mortality more accurately. Evidence from multicentre studies is needed before introducing pre-hospital versions of risk-scoring systems.</jats:p>",
+    "DOI": "10.7717/peerj.6947",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2019-05-16T04:01:45Z",
+      "timestamp": 1557979305000
+    },
+    "page": "e6947",
+    "source": "Crossref",
+    "is-referenced-by-count": 77,
+    "title": [
+      "Comparison of the National Early Warning Score (NEWS) and the Modified Early Warning Score (MEWS) for predicting admission and in-hospital mortality in elderly patients in the pre-hospital setting and in the emergency department"
+    ],
+    "prefix": "10.7717",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Toshiya",
+        "family": "Mitsunaga",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Jikei University School of Medicine, Tokyo, Japan"
+          },
+          {
+            "name": "Centre for Preventive Medical Sciences, Chiba University, Chiba, Japan"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2279-3414",
+        "authenticated-orcid": true,
+        "given": "Izumu",
+        "family": "Hasegawa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Jikei University School of Medicine, Tokyo, Japan"
+          }
+        ]
+      },
+      {
+        "given": "Masahiko",
+        "family": "Uzura",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Jikei University School of Medicine, Tokyo, Japan"
+          }
+        ]
+      },
+      {
+        "given": "Kenji",
+        "family": "Okuno",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Jikei University School of Medicine, Tokyo, Japan"
+          }
+        ]
+      },
+      {
+        "given": "Kei",
+        "family": "Otani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Jikei University School of Medicine, Tokyo, Japan"
+          }
+        ]
+      },
+      {
+        "given": "Yuhei",
+        "family": "Ohtaki",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Jikei University School of Medicine, Tokyo, Japan"
+          }
+        ]
+      },
+      {
+        "given": "Akihiro",
+        "family": "Sekine",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Preventive Medical Sciences, Chiba University, Chiba, Japan"
+          }
+        ]
+      },
+      {
+        "given": "Satoshi",
+        "family": "Takeda",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Jikei University School of Medicine, Tokyo, Japan"
+          }
+        ]
+      }
+    ],
+    "member": "4443",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "10.7717/peerj.6947/ref-1",
+        "doi-asserted-by": "publisher",
+        "first-page": "17",
+        "DOI": "10.1016/j.amsu.2018.01.006",
+        "article-title": "Pre-hospital national early warning score (NEWS) is associated with in-hospital mortality and critical care unit admission: a cohort study",
+        "volume": "27",
+        "author": "Abbott",
+        "year": "2018",
+        "journal-title": "Annals of Medicine and Surgery"
+      },
+      {
+        "key": "10.7717/peerj.6947/ref-2",
+        "doi-asserted-by": "publisher",
+        "first-page": "78",
+        "DOI": "10.1016/j.ejim.2016.06.014",
+        "article-title": "A single-centre cohort study of National Early Warning Score (NEWS) and near patient testing in acute medical admissions",
+        "volume": "35",
+        "author": "Abbott",
+        "year": "2016",
+        "journal-title": "European Journal of Internal Medicine"
+      },
+      {
+        "issue": "6",
+        "key": "10.7717/peerj.6947/ref-3",
+        "doi-asserted-by": "publisher",
+        "first-page": "476",
+        "DOI": "10.1136/emermed-2013-202444",
+        "article-title": "The comparison of modified early warning score with rapid emergency medicine score: a prospective multicentre observational cohort study on medical and surgical patients presenting to emergency department",
+        "volume": "31",
+        "author": "Bulut",
+        "year": "2014",
+        "journal-title": "Emergency Medicine Journal"
+      },
+      {
+        "issue": "10",
+        "key": "10.7717/peerj.6947/ref-4",
+        "doi-asserted-by": "publisher",
+        "first-page": "674",
+        "DOI": "10.1136/emj.2007.057661",
+        "article-title": "Modified early warning score predicts the need for hospital admission and in hospital mortality",
+        "volume": "25",
+        "author": "Burch",
+        "year": "2008",
+        "journal-title": "Emergency Medicine Journal"
+      },
+      {
+        "issue": "4",
+        "key": "10.7717/peerj.6947/ref-5",
+        "doi-asserted-by": "publisher",
+        "first-page": "591",
+        "DOI": "10.1111/j.1742-1241.2008.01986.x",
+        "article-title": "In-hospital mortality and morbidity of elderly medical patients can be predicted at admission by the Modified Early Warning Score: a prospective study",
+        "volume": "63",
+        "author": "Cei",
+        "year": "2009",
+        "journal-title": "International Journal of Clinical Practice"
+      },
+      {
+        "key": "10.7717/peerj.6947/ref-6",
+        "article-title": "The report of committee for preparing criteria for severity/urgency criteria for emergency transport",
+        "author": "Foundation for Ambulance Service Development",
+        "year": "2004"
+      },
+      {
+        "issue": "1",
+        "key": "10.7717/peerj.6947/ref-7",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1186/s13049-017-0436-3",
+        "article-title": "The most commonly used disease severity scores are inappropriate for risk stratification of older emergency department sepsis patients: an observational multi-centre study",
+        "volume": "25",
+        "author": "Groot",
+        "year": "2017",
+        "journal-title": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine"
+      },
+      {
+        "issue": "1",
+        "key": "10.7717/peerj.6947/ref-8",
+        "doi-asserted-by": "publisher",
+        "first-page": "48",
+        "DOI": "10.1186/s13049-018-0514-1",
+        "article-title": "Does the prehospital National Early Warning Score predict the short-term mortality of unselected emergency patients?",
+        "volume": "26",
+        "author": "Hoikka",
+        "year": "2018",
+        "journal-title": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine"
+      },
+      {
+        "issue": "10",
+        "key": "10.7717/peerj.6947/ref-9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1385",
+        "DOI": "10.1002/bjs.10267",
+        "article-title": "Comparison of the National Early Earning Score in non-elective medical and surgical patients",
+        "volume": "103",
+        "author": "Kovacs",
+        "year": "2016",
+        "journal-title": "British Journal of Surgery"
+      },
+      {
+        "key": "10.7717/peerj.6947/ref-10",
+        "doi-asserted-by": "publisher",
+        "first-page": "222",
+        "DOI": "10.1016/j.jcrc.2018.07.011",
+        "article-title": "Evaluation of the efficacy of the National Early Warning Score in predicting in-hospital mortality via the risk stratification",
+        "volume": "47",
+        "author": "Lee",
+        "year": "2018",
+        "journal-title": "Journal of Critical Care"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "10.7717/peerj.6947/ref-11",
+        "doi-asserted-by": "publisher",
+        "first-page": "A834",
+        "DOI": "10.1186/2197-425x-3-s1-a834",
+        "article-title": "The usefulness of modified national early warning score with the age level in critically ill medical patients",
+        "volume": "3",
+        "author": "Lee",
+        "year": "2015",
+        "journal-title": "Intensive Care Medicine Experimental"
+      },
+      {
+        "issue": "3",
+        "key": "10.7717/peerj.6947/ref-12",
+        "doi-asserted-by": "publisher",
+        "first-page": "7771",
+        "DOI": "10.4081/ecj.2018.7771",
+        "article-title": "Abbreviated National Early Warning Score predicts the need for hospital admission and in-hospital mortality in elderly patients",
+        "volume": "14",
+        "author": "Mitusnaga",
+        "year": "2018",
+        "journal-title": "Emergency Care Journal"
+      },
+      {
+        "issue": "12",
+        "key": "10.7717/peerj.6947/ref-13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1373",
+        "DOI": "10.1016/s0895-4356(96)00236-3",
+        "article-title": "A simulation study of the number of events per variable in logistic regression analysis",
+        "volume": "49",
+        "author": "Peduzzi",
+        "year": "1996",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "issue": "5",
+        "key": "10.7717/peerj.6947/ref-14",
+        "doi-asserted-by": "publisher",
+        "first-page": "676",
+        "DOI": "10.1111/aas.13310",
+        "article-title": "Prehospital National Early Warning Score predicts early mortality",
+        "volume": "63",
+        "author": "Pirneskoski",
+        "year": "2019",
+        "journal-title": "Acta Anaesthesiologica Scandinavica"
+      },
+      {
+        "key": "10.7717/peerj.6947/ref-15",
+        "volume-title": "R: A language and environment for statistical computing",
+        "author": "R Core Team",
+        "year": "2019"
+      },
+      {
+        "key": "10.7717/peerj.6947/ref-16",
+        "article-title": "National Early Warning Score (NEWS): Standardising the assessment of acute-illness severity in the NHS",
+        "author": "Royal College of Physicians London",
+        "year": "2012"
+      },
+      {
+        "issue": "9",
+        "key": "10.7717/peerj.6947/ref-17",
+        "doi-asserted-by": "publisher",
+        "first-page": "e011021",
+        "DOI": "10.1136/bmjopen-2015-011021",
+        "article-title": "The National Early Warning Score (NEWS) for outcome prediction in emergency department patients with community-acquired pneumonia: results from a 6-year prospective cohort study",
+        "volume": "6",
+        "author": "Sbiti-Rohr",
+        "year": "2016",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "issue": "4",
+        "key": "10.7717/peerj.6947/ref-18",
+        "doi-asserted-by": "publisher",
+        "first-page": "465",
+        "DOI": "10.1016/j.resuscitation.2012.12.016",
+        "article-title": "The ability of the National Early Warning Score (NEWS) to discriminate patients at risk of early cardiac arrest, unanticipated intensive care unit admission, and death",
+        "volume": "84",
+        "author": "Smith",
+        "year": "2013",
+        "journal-title": "Resuscitation"
+      },
+      {
+        "issue": "10",
+        "key": "10.7717/peerj.6947/ref-19",
+        "doi-asserted-by": "publisher",
+        "first-page": "521",
+        "DOI": "10.1093/qjmed/94.10.521",
+        "article-title": "Validation of a modified Early Warning Score in medical admissions",
+        "volume": "94",
+        "author": "Subbe",
+        "year": "2001",
+        "journal-title": "QJM—An International Journal of Medicine"
+      },
+      {
+        "issue": "3",
+        "key": "10.7717/peerj.6947/ref-20",
+        "doi-asserted-by": "publisher",
+        "first-page": "365",
+        "DOI": "10.1016/j.resuscitation.2006.04.001",
+        "article-title": "Emergency medical service systems in Japan: Past. Present, and future",
+        "volume": "69",
+        "author": "Tanigawa",
+        "year": "2006",
+        "journal-title": "Resuscitation"
+      },
+      {
+        "key": "10.7717/peerj.6947/ref-21",
+        "article-title": "Monitoring health for the SDGs",
+        "author": "World Health Statistics",
+        "year": "2017"
+      }
+    ],
+    "container-title": [
+      "PeerJ"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://peerj.com/articles/6947.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://peerj.com/articles/6947.xml",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://peerj.com/articles/6947.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://peerj.com/articles/6947.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2019-05-16T04:01:50Z",
+      "timestamp": 1557979310000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/6947"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          16
+        ]
+      ]
+    },
+    "references-count": 21,
+    "alternative-id": [
+      "10.7717/peerj.6947"
+    ],
+    "URL": "https://doi.org/10.7717/peerj.6947",
+    "archive": [
+      "CLOCKSS",
+      "LOCKSS",
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "2167-8359"
+    ],
+    "issn-type": [
+      {
+        "value": "2167-8359",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          16
+        ]
+      ]
+    },
+    "article-number": "e6947"
+  }
+}

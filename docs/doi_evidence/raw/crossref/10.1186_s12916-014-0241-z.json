@@ -1,0 +1,452 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T17:23:45Z",
+      "timestamp": 1772213025555,
+      "version": "3.50.1"
+    },
+    "reference-count": 52,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2015-01-01T00:00:00Z",
+          "timestamp": 1420070400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Med",
+      "BMC Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": "10.1186/s12916-014-0241-z",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2015-01-06T10:24:41Z",
+      "timestamp": 1420539881000
+    },
+    "page": "1",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1496,
+    "title": [
+      "Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): the TRIPOD Statement"
+    ],
+    "prefix": "10.1186",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Gary S",
+        "family": "Collins",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Johannes B",
+        "family": "Reitsma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Douglas G",
+        "family": "Altman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Karel",
+        "family": "Moons",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "10.1186/s12916-014-0241-z-B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b375"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.d5888"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-6-18"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001380"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001381"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-8703(91)90861-B"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(05)82656-3"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1010-7940(99)00134-7"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/bjc.1982.62"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00003246-198411000-00012"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b604"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2011-301247"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b605"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2011-301246"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(01)00341-9"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-130-6-199903160-00016"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2362.2011.02562.x"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(03)00047-7"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9574.00157"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-144-3-200602070-00009"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1472-6947-11-62"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001221"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-9-103"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2012.06.020"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-8-20"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1997.03540300056034"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-14-40"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.109.926808"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.cir.0000437741.48606.98"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e3698"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-146-6-200703200-00154"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e3318"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.apmr.2012.04.021"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e3186"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jnci/dji237"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b606"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.39335.541782.AD"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.2261021292"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2362.2011.02494.x"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dyr013"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0698"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000217"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000022"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-151-4-200908180-00135"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2362.2011.02493.x"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-10-51"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e3181577511"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11914-012-0108-1"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.121874"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001744"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.092252"
+      },
+      {
+        "key": "10.1186/s12916-014-0241-z-B54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b4184"
+      }
+    ],
+    "container-title": [
+      "BMC Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/article/10.1186/s12916-014-0241-z/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s12916-014-0241-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s12916-014-0241-z",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2019-02-26T12:39:21Z",
+      "timestamp": 1551184761000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://www.biomedcentral.com/1741-7015/13/1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S12916-014-0241-Z"
+    ],
+    "URL": "https://doi.org/10.1186/s12916-014-0241-z",
+    "relation": {},
+    "ISSN": [
+      "1741-7015"
+    ],
+    "issn-type": [
+      {
+        "value": "1741-7015",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  }
+}

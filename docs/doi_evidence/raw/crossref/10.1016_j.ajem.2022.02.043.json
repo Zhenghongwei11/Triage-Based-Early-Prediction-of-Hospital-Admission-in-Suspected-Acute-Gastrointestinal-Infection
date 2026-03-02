@@ -1,0 +1,841 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2026-01-25T14:02:10Z",
+      "timestamp": 1769349730608,
+      "version": "3.49.0"
+    },
+    "reference-count": 48,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The American Journal of Emergency Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ajem.2022.02.043",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2022-02-25T11:23:21Z",
+      "timestamp": 1645788201000
+    },
+    "page": "167-173",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "special_numbering": "C",
+    "title": [
+      "Racial disparities in opioid administration and prescribing in the emergency department for pain"
+    ],
+    "prefix": "10.1016",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Hyojung",
+        "family": "Kang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Seokgi",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sa",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Eleanor",
+        "family": "Dunham",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0005",
+        "series-title": "Overview of emergency department visits in the United States, 2011: statistical brief #174",
+        "author": "Weiss",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0010",
+        "series-title": "Opioids prescribed at discharge or given during emergency department visits among adults in the United States, 2016",
+        "author": "Rui",
+        "year": "2019"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ajem.2022.02.043_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "202",
+        "DOI": "10.1016/j.annemergmed.2015.11.033",
+        "article-title": "Emergency department prescription opioids as an initial exposure preceding addiction",
+        "volume": "68",
+        "author": "Butler",
+        "year": "2016",
+        "journal-title": "Ann Emerg Med"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ajem.2022.02.043_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.annemergmed.2015.03.026",
+        "article-title": "Opioid prescribing in a cross section of US emergency departments",
+        "volume": "66",
+        "author": "Hoppe",
+        "year": "2015",
+        "journal-title": "Ann Emerg Med"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ajem.2022.02.043_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "340",
+        "DOI": "10.5811/westjem.2016.12.30854",
+        "article-title": "State emergency department opioid guidelines: current status",
+        "volume": "18",
+        "author": "Broida",
+        "year": "2017",
+        "journal-title": "West J Emerg Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ajem.2022.02.043_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1016/j.jemermed.2015.06.014",
+        "article-title": "Impact of an opioid prescribing guideline in the acute care setting",
+        "volume": "50",
+        "author": "del Portal",
+        "year": "2016",
+        "journal-title": "J Emerg Med"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0035",
+        "author": "Rui"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ajem.2022.02.043_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.ajem.2007.05.007",
+        "article-title": "Are racial disparities in ED analgesia improving? Evidence from a national database",
+        "volume": "26",
+        "author": "Quazi",
+        "year": "2008",
+        "journal-title": "Am J Emerg Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ajem.2022.02.043_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "70",
+        "DOI": "10.1001/jama.2007.64",
+        "article-title": "Trends in opioid prescribing by race/ethnicity for patients seeking care in US emergency departments",
+        "volume": "299",
+        "author": "Pletcher",
+        "year": "2008",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ajem.2022.02.043_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "1005",
+        "DOI": "10.1213/ANE.0000000000003517",
+        "article-title": "Race/ethnicity and sex and opioid Administration in the Emergency Room",
+        "volume": "128",
+        "author": "Rosenbloom",
+        "year": "2019",
+        "journal-title": "Anesth Analg"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.ajem.2022.02.043_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1604",
+        "DOI": "10.1007/s11606-013-2516-z",
+        "article-title": "The impact of neighborhood socioeconomic status and race on the prescribing of opioids in emergency departments throughout the United States",
+        "volume": "28",
+        "author": "Joynt",
+        "year": "2013",
+        "journal-title": "J Gen Intern Med"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.ajem.2022.02.043_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1000",
+        "DOI": "10.1097/MLR.0000000000000444",
+        "article-title": "Analgesic access for acute abdominal pain in the emergency department among racial/ethnic minority patients: A Nationwide examination",
+        "volume": "53",
+        "author": "Shah",
+        "year": "2015",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ajem.2022.02.043_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1197/j.aem.2006.08.015",
+        "article-title": "The national trend in quality of emergency department pain management for long bone fractures",
+        "volume": "14",
+        "author": "Ritsema",
+        "year": "2007",
+        "journal-title": "Acad Emerg Med"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.ajem.2022.02.043_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2024583",
+        "DOI": "10.1001/jamanetworkopen.2020.24583",
+        "article-title": "Association of racial/ethnic and gender concordance between patients and physicians with patient experience ratings",
+        "volume": "3",
+        "author": "Takeshita",
+        "year": "2020",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.ajem.2022.02.043_bb0075",
+        "first-page": "3109",
+        "article-title": "Clinician–patient racial/ethnic concordance influences racial/ethnic minority pain: evidence from simulated clinical interactions",
+        "volume": "21",
+        "author": "Anderson",
+        "year": "2020",
+        "journal-title": "Pain Med Off J Am Acad Pain Med"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0080",
+        "author": "Centers for Disease Control & Prevention (CDC)"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ajem.2022.02.043_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1001/jamasurg.2014.4038",
+        "article-title": "Unconscious race and social class Bias among acute care surgical clinicians and clinical treatment decisions",
+        "volume": "150",
+        "author": "Haider",
+        "year": "2015",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ajem.2022.02.043_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1111/j.1467-9280.2008.02037.x",
+        "article-title": "Implicit prejudice toward injecting drug users predicts intentions to change jobs among drug and alcohol nurses",
+        "volume": "19",
+        "author": "von Hippel",
+        "year": "2008",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ajem.2022.02.043_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1016/j.drugpo.2007.01.006",
+        "article-title": "Prejudice among health care workers toward injecting drug users with hepatitis C: does greater contact lead to less prejudice?",
+        "volume": "18",
+        "author": "Brener",
+        "year": "2007",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0105",
+        "first-page": "ES17",
+        "article-title": "Eliminating disparities in pain management",
+        "volume": "107",
+        "author": "Paulson",
+        "year": "2007",
+        "journal-title": "J Am Osteopath Assoc"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ajem.2022.02.043_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "965",
+        "DOI": "10.1111/pme.12378",
+        "article-title": "The effect of cognitive load and patient race on physicians’ decisions to prescribe opioids for chronic low back pain: a randomized trial",
+        "volume": "15",
+        "author": "Burgess",
+        "year": "2014",
+        "journal-title": "Pain Med"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0115",
+        "series-title": "Ambulatory health care data: datasets and documentation",
+        "author": "Centers for Disease Control and Prevention",
+        "year": "2022"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ajem.2022.02.043_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1016/j.annemergmed.2011.09.014",
+        "article-title": "Older US emergency department patients are less likely to receive pain medication than younger patients: results from a national survey",
+        "volume": "60",
+        "author": "Platts-Mills",
+        "year": "2012",
+        "journal-title": "Ann Emerg Med"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ajem.2022.02.043_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "538",
+        "DOI": "10.1016/j.jemermed.2016.07.120",
+        "article-title": "Changes in provider prescribing patterns after implementation of an emergency department prescription opioid policy",
+        "volume": "52",
+        "author": "Osborn",
+        "year": "2017",
+        "journal-title": "J Emerg Med"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ajem.2022.02.043_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1016/j.jen.2006.01.010",
+        "article-title": "Disparities in analgesia and opioid prescribing practices for patients with musculoskeletal pain in the emergency department",
+        "volume": "32",
+        "author": "Heins",
+        "year": "2006",
+        "journal-title": "J Emerg Nurs"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ajem.2022.02.043_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "752",
+        "DOI": "10.1016/j.ajem.2010.02.023",
+        "article-title": "Racial disparity in analgesic treatment for ED patients with abdominal or back pain",
+        "volume": "29",
+        "author": "Mills",
+        "year": "2011",
+        "journal-title": "Am J Emerg Med"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ajem.2022.02.043_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "282",
+        "DOI": "10.1007/s13181-016-0553-9",
+        "article-title": "Pilot study of the importance of factors affecting emergency department opioid analgesic prescribing decisions",
+        "volume": "12",
+        "author": "Pomerleau",
+        "year": "2016",
+        "journal-title": "J Med Toxicol"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0145",
+        "author": "U.S. Department of Health and Human Services"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ajem.2022.02.043_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1016/j.pmn.2019.08.003",
+        "article-title": "Managing pain in the setting of opioid use disorder",
+        "volume": "21",
+        "author": "St. Marie B, Broglio K.",
+        "year": "2020",
+        "journal-title": "Pain Manag Nurs"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ajem.2022.02.043_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "1741",
+        "DOI": "10.1213/ANE.0000000000002496",
+        "article-title": "Risk factors for opioid-use disorder and overdose",
+        "volume": "125",
+        "author": "Webster",
+        "year": "2017",
+        "journal-title": "Anesth Analg"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ajem.2022.02.043_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "519",
+        "DOI": "10.1080/08897077.2019.1671942",
+        "article-title": "Understanding why patients with substance use disorders leave the hospital against medical advice: A qualitative study",
+        "volume": "41",
+        "author": "Simon",
+        "year": "2020",
+        "journal-title": "Subst Abus"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "150",
+        "DOI": "10.1016/j.drugpo.2019.03.023",
+        "article-title": "Chronic pain management among people who use drugs: A health policy challenge in the context of the opioid crisis",
+        "volume": "71",
+        "author": "Dassieu",
+        "year": "2019",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ajem.2022.02.043_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1016/j.jen.2008.04.032",
+        "article-title": "Characteristics and predictors of frequent utilization of emergency services",
+        "volume": "35",
+        "author": "Milbrett",
+        "year": "2009",
+        "journal-title": "J Emerg Nurs"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ajem.2022.02.043_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1016/j.jen.2005.02.008",
+        "article-title": "A descriptive study of heavy emergency department users at an academic emergency department reveals heavy ED users have better access to care than average users",
+        "volume": "31",
+        "author": "Blank",
+        "year": "2005",
+        "journal-title": "J Emerg Nurs"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ajem.2022.02.043_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.1186/s12873-017-0126-5",
+        "article-title": "Emergency department use and barriers to wellness: a survey of emergency department frequent users",
+        "volume": "17",
+        "author": "Birmingham",
+        "year": "2016",
+        "journal-title": "BMC Emerg Med"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.ajem.2022.02.043_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "1121",
+        "DOI": "10.1007/s11739-016-1505-8",
+        "article-title": "Variation in opioid prescribing patterns between ED providers",
+        "volume": "11",
+        "author": "Smulowitz",
+        "year": "2016",
+        "journal-title": "Intern Emerg Med"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ajem.2022.02.043_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "663",
+        "DOI": "10.1056/NEJMsa1610524",
+        "article-title": "Opioid-prescribing patterns of emergency physicians and risk of long-term use",
+        "volume": "376",
+        "author": "Barnett",
+        "year": "2017",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0195",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ienj.2019.100793",
+        "article-title": "Modeling emergency department nursing workload in real time: an exploratory study",
+        "volume": "48",
+        "author": "Clopton",
+        "year": "2020",
+        "journal-title": "Int Emerg Nurs"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ajem.2022.02.043_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1111/deci.12060",
+        "article-title": "Emergency department staff planning to improve patient care and reduce costs",
+        "volume": "45",
+        "author": "Ganguly",
+        "year": "2014",
+        "journal-title": "Decis Sci"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ajem.2022.02.043_bb0205",
+        "first-page": "247",
+        "article-title": "Mapping the 24-hour emergency department cycle to improve patient flow",
+        "volume": "33",
+        "author": "Welch",
+        "year": "2007",
+        "journal-title": "Jt Comm J Qual Patient Saf"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ajem.2022.02.043_bb0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/s12873-021-00525-0",
+        "article-title": "Does the time of the day affect multiple trauma care in hospitals? A retrospective analysis of data from the TraumaRegister DGU®",
+        "volume": "21",
+        "author": "Fitschen-Oestern",
+        "year": "2021",
+        "journal-title": "BMC Emerg Med"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ajem.2022.02.043_bb0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/j.annemergmed.2014.04.011",
+        "article-title": "Patient flow in the emergency department: A classification and analysis of admission process policies",
+        "volume": "64",
+        "author": "Kang",
+        "year": "2014",
+        "journal-title": "Ann Emerg Med"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ajem.2022.02.043_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "851",
+        "DOI": "10.1016/j.ajem.2018.07.054",
+        "article-title": "Emergency department provider and facility variation in opioid prescriptions for discharged patients",
+        "volume": "37",
+        "author": "Ward",
+        "year": "2019",
+        "journal-title": "Am J Emerg Med"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ajem.2022.02.043_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "236",
+        "DOI": "10.1111/acem.12328",
+        "article-title": "Rising opioid prescribing in adult U.S. emergency department visits: 2001-2010. Miner JR, ed",
+        "volume": "21",
+        "author": "Mazer-Amirshahi",
+        "year": "2014",
+        "journal-title": "Acad Emerg Med"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ajem.2022.02.043_bb0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "716",
+        "DOI": "10.1016/j.annemergmed.2012.07.010",
+        "article-title": "Understanding and interpreting the National Hospital Ambulatory Medical Care Survey: key questions and answers",
+        "volume": "60",
+        "author": "McCaig",
+        "year": "2012",
+        "journal-title": "Ann Emerg Med"
+      },
+      {
+        "key": "10.1016/j.ajem.2022.02.043_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "1754",
+        "DOI": "10.3389/fphar.2020.564412",
+        "article-title": "Prevalence of therapeutic use of opioids in chronic non-Cancer pain patients and associated factors: a systematic review and Meta-analysis",
+        "volume": "11",
+        "author": "De Sola",
+        "year": "2020",
+        "journal-title": "Front Pharmacol"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ajem.2022.02.043_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "593",
+        "DOI": "10.1007/s11606-005-0105-5",
+        "article-title": "Racial differences in opioid use for chronic nonmalignant pain",
+        "volume": "20",
+        "author": "Chen",
+        "year": "2005",
+        "journal-title": "J Gen Intern Med"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ajem.2022.02.043_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "704",
+        "DOI": "10.1177/0033354916663491",
+        "article-title": "Racial/ethnic disparities in rates of traumatic injury in Arizona, 2011-2012",
+        "volume": "131",
+        "author": "Chikani",
+        "year": "2016",
+        "journal-title": "Public Health Rep"
+      }
+    ],
+    "container-title": [
+      "The American Journal of Emergency Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0735675722001292?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0735675722001292?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2025-10-09T16:00:14Z",
+      "timestamp": 1760025614000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0735675722001292"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "references-count": 48,
+    "alternative-id": [
+      "S0735675722001292"
+    ],
+    "URL": "https://doi.org/10.1016/j.ajem.2022.02.043",
+    "relation": {},
+    "ISSN": [
+      "0735-6757"
+    ],
+    "issn-type": [
+      {
+        "value": "0735-6757",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Racial disparities in opioid administration and prescribing in the emergency department for pain",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The American Journal of Emergency Medicine",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ajem.2022.02.043",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2022 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

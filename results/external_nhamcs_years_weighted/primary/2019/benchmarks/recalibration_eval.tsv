@@ -1,0 +1,4 @@
+dataset_id	split_or_cohort	model_name	update_type	auc	brier	calibration_slope	calibration_intercept	n	n_events
+NHAMCS_ED_2019	external_validation	elasticnet_logistic_cv	none	0.765860157913308	0.13488570956062204	1.1402403213084011	-1.4196445597760616	806	88
+NHAMCS_ED_2019	external_validation	elasticnet_logistic_cv	recalibrate_intercept_only	0.765860157913308	0.08816410319943896	1.139312607581993	0.24678016879101342	806	88
+NHAMCS_ED_2019	external_validation	elasticnet_logistic_cv	recalibrate_slope_and_intercept	0.765860157913308	0.08783092904062018	0.9996499207190984	-0.0005233341604278343	806	88

@@ -1,0 +1,3 @@
+dataset	n_total	n_adult	n_suspected_gi	n_adult_suspected_gi	n_admitted
+MIMIC_IV_ED	425087	425011	19913	19913	7875
+NHAMCS_ED_2016_2022	123040	96539	7199	5071	570

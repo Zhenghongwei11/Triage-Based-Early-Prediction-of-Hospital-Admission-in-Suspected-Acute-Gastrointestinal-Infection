@@ -1,0 +1,182 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T09:55:38Z",
+      "timestamp": 1772358938889,
+      "version": "3.50.1"
+    },
+    "publisher-location": "Cham",
+    "reference-count": 0,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "value": "9783319194240",
+        "type": "print"
+      },
+      {
+        "value": "9783319194257",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2015-01-01T00:00:00Z",
+          "timestamp": 1420070400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2015-01-01T00:00:00Z",
+          "timestamp": 1420070400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-19425-7",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          8,
+          14
+        ]
+      ],
+      "date-time": "2015-08-14T16:28:52Z",
+      "timestamp": 1439569732000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3365,
+    "title": [
+      "Regression Modeling Strategies"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Frank E.",
+        "family": "Harrell ,",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Springer Series in Statistics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-319-19425-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-319-19425-7",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2023-02-21T08:12:43Z",
+      "timestamp": 1676967163000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-3-319-19425-7"
+      }
+    },
+    "subtitle": [
+      "With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319194240",
+      "9783319194257"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-3-319-19425-7",
+    "relation": {},
+    "ISSN": [
+      "0172-7397",
+      "2197-568X"
+    ],
+    "issn-type": [
+      {
+        "value": "0172-7397",
+        "type": "print"
+      },
+      {
+        "value": "2197-568X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  }
+}

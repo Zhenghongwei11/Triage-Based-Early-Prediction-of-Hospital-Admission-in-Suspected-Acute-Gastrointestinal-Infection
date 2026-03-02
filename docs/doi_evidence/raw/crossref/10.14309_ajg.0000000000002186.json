@@ -1,0 +1,865 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2026-01-19T03:25:50Z",
+      "timestamp": 1768793150972,
+      "version": "3.49.0"
+    },
+    "reference-count": 50,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              13
+            ]
+          ],
+          "date-time": "2023-01-13T00:00:00Z",
+          "timestamp": 1673568000000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "lww.com",
+        "ovid.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Am J Gastroenterol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>INTRODUCTION:</jats:title>\n            <jats:p>Acute infectious gastroenteritis (AGE) is a common reason for outpatient visits and hospitalizations in the United States. This study aimed to understand the demographic and clinical characteristics, common pathogens detected, health care resource utilization (HRU), and cost among adult outpatients with AGE visiting US health systems.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>METHODS:</jats:title>\n            <jats:p>A retrospective cohort study was conducted using one of the largest hospital discharge databases (PINC AI Healthcare Database) in the United States. Adult patients (aged ≥18 years) with a principal diagnosis of AGE during an outpatient visit between January 1, 2016, and June 30, 2021, were included. Pathogen detection analysis was performed in those with microbiology data available.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>RESULTS:</jats:title>\n            <jats:p>Among 248,896 patients, the mean age was 44.3 years (range 18–89+ years), 62.9% were female, and 68.5% were White. More than half (62.0%) of the patients did not have any preexisting comorbidity, and only 18.3% underwent stool workup at the hospital. Most patients (84.7%) were seen in the emergency department, and most (96.4%) were discharged home. Within 30 days of discharge, 1.0% were hospitalized, and 2.8% had another outpatient visit due to AGE. The mean cost of the index visit plus 30-day AGE-related follow-up was $1,338 per patient, amounting to $333,060,182 for the total study population. Among patients with microbiology data available (n = 12,469), common pathogens detected were <jats:italic toggle=\"yes\">Clostridioides difficile</jats:italic> (32.2%), norovirus (6.3%), and <jats:italic toggle=\"yes\">Campylobacter</jats:italic> spp. (4.0%).</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>DISCUSSION:</jats:title>\n            <jats:p>AGE is a common and costly disease affecting adults of all ages and more females than males, including individuals with or without baseline conditions in a hospital-based outpatient setting. <jats:italic toggle=\"yes\">C. difficile</jats:italic> was the most common pathogen detected.</jats:p>\n          </jats:sec>",
+    "DOI": "10.14309/ajg.0000000000002186",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2023-02-02T09:41:16Z",
+      "timestamp": 1675330876000
+    },
+    "page": "1069-1079",
+    "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Epidemiology and Economic Burden of Acute Infectious Gastroenteritis Among Adults Treated in Outpatient Settings in US Health Systems"
+    ],
+    "prefix": "10.14309",
+    "volume": "118",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6765-3506",
+        "authenticated-orcid": false,
+        "given": "Rena C.",
+        "family": "Moon",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "PINC AI Applied Sciences, Premier, Charlotte, North Carolina, USA;"
+          }
+        ]
+      },
+      {
+        "given": "Tammy C.",
+        "family": "Bleak",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Medical Affairs, bioMérieux, Salt Lake City, Utah, USA;"
+          }
+        ]
+      },
+      {
+        "given": "Ning A.",
+        "family": "Rosenthal",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "PINC AI Applied Sciences, Premier, Charlotte, North Carolina, USA;"
+          }
+        ]
+      },
+      {
+        "given": "Brianne",
+        "family": "Couturier",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Medical Affairs, bioMérieux, Salt Lake City, Utah, USA;"
+          }
+        ]
+      },
+      {
+        "given": "Rachael",
+        "family": "Hemmert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Medical Affairs, bioMérieux, Salt Lake City, Utah, USA;"
+          }
+        ]
+      },
+      {
+        "given": "Tristan T.",
+        "family": "Timbrook",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Medical Affairs, bioMérieux, Salt Lake City, Utah, USA;"
+          }
+        ]
+      },
+      {
+        "given": "Harold",
+        "family": "Brown",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "PINC AI Applied Sciences, Premier, Charlotte, North Carolina, USA;"
+          }
+        ]
+      },
+      {
+        "given": "Ferric C.",
+        "family": "Fang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Laboratory Medicine and Pathology and Department of Microbiology, University of Washington, Seattle, Washington, USA."
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "9",
+        "key": "R1-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1374",
+        "DOI": "10.1093/infdis/jis206",
+        "article-title": "The etiology of severe acute gastroenteritis among adults visiting emergency departments in the United States",
+        "volume": "205",
+        "author": "Bresee",
+        "year": "2012",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "issue": "1",
+        "key": "R2-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.3201/eid1701.P11101",
+        "article-title": "Foodborne illness acquired in the United States—Major pathogens",
+        "volume": "17",
+        "author": "Scallan",
+        "year": "2011",
+        "journal-title": "Emerging Infect Dis"
+      },
+      {
+        "issue": "12",
+        "key": "R3-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1248",
+        "DOI": "10.1001/jama.2018.2089",
+        "article-title": "Trends and patterns of differences in infectious disease mortality among US counties, 1980–2014",
+        "volume": "319",
+        "author": "El Bcheraoui",
+        "year": "2018",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "1",
+        "key": "R4-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1186/s12879-019-3754-4",
+        "article-title": "Risk factors for contagious gastroenteritis in adult patients with diarrhoea in the emergency department: A prospective observational multicentre study",
+        "volume": "19",
+        "author": "Skyum",
+        "year": "2019",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "issue": "18",
+        "key": "R5-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1776",
+        "DOI": "10.1056/NEJMra0804575",
+        "article-title": "Norovirus gastroenteritis",
+        "volume": "361",
+        "author": "Glass",
+        "year": "2009",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "12",
+        "key": "R6-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e010161",
+        "DOI": "10.1136/bmjopen-2015-010161",
+        "article-title": "High incidence of hospitalisation due to infectious gastroenteritis in older people associated with poor self-rated health",
+        "volume": "5",
+        "author": "Chen",
+        "year": "2015",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "issue": "10258",
+        "key": "R7-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1204",
+        "DOI": "10.1016/S0140-6736(20)30925-9",
+        "article-title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: A systematic analysis for the Global Burden of Disease Study 2019",
+        "volume": "396",
+        "year": "2020",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "2",
+        "key": "R8-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1080/23744235.2016.1224384",
+        "article-title": "Viral associated diarrhea in immunocompromised and cancer patients at a large comprehensive cancer center: A 10-year retrospective study",
+        "volume": "49",
+        "author": "Ghosh",
+        "year": "2017",
+        "journal-title": "Infect Dis"
+      },
+      {
+        "issue": "1",
+        "key": "R9-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1046/j.1468-1293.1999.00004.x",
+        "article-title": "Enteric viral infections as a cause of diarrhoea in the acquired immunodeficiency syndrome",
+        "volume": "1",
+        "author": "Thomas",
+        "year": "1999",
+        "journal-title": "HIV Med"
+      },
+      {
+        "issue": "2",
+        "key": "R10-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1093/cid/cis386",
+        "article-title": "The roles of Clostridium difficile and norovirus among gastroenteritis-associated deaths in the United States, 1999–2007",
+        "volume": "55",
+        "author": "Hall",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "1",
+        "key": "R11-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1186/s12876-014-0211-0",
+        "article-title": "Trends in gastroenteritis-associated mortality in the United States, 1985–2005: Variations by ICD-9 and ICD-10 codes",
+        "volume": "14",
+        "author": "Jagai",
+        "year": "2014",
+        "journal-title": "BMC Gastroenterol"
+      },
+      {
+        "issue": "4",
+        "key": "R12-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "466",
+        "DOI": "10.1093/cid/ciq163",
+        "article-title": "Increasing rates of gastroenteritis hospital discharges in US adults and the contribution of norovirus, 1996–2007",
+        "volume": "52",
+        "author": "Lopman",
+        "year": "2011",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "4",
+        "key": "R13-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e913",
+        "DOI": "10.1093/cid/ciab033",
+        "article-title": "Norovirus and other viral causes of medically attended acute gastroenteritis across the age spectrum: Results from the medically attended acute gastroenteritis study in the United States",
+        "volume": "73",
+        "author": "Burke",
+        "year": "2021",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "1",
+        "key": "R14-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1186/s12879-016-1610-3",
+        "article-title": "Epidemiological and economic burden of Clostridium difficile in the United States: Estimates from a modeling approach",
+        "volume": "16",
+        "author": "Desai",
+        "year": "2016",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "issue": "2",
+        "key": "R15-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.14252/foodsafetyfscj.2017028",
+        "article-title": "Epidemiology of foodborne norovirus outbreaks—United States, 2009–2015",
+        "volume": "6",
+        "author": "Marsh",
+        "year": "2018",
+        "journal-title": "Food Saf"
+      },
+      {
+        "issue": "7",
+        "key": "R16-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1",
+        "DOI": "10.1093/cid/cix1085",
+        "article-title": "Clinical practice guidelines for Clostridium difficile infection in adults and children: 2017 Update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA)",
+        "volume": "66",
+        "author": "McDonald",
+        "year": "2018",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R17-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.2147/CLEP.S106495",
+        "article-title": "Prevalence of human norovirus and Clostridium difficile coinfections in adult hospitalized patients",
+        "volume": "8",
+        "author": "Stokely",
+        "year": "2016",
+        "journal-title": "Clin Epidemiol"
+      },
+      {
+        "issue": "1",
+        "key": "R18-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1017/ice.2019.281",
+        "article-title": "Temporal trends of inpatient C. difficile infections within the Veterans Health Administration hospitals: An analysis of the effect of molecular testing, time to testing, and mandatory reporting",
+        "volume": "41",
+        "author": "Sumon",
+        "year": "2020",
+        "journal-title": "Infect Control Hosp Epidemiol"
+      },
+      {
+        "issue": "1",
+        "key": "R19-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1093/cid/ciz165",
+        "article-title": "Trends in incidence of norovirus-associated acute gastroenteritis in 4 veterans affairs medical center populations in the United States, 2011–2015",
+        "volume": "70",
+        "author": "Grytdal",
+        "year": "2020",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "12",
+        "key": "R20-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "3407",
+        "DOI": "10.1007/s10620-013-2848-x",
+        "article-title": "Epidemiology of Clostridium difficile-associated disease (CDAD): A shift from hospital-acquired infection to long-term care facility-based infection",
+        "volume": "58",
+        "author": "Garg",
+        "year": "2013",
+        "journal-title": "Dig Dis Sci"
+      },
+      {
+        "issue": "9",
+        "key": "R21-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2729",
+        "DOI": "10.1093/cid/ciaa806",
+        "article-title": "Incidence, etiology, and severity of acute gastroenteritis among prospectively enrolled patients in 4 veterans affairs hospitals and outpatient centers, 2016–2018",
+        "volume": "73",
+        "author": "Cardemil",
+        "year": "2021",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "3",
+        "key": "R22-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "915",
+        "DOI": "10.1128/JCM.02674-14",
+        "article-title": "Multicenter evaluation of the BioFire FilmArray gastrointestinal panel for etiologic diagnosis of infectious gastroenteritis",
+        "volume": "53",
+        "author": "Buss",
+        "year": "2015",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "issue": "11",
+        "key": "R23-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1688",
+        "DOI": "10.1093/cid/ciy357",
+        "article-title": "Clinical impact of a multiplex gastrointestinal polymerase chain reaction panel in patients with acute gastroenteritis",
+        "volume": "67",
+        "author": "Cybulski",
+        "year": "2018",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "6",
+        "key": "R24-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "927",
+        "DOI": "10.1377/hlthaff.2020.00426",
+        "article-title": "The potential health care costs and resource use associated with COVID-19 in the United States",
+        "volume": "39",
+        "author": "Bartsch",
+        "year": "2020",
+        "journal-title": "Health Aff (Millwood)"
+      },
+      {
+        "issue": "5",
+        "key": "R25-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "751",
+        "DOI": "10.1016/j.jval.2021.12.005",
+        "article-title": "Healthcare resource utilization of patients with COVID-19 visiting US hospitals",
+        "volume": "25",
+        "author": "Moon",
+        "year": "2022",
+        "journal-title": "Value Health"
+      },
+      {
+        "issue": "7",
+        "key": "R26-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "ofab133",
+        "DOI": "10.1093/ofid/ofab133",
+        "article-title": "The effects of social distancing policies on non-SARS-CoV-2 respiratory pathogens",
+        "volume": "8",
+        "author": "Nawrocki",
+        "year": "2021",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "issue": "12",
+        "key": "R27-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2029058",
+        "DOI": "10.1001/jamanetworkopen.2020.29058",
+        "article-title": "Risk factors associated with in-hospital mortality in a US national sample of patients with COVID-19",
+        "volume": "3",
+        "author": "Rosenthal",
+        "year": "2020",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "issue": "9596",
+        "key": "R30-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1453",
+        "DOI": "10.1016/S0140-6736(07)61602-X",
+        "article-title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: Guidelines for reporting observational studies",
+        "volume": "370",
+        "author": "von Elm",
+        "year": "2007",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "12",
+        "key": "R31-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1233",
+        "DOI": "10.1136/jcp.2003.015214",
+        "article-title": "Indeterminate colitis",
+        "volume": "57",
+        "author": "Guindi",
+        "year": "2004",
+        "journal-title": "J Clin Pathol"
+      },
+      {
+        "key": "R32-20250804",
+        "article-title": "Relationship between diagnostic method and pathogen detection, healthcare resource use, and cost in US adult outpatients treated for acute infectious gastroenteritis",
+        "author": "Moon",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "issue": "6",
+        "key": "R33-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1016/0895-4356(92)90133-8",
+        "article-title": "Adapting a clinical comorbidity index for use with ICD-9-CM administrative databases",
+        "volume": "45",
+        "author": "Deyo",
+        "year": "1992",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "12",
+        "key": "R35-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e45",
+        "DOI": "10.1093/cid/cix669",
+        "article-title": "2017 Infectious Diseases Society of America clinical practice guidelines for the diagnosis and management of infectious diarrhea",
+        "volume": "65",
+        "author": "Shane",
+        "year": "2017",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "19",
+        "key": "R37-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1771",
+        "DOI": "10.1056/NEJMoa1106483",
+        "article-title": "Epidemic profile of shiga-toxin–producing Escherichia coli O104:H4 outbreak in Germany",
+        "volume": "365",
+        "author": "Frank",
+        "year": "2011",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "14",
+        "key": "R38-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1359",
+        "DOI": "10.1001/jamainternmed.2013.7056",
+        "article-title": "Epidemiology of community-associated Clostridium difficile infection, 2009 through 2011",
+        "volume": "173",
+        "author": "Chitnis",
+        "year": "2013",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "issue": "2",
+        "key": "R39-20250804",
+        "first-page": "147",
+        "article-title": "Gender differences in the utilization of health care services",
+        "volume": "49",
+        "author": "Bertakis",
+        "year": "2000",
+        "journal-title": "J Fam Pract"
+      },
+      {
+        "issue": "6",
+        "key": "R40-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1443",
+        "DOI": "10.1111/j.1572-0241.2007.01780.x",
+        "article-title": "A national survey of the prevalence and impact of Clostridium difficile infection among hospitalized inflammatory bowel disease patients",
+        "volume": "103",
+        "author": "Nguyen",
+        "year": "2008",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "issue": "1",
+        "key": "R41-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.3201/eid2701.190676",
+        "article-title": "Estimate of burden and direct healthcare cost of infectious waterborne disease in the United States",
+        "volume": "27",
+        "author": "Collier",
+        "year": "2021",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "issue": "7",
+        "key": "R42-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "624",
+        "DOI": "10.1001/archsurg.142.7.624",
+        "article-title": "Increasing prevalence and severity of Clostridium difficile colitis in hospitalized patients in the United States",
+        "volume": "142",
+        "author": "Ricciardi",
+        "year": "2007",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "issue": "2",
+        "key": "R43-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1016/j.ajem.2014.11.023",
+        "article-title": "Prevalence of Clostridium difficile infection presenting to US EDs",
+        "volume": "33",
+        "author": "Smith",
+        "year": "2015",
+        "journal-title": "Am J Emerg Med"
+      },
+      {
+        "issue": "1",
+        "key": "R44-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.annemergmed.2016.12.013",
+        "article-title": "Clostridium difficile infection among US emergency department patients with diarrhea and no vomiting",
+        "volume": "70",
+        "author": "Abrahamian",
+        "year": "2017",
+        "journal-title": "Ann Emerg Med"
+      },
+      {
+        "issue": "1",
+        "key": "R45-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.1186/1471-2334-11-194",
+        "article-title": "Incidence of and risk factors for community-associated Clostridium difficile infection: A nested case-control study",
+        "volume": "11",
+        "author": "Kuntz",
+        "year": "2011",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "issue": "26",
+        "key": "R46-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "2100704",
+        "DOI": "10.2807/1560-7917.ES.2022.27.26.2100704",
+        "article-title": "A point-prevalence study on community and inpatient Clostridioides difficile infections (CDI): Results from Combatting Bacterial Resistance in Europe CDI (COMBACTE-CDI), July to November 2018",
+        "volume": "27",
+        "author": "Viprey",
+        "year": "2022",
+        "journal-title": "Euro Surveill"
+      },
+      {
+        "issue": "2",
+        "key": "R47-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1016/S1473-3099(04)00928-4",
+        "article-title": "Rotavirus infection in adults",
+        "volume": "4",
+        "author": "Anderson",
+        "year": "2004",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "issue": "11",
+        "key": "R48-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "3287",
+        "DOI": "10.1007/s10620-020-06071-2",
+        "article-title": "Prevalence and effect of intestinal infections detected by a PCR-based stool test in patients with inflammatory bowel disease",
+        "volume": "65",
+        "author": "Limsrivilai",
+        "year": "2020",
+        "journal-title": "Dig Dis Sci"
+      },
+      {
+        "issue": "10",
+        "key": "R49-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1530",
+        "DOI": "10.1038/s41395-018-0211-8",
+        "article-title": "Enteric infections are common in patients with flares of inflammatory bowel disease",
+        "volume": "113",
+        "author": "Axelrad",
+        "year": "2018",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "issue": "8",
+        "key": "R50-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e34757",
+        "DOI": "10.2196/34757",
+        "article-title": "Impact of COVID-19 social distancing mandates on gastrointestinal pathogen positivity: Secondary data analysis",
+        "volume": "8",
+        "author": "Palmer",
+        "year": "2022",
+        "journal-title": "JMIR Public Health Surveill"
+      },
+      {
+        "issue": "4",
+        "key": "R51-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "100184",
+        "DOI": "10.1016/j.infpip.2021.100184",
+        "article-title": "Where have the enteric viruses gone? Differential effects on frequent causes of infectious diarrhoea by SARS-CoV-2 pandemic lockdown measures",
+        "volume": "3",
+        "author": "Mack",
+        "year": "2021",
+        "journal-title": "Infect Prev Pract"
+      },
+      {
+        "issue": "8",
+        "key": "R52-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0256638",
+        "DOI": "10.1371/journal.pone.0256638",
+        "article-title": "Differential impact of the COVID-19 pandemic on laboratory reporting of norovirus and Campylobacter in England: A modelling approach",
+        "volume": "16",
+        "author": "Ondrikova",
+        "year": "2021",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "20",
+        "key": "R53-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "2018",
+        "DOI": "10.1001/jama.2022.5471",
+        "article-title": "Antibiotic prescriptions associated with COVID-19 outpatient visits among Medicare beneficiaries, April 2020 to April 2021",
+        "volume": "327",
+        "author": "Tsay",
+        "year": "2022",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "9",
+        "key": "R55-20250804",
+        "doi-asserted-by": "crossref",
+        "first-page": "1732",
+        "DOI": "10.1016/j.ajem.2020.06.007",
+        "article-title": "The impact of the COVID-19 pandemic on emergency department visits and patient safety in the United States",
+        "volume": "38",
+        "author": "Boserup",
+        "year": "2020",
+        "journal-title": "Am J Emerg Med"
+      }
+    ],
+    "container-title": [
+      "American Journal of Gastroenterology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.14309/ajg.0000000000002186",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2025-08-04T23:03:50Z",
+      "timestamp": 1754348630000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/10.14309/ajg.0000000000002186"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          13
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.14309/ajg.0000000000002186",
+    "relation": {},
+    "ISSN": [
+      "0002-9270",
+      "1572-0241"
+    ],
+    "issn-type": [
+      {
+        "value": "0002-9270",
+        "type": "print"
+      },
+      {
+        "value": "1572-0241",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-09-23",
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-01-06",
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

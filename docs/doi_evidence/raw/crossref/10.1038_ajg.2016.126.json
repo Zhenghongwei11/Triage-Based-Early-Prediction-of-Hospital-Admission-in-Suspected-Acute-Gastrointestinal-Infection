@@ -1,0 +1,2626 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T10:59:31Z",
+      "timestamp": 1772276371957,
+      "version": "3.50.1"
+    },
+    "reference-count": 225,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2016-05-01T00:00:00Z",
+          "timestamp": 1462060800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1038/ajg.2016.126",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2016-04-12T12:01:34Z",
+      "timestamp": 1460462494000
+    },
+    "page": "602-622",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 325,
+    "title": [
+      "ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults"
+    ],
+    "prefix": "10.14309",
+    "volume": "111",
+    "author": [
+      {
+        "given": "Mark S",
+        "family": "Riddle",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Herbert L",
+        "family": "DuPont",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bradley A",
+        "family": "Connor",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.3201/eid1701.P21101",
+        "article-title": "Foodborne illness acquired in the United Statesunspecified agents.",
+        "volume": "17",
+        "author": "Scallan",
+        "year": "2011",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "R2-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.3201/eid1701.P11101",
+        "article-title": "Foodborne illness acquired in the United Statesmajor pathogens.",
+        "volume": "17",
+        "author": "Scallan",
+        "year": "2011",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "R4-14-20210210",
+        "first-page": "1962",
+        "article-title": "Guidelines on acute infectious diarrhea in adults. The Practice Parameters Committee of the American College of Gastroenterology.",
+        "volume": "92",
+        "author": "DuPont",
+        "year": "1997",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "R5-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "331",
+        "DOI": "10.1086/318514",
+        "article-title": "Practice Guidelines for the Management of Infectious Diarrhea.",
+        "volume": "32",
+        "author": "Guerrant",
+        "year": "2001",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R6-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1097/MCG.0b013e31826df662",
+        "article-title": "Acute diarrhea in adults and children: a global perspective.",
+        "volume": "47",
+        "author": "Farthing",
+        "year": "2013",
+        "journal-title": "J Clin Gastroenterol"
+      },
+      {
+        "key": "R7-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "421",
+        "DOI": "10.1093/clinids/18.3.421",
+        "article-title": "Purpose of quality standards for infectious diseases.Infectious Diseases Society of America.",
+        "volume": "18",
+        "author": "Gross",
+        "year": "1994",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R8-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1490",
+        "DOI": "10.1136/bmj.328.7454.1490",
+        "article-title": "Grading quality of evidence and strength of recommendations.",
+        "volume": "328",
+        "author": "Atkins",
+        "year": "2004",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "R10-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1225",
+        "DOI": "10.1089/fpd.2010.0567",
+        "article-title": "The effect of different recall periods on estimates of acute gastroenteritis in the United States, FoodNet Population Survey 2006-2007.",
+        "volume": "7",
+        "author": "Cantwell",
+        "year": "2010",
+        "journal-title": "Foodborne Pathog Dis"
+      },
+      {
+        "key": "R13-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1001/jama.2014.17006",
+        "article-title": "Travelers diarrhea: a clinical review.",
+        "volume": "313",
+        "author": "Steffen",
+        "year": "2015",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R15-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "S102",
+        "DOI": "10.1097/MCG.0b013e31821fbf58",
+        "article-title": "Postinfectious functional gastrointestinal disorders.",
+        "volume": "45",
+        "author": "Mearin",
+        "year": "2011",
+        "journal-title": "J Clin Gastroenterol"
+      },
+      {
+        "key": "R16-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1173",
+        "DOI": "10.1080/00365520903171276",
+        "article-title": "Pathogenic mechanisms of postinfectious functional gastrointestinal disorders: results 3 years after gastroenteritis.",
+        "volume": "44",
+        "author": "Mearin",
+        "year": "2009",
+        "journal-title": "Scand J Gastroenterol"
+      },
+      {
+        "key": "R17-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "3262",
+        "DOI": "10.1007/s10620-011-1762-3",
+        "article-title": "Risk of functional gastrointestinal disorders in U.S. military following self-reported diarrhea and vomiting during deployment.",
+        "volume": "56",
+        "author": "Porter",
+        "year": "2011",
+        "journal-title": "Dig Dis Sci"
+      },
+      {
+        "key": "R18-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "130",
+        "DOI": "10.1038/ajg.2010.371",
+        "article-title": "The incidence and gastrointestinal infectious risk of functional gastrointestinal disorders in a healthy US adult population.",
+        "volume": "106",
+        "author": "Porter",
+        "year": "2011",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "R19-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1007/s10620-007-9853-x",
+        "article-title": "Development of functional diarrhea, constipation, irritable bowel syndrome, and dyspepsia during and after traveling outside the USA.",
+        "volume": "53",
+        "author": "Tuteja",
+        "year": "2008",
+        "journal-title": "Dig Dis Sci"
+      },
+      {
+        "key": "R20-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1007/s12223-013-0299-6",
+        "article-title": "Laribacter hongkongensis: an emerging pathogen of infectious diarrhea.",
+        "volume": "59",
+        "author": "Raja",
+        "year": "2014",
+        "journal-title": "Folia Microbiol"
+      },
+      {
+        "key": "R21-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1292",
+        "DOI": "10.4315/0362-028X.JFP-11-417",
+        "article-title": "Annual cost of illness and quality-adjusted life year losses in the United States due to 14 foodborne pathogens.",
+        "volume": "75",
+        "author": "Hoffmann",
+        "year": "2012",
+        "journal-title": "J Food Prot"
+      },
+      {
+        "key": "R22-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.4315/0362-028X.JFP-11-058",
+        "article-title": "Economic burden from health losses due to foodborne illness in the United States.",
+        "volume": "75",
+        "author": "Scharff",
+        "year": "2012",
+        "journal-title": "J Food Prot"
+      },
+      {
+        "key": "R23-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1125",
+        "DOI": "10.1111/risa.12316",
+        "article-title": "The per case and total annual costs of foodborne illness in the United States.",
+        "volume": "35",
+        "author": "Minor",
+        "year": "2015",
+        "journal-title": "Risk Anal"
+      },
+      {
+        "key": "R24-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1016/j.idc.2013.06.001",
+        "article-title": "Emerging trends in foodborne diseases.",
+        "volume": "27",
+        "author": "Braden",
+        "year": "2013",
+        "journal-title": "Infect Dis Clin N Am"
+      },
+      {
+        "key": "R25-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1089/fpd.2014.1816",
+        "article-title": "Drivers of uncertainty in estimates of foodborne gastroenteritis incidence.",
+        "volume": "11",
+        "author": "Glass",
+        "year": "2014",
+        "journal-title": "Foodborne Pathog Dis"
+      },
+      {
+        "key": "R27-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1089/fpd.2006.63",
+        "article-title": "FoodNet: overview of a decade of achievement.",
+        "volume": "4",
+        "author": "Jones",
+        "year": "2007",
+        "journal-title": "Foodborne Pathog Dis"
+      },
+      {
+        "key": "R28-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1016/j.idc.2013.05.001",
+        "article-title": "How to diagnose a foodborne illness.",
+        "volume": "27",
+        "author": "Donnenberg",
+        "year": "2013",
+        "journal-title": "Infect Dis Clin N Am"
+      },
+      {
+        "key": "R29-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1111/j.1708-8305.2009.00300.x",
+        "article-title": "Expert review of the evidence base for self-therapy of travelers diarrhea.",
+        "volume": "16",
+        "author": "DuPont",
+        "year": "2009",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R30-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "609",
+        "DOI": "10.4269/ajtmh.2009.80.609",
+        "article-title": "Global etiology of travelers diarrhea: systematic review from 1973 to the present.",
+        "volume": "80",
+        "author": "Shah",
+        "year": "2009",
+        "journal-title": "Am J Trop Med Hyg"
+      },
+      {
+        "key": "R31-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "728",
+        "DOI": "10.1093/clinids/19.4.728",
+        "article-title": "Clinical features and duration of travelers diarrhea in relation to its etiology.",
+        "volume": "19",
+        "author": "Mattila",
+        "year": "1994",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R32-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1128/CMR.00073-14",
+        "article-title": "Laboratory diagnosis of bacterial gastroenteritis.",
+        "volume": "28",
+        "author": "Humphries",
+        "year": "2015",
+        "journal-title": "Clin Microbiol Rev"
+      },
+      {
+        "key": "R33-14-20210210",
+        "first-page": "636",
+        "article-title": "Clinical significance of fecal lactoferrin and multiplex polymerase chain reaction in patients with acute diarrhea.",
+        "volume": "23",
+        "author": "Lee",
+        "year": "2014",
+        "journal-title": "Gut Liver"
+      },
+      {
+        "key": "R34-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2200",
+        "DOI": "10.1128/JCM.01666-07",
+        "article-title": "Detection of pathogenic protozoa in the diagnostic laboratory: result reproducibility, specimen pooling, and competency assessment.",
+        "volume": "46",
+        "author": "Libman",
+        "year": "2008",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R35-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1776",
+        "DOI": "10.1056/NEJMra0804575",
+        "article-title": "Norovirus gastroenteritis.",
+        "volume": "361",
+        "author": "Glass",
+        "year": "2009",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R36-14-20210210",
+        "first-page": "36",
+        "article-title": "The changing landscape of diagnostic testing for diarrheal disease.",
+        "volume": "46",
+        "author": "Raich",
+        "year": "2014",
+        "journal-title": "Med Lab Obs"
+      },
+      {
+        "key": "R37-14-20210210",
+        "first-page": "28",
+        "article-title": "Molecular revolution entering GI diagnostic testing.",
+        "volume": "45",
+        "author": "Dunbar",
+        "year": "2013",
+        "journal-title": "Med Lab Obs"
+      },
+      {
+        "key": "R38-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "504",
+        "DOI": "10.1016/j.jinf.2014.11.009",
+        "article-title": "A cost benefit analysis of the Luminex xTAG Gastrointestinal Pathogen Panel for detection of infectious gastroenteritis in hospitalised patients.",
+        "volume": "70",
+        "author": "Goldenberg",
+        "year": "2015",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "R39-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "663",
+        "DOI": "10.1016/S1473-3099(14)70844-8",
+        "article-title": "Multiplex testing of diarrhoea breaks down microbial barriers.",
+        "volume": "14",
+        "author": "Drancourt",
+        "year": "2014",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "key": "R40-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "961",
+        "DOI": "10.1007/s15010-014-0656-7",
+        "article-title": "Gastrointestinal pathogens detected by multiplex nucleic acid amplification testing in stools of pediatric patients and patients returning from the tropics.",
+        "volume": "42",
+        "author": "Beckmann",
+        "year": "2014",
+        "journal-title": "Infection"
+      },
+      {
+        "key": "R41-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "O460",
+        "DOI": "10.1111/1469-0691.12476",
+        "article-title": "Multiplex molecular testing for management of infectious gastroenteritis in a hospital setting: a comparative diagnostic and clinical utility study.",
+        "volume": "20",
+        "author": "Halligan",
+        "year": "2014",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "R42-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1016/j.phrp.2013.04.006",
+        "article-title": "Development of a diagnostic kit to detect Cryptosporidium parvum and Giardia lamblia.",
+        "volume": "4",
+        "author": "Cheun",
+        "year": "2013",
+        "journal-title": "Osong Public Health Res Perspect"
+      },
+      {
+        "key": "R43-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "248",
+        "DOI": "10.1016/j.diagmicrobio.2013.07.004",
+        "article-title": "Comparison of staining techniques and multiplex nested PCR for diagnosis of intestinal microsporidiosis.",
+        "volume": "77",
+        "author": "Saigal",
+        "year": "2013",
+        "journal-title": "Diagn Microbiol Infect Dis"
+      },
+      {
+        "key": "R45-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "122",
+        "DOI": "10.1016/j.jinf.2013.04.009",
+        "article-title": "Systematic application of multiplex PCR enhances the detection of bacteria, parasites, and viruses in stool samples.",
+        "volume": "67",
+        "author": "McAuliffe",
+        "year": "2013",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "R46-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "308",
+        "DOI": "10.1016/j.jcv.2010.12.009",
+        "article-title": "Multiplex reverse transcription PCR Luminex assay for detection and quantitation of viral agents of gastroenteritis.",
+        "volume": "50",
+        "author": "Liu",
+        "year": "2011",
+        "journal-title": "J Clin Virol"
+      },
+      {
+        "key": "R47-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "4001",
+        "DOI": "10.1128/JCM.02056-13",
+        "article-title": "Clinical evaluation of a real-time PCR assay for identification of Salmonella, Shigella, Campylobacter (Campylobacter jejuni and C. coli), and shiga toxin-producing Escherichia coli isolates in stool specimens.",
+        "volume": "51",
+        "author": "Buchan",
+        "year": "2013",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R48-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1017/S0950268813002367",
+        "article-title": "The increasing application of multiplex nucleic acid detection tests to the diagnosis of syndromic infections.",
+        "volume": "142",
+        "author": "Gray",
+        "year": "2014",
+        "journal-title": "Epidemiol Infect"
+      },
+      {
+        "key": "R49-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2384",
+        "DOI": "10.1128/JCM.06790-11",
+        "article-title": "Simultaneous detection of seven enteric viruses associated with acute gastroenteritis by a multiplexed Luminex-based assay.",
+        "volume": "50",
+        "author": "Liu",
+        "year": "2012",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R50-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1007/s11908-011-0223-7",
+        "article-title": "Molecular diagnosis of diarrhea: current status and future potential.",
+        "volume": "14",
+        "author": "Platts-Mills",
+        "year": "2012",
+        "journal-title": "Curr Infect Dis Rep"
+      },
+      {
+        "key": "R51-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "876",
+        "DOI": "10.1038/mi.2013.50",
+        "article-title": "New concepts in diagnostics for infectious diarrhea.",
+        "volume": "6",
+        "author": "Platts-Mills",
+        "year": "2013",
+        "journal-title": "Mucosal Immunol"
+      },
+      {
+        "key": "R52-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1007/s10096-014-2257-x",
+        "article-title": "Evaluation of a real-time multiplex PCR for the simultaneous detection of Campylobacter jejuni, Salmonella spp., Shigella spp.EIEC, and Yersinia enterocolitica in fecal samples.",
+        "volume": "34",
+        "author": "Van Lint",
+        "year": "2015",
+        "journal-title": "Eur J Clin Microbiol Infect Dis"
+      },
+      {
+        "key": "R53-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "935",
+        "DOI": "10.1586/14737159.2014.951035",
+        "article-title": "Molecular diagnosis of infectious diarrhea: focus on enteric protozoa.",
+        "volume": "14",
+        "author": "Verkerke",
+        "year": "2014",
+        "journal-title": "Expert Rev Mol Diagn"
+      },
+      {
+        "key": "R54-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "434",
+        "DOI": "10.1007/s11908-014-0434-9",
+        "article-title": "Recent advances in clinical parasitology diagnostics.",
+        "volume": "16",
+        "author": "Yansouni",
+        "year": "2014",
+        "journal-title": "Curr Infect Dis Rep"
+      },
+      {
+        "key": "R55-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.3201/eid2005.130966",
+        "article-title": "Shigella spp. with reduced azithromycin susceptibility, Quebec, Canada, 2012-2013.",
+        "volume": "20",
+        "author": "Gaudreau",
+        "year": "2014",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "R56-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1016/j.diagmicrobio.2013.12.005",
+        "article-title": "Epidemiological trends and patterns of antimicrobial resistance of Shigella spp. isolated from stool cultures in two different populations in Southern Israel.",
+        "volume": "78",
+        "author": "Peleg",
+        "year": "2014",
+        "journal-title": "Diagn Microbiol Infect Dis"
+      },
+      {
+        "key": "R57-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "282",
+        "DOI": "10.1016/j.diagmicrobio.2013.11.023",
+        "article-title": "Antimicrobial resistance of Shigella spp. from humans in Shanghai, China, 2004-2011.",
+        "volume": "78",
+        "author": "Zhang",
+        "year": "2014",
+        "journal-title": "Diagn Microbiol Infect Dis"
+      },
+      {
+        "key": "R58-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.3329/jhpn.v31i3.16834",
+        "article-title": "Characterization of extended-spectrum -lactamase-producing clinical isolates of Shigella flexneri.",
+        "volume": "31",
+        "author": "Mandal",
+        "year": "2013",
+        "journal-title": "J Health Popul Nutr"
+      },
+      {
+        "key": "R59-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.1016/j.tmaid.2013.06.010",
+        "article-title": "Antimicrobial resistance in Shigella spp. causing travellers diarrhoea (1995-2010): a retrospective analysis.",
+        "volume": "11",
+        "author": "Pons",
+        "year": "2013",
+        "journal-title": "Travel Med Infect Dis"
+      },
+      {
+        "key": "R60-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.3855/jidc.1016",
+        "article-title": "Antimicrobial susceptibilities of enteric bacterial pathogens isolated in Kathmandu, Nepal, during 2002-2004.",
+        "volume": "5",
+        "author": "Kansakar",
+        "year": "2011",
+        "journal-title": "J Infect Dev Ctries"
+      },
+      {
+        "key": "R61-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1089/mdr.2010.0028",
+        "article-title": "Reduced azithromycin susceptibility in Shigella sonnei, United States.",
+        "volume": "16",
+        "author": "Howie",
+        "year": "2010",
+        "journal-title": "Microb Drug Resist"
+      },
+      {
+        "key": "R62-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1089/mdr.2009.0130",
+        "article-title": "Antimicrobial resistance trends of Shigella serotypes in New York City, 2006-2009.",
+        "volume": "16",
+        "author": "Wong",
+        "year": "2010",
+        "journal-title": "Microb Drug Resist"
+      },
+      {
+        "key": "R64-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "e60",
+        "DOI": "10.1016/j.ejim.2011.06.005",
+        "article-title": "Empiric antimicrobial therapy and infectious diarrhea. Do we need local guidelines?",
+        "volume": "22",
+        "author": "Maragkoudakis",
+        "year": "2011",
+        "journal-title": "Eur J Intern Med"
+      },
+      {
+        "key": "R65-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1559",
+        "DOI": "10.1128/AAC.02360-12",
+        "article-title": "Outbreak of infections caused by Shigella sonnei with reduced susceptibility to azithromycin in the United States.",
+        "volume": "57",
+        "author": "Sjolund Karlsson",
+        "year": "2013",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R66-14-20210210",
+        "first-page": "1246",
+        "article-title": "Reducing deaths from diarrhoea through oral rehydration therapy.",
+        "volume": "78",
+        "author": "Victora",
+        "year": "2000",
+        "journal-title": "Bull World Health Organ"
+      },
+      {
+        "key": "R67-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1093/oxfordjournals.aje.a116282",
+        "article-title": "Hospitalizations involving gastroenteritis in the United States, 1985: the special burden of the disease among the elderly.",
+        "volume": "135",
+        "author": "Gangarosa",
+        "year": "1992",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "key": "R68-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1286",
+        "DOI": "10.1086/514786",
+        "article-title": "Oral rehydration therapy plus loperamide versus loperamide alone in the treatment of travelers diarrhea.",
+        "volume": "28",
+        "author": "Caeiro",
+        "year": "1999",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R69-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "296",
+        "DOI": "10.1136/gut.2003.022103",
+        "article-title": "Management of infectious diarrhoea.",
+        "volume": "53",
+        "author": "Casburn-Jones",
+        "year": "2004",
+        "journal-title": "Gut"
+      },
+      {
+        "key": "R70-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "438",
+        "DOI": "10.1097/00005176-199011000-00003",
+        "article-title": "Home-based therapy for diarrhea.",
+        "volume": "11",
+        "author": "Snyder",
+        "year": "1990",
+        "journal-title": "J Pediatr Gastroenterol Nutr"
+      },
+      {
+        "key": "R72-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2628",
+        "DOI": "10.1001/jama.291.21.2628",
+        "article-title": "Scientific rationale for a change in the composition of oral rehydration solution.",
+        "volume": "291",
+        "author": "Duggan",
+        "year": "2004",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R73-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "575",
+        "DOI": "10.1002/cphy.c130014",
+        "article-title": "Optimal composition of fluid-replacement beverages.",
+        "volume": "4",
+        "author": "Baker",
+        "year": "2014",
+        "journal-title": "Compr Physiol"
+      },
+      {
+        "key": "R74-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "376",
+        "DOI": "10.1007/s11894-014-0376-2",
+        "article-title": "Oral rehydration therapy in the second decade of the twenty-first century.",
+        "volume": "16",
+        "author": "Binder",
+        "year": "2014",
+        "journal-title": "Curr Gastroenterol Rep"
+      },
+      {
+        "key": "R76-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "3865",
+        "DOI": "10.1093/ajcn/73.2.386s",
+        "article-title": "In vitro selection criteria for propbiotic bacteria of human origin: correlation with in vivo findings.",
+        "volume": "73",
+        "author": "Dunne",
+        "year": "2001",
+        "journal-title": "Am J Clin Nutr"
+      },
+      {
+        "key": "R78-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1079/NRR200479",
+        "article-title": "Dietary modulation of the human colonic microbiota: updating the concept of prebiotics.",
+        "volume": "17",
+        "author": "Gibson",
+        "year": "2004",
+        "journal-title": "Nutr Res Rev"
+      },
+      {
+        "key": "R79-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1111/j.1442-200X.1987.tb00024.x",
+        "article-title": "The effects of Bifidobacterium breve administration on Campylobacter enteritis.",
+        "volume": "29",
+        "author": "Tojo",
+        "year": "2007",
+        "journal-title": "Acta Pediatr Jpn"
+      },
+      {
+        "key": "R80-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1046",
+        "DOI": "10.1016/S0140-6736(94)91708-6",
+        "article-title": "Feeding of Bifidobacterium bifidum and Streptococcus thermophilus to infants in hospital for prevention of diarrhoea and shedding of rotavirus.",
+        "volume": "344",
+        "author": "Saavedra",
+        "year": "1994",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "R81-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "791",
+        "DOI": "10.1007/s11259-007-0048-x",
+        "article-title": "Effects of the administration of lactobacilli, maltodextrins and fructooligosaccharides upon the adhesion of E-Coli O8: K88 to the intestinal mucosa and organic acid levels in the gut contents of piglets.",
+        "volume": "31",
+        "author": "Nemcova",
+        "year": "2007",
+        "journal-title": "Vet Res Commun"
+      },
+      {
+        "key": "R82-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "387",
+        "DOI": "10.1017/S0007114513002560",
+        "article-title": "Intestinal microbiota, diet and health.",
+        "volume": "111",
+        "author": "Power",
+        "year": "2014",
+        "journal-title": "Br J Nutr"
+      },
+      {
+        "key": "R84-14-20210210",
+        "first-page": "1717",
+        "article-title": "A new therapeutic alternative for the treatment of enteritiscontrolled double-blind tests with the strain SF 68.",
+        "volume": "70",
+        "author": "Bruno",
+        "year": "1981",
+        "journal-title": "Schweiz Rundsch Med Prax"
+      },
+      {
+        "key": "R85-14-20210210",
+        "first-page": "203",
+        "article-title": "Double-blind controlled study of the effect of the lactogenic enterococcus SF68 strain on various enterocolitis associated manifestations and on salmonella infections.",
+        "volume": "105",
+        "author": "Bruno",
+        "year": "1983",
+        "journal-title": "Clin Ter"
+      },
+      {
+        "key": "R86-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "887",
+        "DOI": "10.3109/00365529609051997",
+        "article-title": "Efficacy of SF 68 in the treatment of acute diarrhea. A placebo-controlled trial.",
+        "volume": "31",
+        "author": "Buydens",
+        "year": "1996",
+        "journal-title": "Scand J Gastroenterol"
+      },
+      {
+        "key": "R87-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1177/030006058901700405",
+        "article-title": "Double-blind report on the efficacy of lactic acid-producing Enterococcus SF68 in the prevention of antibiotic-associated diarrhoea and in the treatment of acute diarrhoea.",
+        "volume": "17",
+        "author": "Wunderlich",
+        "year": "1989",
+        "journal-title": "J Int Med Res"
+      },
+      {
+        "key": "R88-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1149",
+        "DOI": "10.1016/0016-5085(90)90638-H",
+        "article-title": "A double-blind, controlled trial of bioflorin (Streptococcus faecium SF68) in adults with acute diarrhea due to Vibrio cholerae and enterotoxigenic Escherichia coli.",
+        "volume": "99",
+        "author": "Mitra",
+        "year": "1990",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "R89-14-20210210",
+        "first-page": "188",
+        "article-title": "Saccharomyces boulardii in the treatment of acute adult diarrhoea. Saccharomyces boulardii bei acuter Erwachsenendiarrhoea.",
+        "volume": "132",
+        "author": "Hochter",
+        "year": "1990",
+        "journal-title": "Minchener medizinische Wochenschrift"
+      },
+      {
+        "key": "R90-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1384",
+        "DOI": "10.1086/319994",
+        "article-title": "Probiotic Enterococcus faecium strain is a possible recipient of the vanA gene cluster.",
+        "volume": "32",
+        "author": "Lund",
+        "year": "2001",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R91-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "531",
+        "DOI": "10.1097/MPG.0000000000000320",
+        "article-title": "Use of probiotics for management of acute gastroenteritis: a position paper by the ESPGHAN Working Group for Probiotics and Prebiotics.",
+        "volume": "58",
+        "author": "Szajewska",
+        "year": "2014",
+        "journal-title": "J Pediatr Gastroenterol Nutr"
+      },
+      {
+        "key": "R92-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "12301",
+        "DOI": "10.3748/wjg.v20.i34.12301",
+        "article-title": "Resolution of acute gastroenteritis symptoms in children and adults treated with a novel polyphenol-based prebiotic.",
+        "volume": "20",
+        "author": "Noguera",
+        "year": "2014",
+        "journal-title": "World J Gastroenterol"
+      },
+      {
+        "key": "R93-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1590/S0037-86822012000100021",
+        "article-title": "The effect of Lactobacillus casei and Bifidobacterium breve on antibiotic-associated diarrhea treatment: randomized double-blind clinical trial.",
+        "volume": "45",
+        "author": "Souza",
+        "year": "2012",
+        "journal-title": "Rev Soc Bras Med Trop"
+      },
+      {
+        "key": "R94-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1959",
+        "DOI": "10.1001/jama.2012.3507",
+        "article-title": "Probiotics for the prevention and treatment of antibiotic-associated diarrhea: a systematic review and meta-analysis.",
+        "volume": "307",
+        "author": "Hempel",
+        "year": "2012",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R95-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1016/S0016-5085(19)31771-8",
+        "article-title": "Symptomatic treatment of diarrhea with bismuth subsalicylate among students attending a Mexican university.",
+        "volume": "73",
+        "author": "DuPont",
+        "year": "1977",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "R96-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "709",
+        "DOI": "10.1016/0016-5085(93)91005-3",
+        "article-title": "Zaldaride maleate, an intestinal calmodulin inhibitor, in the therapy of travelers diarrhea.",
+        "volume": "104",
+        "author": "DuPont",
+        "year": "1993",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "R97-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2585",
+        "DOI": "10.1111/j.1572-0241.2002.06027.x",
+        "article-title": "A double blind, randomized, placebo-controlled study of SP-303 (Provir) in the symptomatic treatment of acute diarrhea among travelers to Jamaica and Mexico.",
+        "volume": "97",
+        "author": "DiCesare",
+        "year": "2002",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "R98-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "687",
+        "DOI": "10.1177/106002808702100901",
+        "article-title": "Bismuth subsalicylate in the treatment and prevention of diarrheal disease.",
+        "volume": "21",
+        "author": "DuPont",
+        "year": "1987",
+        "journal-title": "Drug Intell Clin Pharm"
+      },
+      {
+        "key": "R99-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1310/hct1406-261",
+        "article-title": "Efficacy and safety of crofelemer for noninfectious diarrhea in HIV-seropositive individuals (ADVENT trial): a randomized, double-blind, placebo-controlled, two-stage study.",
+        "volume": "14",
+        "author": "Macarthur",
+        "year": "2013",
+        "journal-title": "HIV Clin Trials"
+      },
+      {
+        "key": "R100-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1016/S0022-3565(25)20711-X",
+        "article-title": "Novel calmodulin antagonist CGS 9343B inhibits secretory diarrhea.",
+        "volume": "251",
+        "author": "Shook",
+        "year": "1989",
+        "journal-title": "J Pharmacol Exp Ther"
+      },
+      {
+        "key": "R101-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1093/clinids/21.2.341",
+        "article-title": "Zaldaride maleate (a new calmodulin antagonist) versus loperamide in the treatment of travelers diarrhea: randomized, placebo-controlled trial.",
+        "volume": "21",
+        "author": "Okhuysen",
+        "year": "1995",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R102-14-20210210",
+        "first-page": "871",
+        "article-title": "Treatment of travellers diarrhoea: zaldaride compared with loperamide and placebo.",
+        "volume": "7",
+        "author": "Siberschmidt",
+        "year": "1995",
+        "journal-title": "Eur J Gastroenterol Hep"
+      },
+      {
+        "key": "R104-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1056/NEJM200008173430703",
+        "article-title": "Racecadotril in the treatment of acute watery diarrhea in children.",
+        "volume": "343",
+        "author": "Salazar-Lindo",
+        "year": "2000",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R105-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1540",
+        "DOI": "10.3748/wjg.v11.i10.1540",
+        "article-title": "A blind, randomized comparison of racecadotril and loperamide for stopping acute diarrhea in adults.",
+        "volume": "11",
+        "author": "Wang",
+        "year": "2005",
+        "journal-title": "World J Gastroenterol"
+      },
+      {
+        "key": "R106-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1475",
+        "DOI": "10.1016/S0016-5085(84)80161-4",
+        "article-title": "Mechanism of the antidiarrheal effect of loperamide.",
+        "volume": "86",
+        "author": "Schiller",
+        "year": "1984",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "R107-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1016/0016-5085(88)90292-2",
+        "article-title": "Calmodulin-mediated effects of loperamide on chloride transport by brush border membrane vesicles from human ileum.",
+        "volume": "95",
+        "author": "Stoll",
+        "year": "1988",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "R108-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "757",
+        "DOI": "10.1001/jama.1986.03370060071021",
+        "article-title": "Comparison of loperamide with bismuth subsalicylate for the treatment of acute travelers diarrhea.",
+        "volume": "255",
+        "author": "Johnson",
+        "year": "1986",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R109-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "579",
+        "DOI": "10.1177/000992289903801003",
+        "article-title": "A multicenter randomized controlled trial of a liquid loperamide product versus placebo in the treatment of acute diarrhea in children.",
+        "volume": "38",
+        "author": "Kaplan",
+        "year": "1999",
+        "journal-title": "Clin Pediatr (Phila)"
+      },
+      {
+        "key": "R110-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1033",
+        "DOI": "10.1185/030079907X182176",
+        "article-title": "Randomized, double-blind, placebo-controlled clinical trial of loperamide plus simethicone versus loperamide alone and simethicone alone in the treatment of acute diarrhea with gas-related abdominal discomfort.",
+        "volume": "23",
+        "author": "Hanauer",
+        "year": "2007",
+        "journal-title": "Curr Med Res Opin"
+      },
+      {
+        "key": "R111-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1086/591703",
+        "article-title": "Effect of adjunctive loperamide in combination with antibiotics on treatment outcomes in travelers diarrhea: a systematic review and meta-analysis.",
+        "volume": "47",
+        "author": "Riddle",
+        "year": "2008",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R112-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1525",
+        "DOI": "10.1001/jama.1973.03230130013006",
+        "article-title": "Adverse effect of lomotil therapy in shigellosis.",
+        "volume": "226",
+        "author": "DuPont",
+        "year": "1973",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R113-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "598",
+        "DOI": "10.1086/596711",
+        "article-title": "Antimotility agents for the treatment of Clostridium difficile diarrhea and colitis.",
+        "volume": "48",
+        "author": "Koo",
+        "year": "2009",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R114-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "20S",
+        "DOI": "10.1016/0002-9343(90)90271-E",
+        "article-title": "A randomized, open-label comparison of nonprescription loperamide and attapulgite in the symptomatic treatment of acute diarrhea.",
+        "volume": "88",
+        "author": "DuPont",
+        "year": "1990",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "R115-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "844",
+        "DOI": "10.1001/jama.1976.03270080026025",
+        "article-title": "Antidiarrheal agents in the treatment of acute diarrhea in children.",
+        "volume": "236",
+        "author": "Portnoy",
+        "year": "1976",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R116-14-20210210",
+        "first-page": "CD002242",
+        "article-title": "Antibiotic treatment for travellers diarrhoea.",
+        "volume": "3",
+        "author": "De Bruyn",
+        "year": "2000",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "R117-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "S228",
+        "DOI": "10.1093/clind/15.Supplement_1.S228",
+        "article-title": "Cmea evaluation of new anti-infective drugs for the treatment of acute infectious diarrhea.",
+        "volume": "15",
+        "author": "Dupont",
+        "year": "1992",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R118-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1165",
+        "DOI": "10.1086/378746",
+        "article-title": "Azithromycin found to be comparable to levofloxacin for the treatment of US travelers with acute diarrhea acquired in Mexico.",
+        "volume": "37",
+        "author": "Adachi",
+        "year": "2003",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R119-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.7326/0003-4819-106-2-216",
+        "article-title": "Ciprofloxacin or trimethoprim-sulfamethoxazole as initial therapy for travelers diarrheaa placebo-controlled, randomized trial.",
+        "volume": "106",
+        "author": "Ericsson",
+        "year": "1987",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R120-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.2310/7060.2001.24244",
+        "article-title": "Optimal dosing of ofloxacin with loperamide in the treatment of non-dysenteric travelers diarrhea.",
+        "volume": "8",
+        "author": "Ericsson",
+        "year": "2001",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R121-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1537",
+        "DOI": "10.1016/S0140-6736(94)90350-6",
+        "article-title": "Randomised trial of single-dose ciprofloxacin for travellers diarrhoea.",
+        "volume": "344",
+        "author": "Salam",
+        "year": "1994",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "R122-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.1093/clinids/17.4.779",
+        "article-title": "Short-term treatment of travelers diarrhea with norfloxacin: a double-blind, placebo-controlled study during two seasons.",
+        "volume": "17",
+        "author": "Mattila",
+        "year": "1993",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R123-14-20210210",
+        "first-page": "3196",
+        "article-title": "Control), 2013. The European Union Summary Report on antimicrobial resistance in zoonotic and indicator bacteria from humans, animals and food in 2011.",
+        "volume": "11",
+        "year": "2013",
+        "journal-title": "EFSA J"
+      },
+      {
+        "key": "R124-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1111/j.1600-0463.2007.apm_567.x",
+        "article-title": "Trends in antimicrobial resistance in Campylobacter spp. causing travelers diarrhea.",
+        "volume": "115",
+        "author": "Ruiz",
+        "year": "2007",
+        "journal-title": "APMIS"
+      },
+      {
+        "key": "R125-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "727",
+        "DOI": "10.7326/0003-4819-117-9-727",
+        "article-title": "Treatment of shigellosis: III. Comparison of one- or two-dose ciprofloxacin with standard 5-day therapy. A randomized, blinded trial.",
+        "volume": "117",
+        "author": "Bennish",
+        "year": "1992",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R126-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1086/516303",
+        "article-title": "Trends in antibiotic resistance among diarrheal pathogens isolated in Thailand over 15 years.",
+        "volume": "26",
+        "author": "Hoge",
+        "year": "1998",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R127-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "536",
+        "DOI": "10.1093/clinids/21.3.536",
+        "article-title": "Use of azithromycin for the treatment of Campylobacter Enteritis in travelers to Thailand, an area where ciprofloxacin resistance is prevalent.",
+        "volume": "21",
+        "author": "Kuschner",
+        "year": "1995",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R128-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "905",
+        "DOI": "10.1093/jac/23.6.905",
+        "article-title": "Short-term self-treatment of travellers diarrhea with norfloxacin: a placebo-controlled study.",
+        "volume": "23",
+        "author": "Wistrom",
+        "year": "1989",
+        "journal-title": "J Antimicrob Chemother"
+      },
+      {
+        "key": "R129-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1128/AAC.36.1.87",
+        "article-title": "Five versus three daysof ofloxacin therapy for travelers diarrhea: a placebo-controlled study.",
+        "volume": "36",
+        "author": "Dupont",
+        "year": "1992",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R130-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1093/jac/30.5.693",
+        "article-title": "Ecological effects of short term ciprofloxacin treatment of travelers diarrheoa.",
+        "volume": "30",
+        "author": "Wistrom",
+        "year": "1992",
+        "journal-title": "J Antimicrob Chemother"
+      },
+      {
+        "key": "R131-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1060",
+        "DOI": "10.4269/ajtmh.2006.74.1060",
+        "article-title": "A randomized, double-blind, multicenter study of rifaximin compared with placebo and with ciprofloxacin in the treatment of travelers diarrhea.",
+        "volume": "74",
+        "author": "Taylor",
+        "year": "2006",
+        "journal-title": "Am J Trop Med Hyg"
+      },
+      {
+        "key": "R132-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1254",
+        "DOI": "10.1086/496986",
+        "article-title": "Emergence of fluoroquinolones as the predominant risk factor for Clostridium difficile-associated diarrhea: a cohort study during an epidemic in Quebec.",
+        "volume": "41",
+        "author": "Pepin",
+        "year": "2005",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R135-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.1086/519264",
+        "article-title": "Azithromycin and loperamide are comparable to levofloxacin and loperamide for the treatment of travelers diarrhea in United States military personnel in Turkey.",
+        "volume": "45",
+        "author": "Sanders",
+        "year": "2007",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R136-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1086/510589",
+        "article-title": "Travelers diarrhea in Thailand: randomized, double-blind trial comparing single-dose and 3-day azithromycin-based regimens with a 3-day levofloxacin regimen.",
+        "volume": "44",
+        "author": "Tribble",
+        "year": "2007",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R137-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1128/AAC.45.1.212-216.2001",
+        "article-title": "In vitro antimicrobial susceptibility testing of bacterial enteropathogens causing travelers diarrhea in four geographic regions.",
+        "volume": "45",
+        "author": "Gomi",
+        "year": "2001",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R138-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "13955",
+        "DOI": "10.1073/pnas.94.25.13955",
+        "article-title": "A dichotomous role for nitric oxide during acute Toxoplasma gondii infection in mice.",
+        "volume": "94",
+        "author": "Khan",
+        "year": "1997",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "R139-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "874",
+        "DOI": "10.1128/AAC.00739-10",
+        "article-title": "In vitro antimicrobial susceptibility of bacterial enteropathogens isolated from international travelers to Mexico, Guatemala, and India from 2006 to 2008.",
+        "volume": "55",
+        "author": "Ouyang-Latimer",
+        "year": "2011",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R140-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1807",
+        "DOI": "10.1086/323814",
+        "article-title": "Rifaximin versus ciprofloxacin for the treatment of travelers diarrhea: a randomized, double-blind clinical trial.",
+        "volume": "33",
+        "author": "DuPont",
+        "year": "2001",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R141-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/S1542-3565(03)00322-7",
+        "article-title": "Enteroaggregative Escherichia coli diarrhea in travelers: response to rifaximin therapy.",
+        "volume": "2",
+        "author": "Infante",
+        "year": "2004",
+        "journal-title": "Clin Gastroenterol Hepatol"
+      },
+      {
+        "key": "R142-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1807",
+        "DOI": "10.1086/323814",
+        "article-title": "Rifaximin versus ciprofloxacin for the treatment of travelers diarrhea: a randomized, double-blind clinical trial.",
+        "volume": "33",
+        "author": "Dupont",
+        "year": "2001",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R143-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1073",
+        "DOI": "10.1111/j.1572-0241.2003.07283.x",
+        "article-title": "Therapy of travelers diarrhea with rifaximin on various continents.",
+        "volume": "98",
+        "author": "Steffen",
+        "year": "2003",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "R144-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "996",
+        "DOI": "10.1001/jama.288.8.996",
+        "article-title": "Risk of hemolytic uremic syndrome after antibiotic treatment of Escherichia coli O157:H7 enteritis: a meta-analysis.",
+        "volume": "288",
+        "author": "Safdar",
+        "year": "2002",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R145-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "869",
+        "DOI": "10.1001/archinte.1973.03650120071013",
+        "article-title": "Permanent carriers of nontyphosa salmonellae.",
+        "volume": "132",
+        "author": "Musher",
+        "year": "1973",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R146-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1060",
+        "DOI": "10.1086/529380",
+        "article-title": "Clostridium difficile-associated diarrhea after antibiotic treatment for travelers diarrhea.",
+        "volume": "46",
+        "author": "Norman",
+        "year": "2008",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R147-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "837",
+        "DOI": "10.1093/cid/ciu957",
+        "article-title": "Antimicrobials increase travelers risk of colonization by extended-spectrum betalactamase-producing Enterobacteriaceae.",
+        "volume": "60",
+        "author": "Kantele",
+        "year": "2015",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R148-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "847",
+        "DOI": "10.1093/cid/ciu961",
+        "article-title": "Antibiotic self-treatment of travelers diarrhea: helpful or harmful?",
+        "volume": "60",
+        "author": "Connor",
+        "year": "2015",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R149-14-20210210",
+        "first-page": "CD007787",
+        "article-title": "Drugs for treating giardiasis.",
+        "volume": "12",
+        "author": "Granados",
+        "year": "2012",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "R150-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "e682",
+        "DOI": "10.1371/journal.pntd.0000682",
+        "article-title": "A meta-analysis of the effectiveness of albendazole compared with metronidazole as treatments for infections with Giardia duodenalis.",
+        "volume": "4",
+        "author": "Solaymani-Mohammadi",
+        "year": "2010",
+        "journal-title": "PLoS Negl Trop Dis"
+      },
+      {
+        "key": "R151-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1565",
+        "DOI": "10.1056/NEJMra022710",
+        "article-title": "Amebiasis.",
+        "volume": "348",
+        "author": "Haque",
+        "year": "2003",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R153-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1007/s11908-006-0003-y",
+        "article-title": "Use of nitazoxanide for gastrointestinal tract infections: treatment of protozoan parasitic infection and beyond.",
+        "volume": "8",
+        "author": "Bobak",
+        "year": "2006",
+        "journal-title": "Curr Infect Dis Rep"
+      },
+      {
+        "key": "R154-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1859",
+        "DOI": "10.1016/j.clinthera.2005.12.012",
+        "article-title": "Tinidazole: a nitroimidazole antiprotozoal agent.",
+        "volume": "27",
+        "author": "Fung",
+        "year": "2005",
+        "journal-title": "Clin Ther"
+      },
+      {
+        "key": "R155-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1128/CMR.00026-09",
+        "article-title": "Update on Cyclospora cayetanensis, a food-borne and waterborne parasite.",
+        "volume": "23",
+        "author": "Ortega",
+        "year": "2010",
+        "journal-title": "Clin Microbiol Rev"
+      },
+      {
+        "key": "R156-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1007/s11908-013-0328-2",
+        "article-title": "Chronic diarrhea in travelers.",
+        "volume": "15",
+        "author": "Connor",
+        "year": "2013",
+        "journal-title": "Curr Infect Dis Rep"
+      },
+      {
+        "key": "R157-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1292",
+        "DOI": "10.1093/clinids/23.6.1292",
+        "article-title": "Effective use of the clinical microbiology laboratory for diagnosing diarrheal diseases.",
+        "volume": "23",
+        "author": "Hines",
+        "year": "1996",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R158-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "464",
+        "DOI": "10.1097/QCO.0b013e32834aa13a",
+        "article-title": "Defining the causes of diarrhea: novel approaches.",
+        "volume": "24",
+        "author": "Operario",
+        "year": "2011",
+        "journal-title": "Curr Opin Infect Dis"
+      },
+      {
+        "key": "R159-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "476",
+        "DOI": "10.7883/yoken.JJID.2009.476",
+        "article-title": "Rapid diagnostic method for the detection of diarrheagenic Escherichia coli by multiplex PCR.",
+        "volume": "62",
+        "author": "Fujioka",
+        "year": "2009",
+        "journal-title": "Jpn J Infect Dis"
+      },
+      {
+        "key": "R160-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "574",
+        "DOI": "10.1128/JCM.01693-10",
+        "article-title": "Shiga-toxigenic Escherichia coli detection in stool samples screened for viral gastroenteritis in Alberta, Canada.",
+        "volume": "49",
+        "author": "Couturier",
+        "year": "2011",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R161-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "3922",
+        "DOI": "10.1128/JCM.40.11.3922-3928.2002",
+        "article-title": "Real-time PCR method for detection of encephalitozoonintestinalis from stool specimens.",
+        "volume": "40",
+        "author": "Wolk",
+        "year": "2002",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R162-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "529",
+        "DOI": "10.1007/s10096-004-1149-x",
+        "article-title": "Blinded application of microscopy, bacteriological culture, immunoassays and PCR to detect gastrointestinal pathogens from faecal samples of patients with community-acquired diarrhoea.",
+        "volume": "23",
+        "author": "Amar",
+        "year": "2004",
+        "journal-title": "Eur J Clin Microbiol Infect Dis"
+      },
+      {
+        "key": "R163-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "391",
+        "DOI": "10.1080/00365520600881193",
+        "article-title": "Diagnostic value of endoscopy for the diagnosis of giardiasis and other intestinal diseases in patients with persistent diarrhea from tropical or subtropical areas.",
+        "volume": "42",
+        "author": "Wahnschaffe",
+        "year": "2007",
+        "journal-title": "Scand J Gastroenterol"
+      },
+      {
+        "key": "R164-14-20210210",
+        "first-page": "372",
+        "article-title": "Chronic, unexplained diarrhea: are biopsies necessary if colonoscopy is normal?",
+        "volume": "90",
+        "author": "Marshall",
+        "year": "1995",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "R165-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1016/S0016-5107(97)70122-6",
+        "article-title": "The diagnostic yield of lower endoscopy plus biopsy in nonbloody diarrhea.",
+        "volume": "46",
+        "author": "Patel",
+        "year": "1997",
+        "journal-title": "Gastrointest Endosc"
+      },
+      {
+        "key": "R166-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.3904/kjim.1997.12.2.182",
+        "article-title": "The role of mucosal biopsy in the diagnosis of chronic diarrhea: value of multiple biopsies when colonoscopic finding is normal or nonspecific.",
+        "volume": "12",
+        "author": "Lee",
+        "year": "1997",
+        "journal-title": "Korean J Intern Med"
+      },
+      {
+        "key": "R167-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1091",
+        "DOI": "10.1111/j.1572-0241.2001.03745.x",
+        "article-title": "Usefulness of colonoscopy with biopsy in the evaluation of patients with chronic diarrhea.",
+        "volume": "96",
+        "author": "Shah",
+        "year": "2001",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "R168-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1016/S0016-5107(00)70362-2",
+        "article-title": "The prevalence, anatomic distribution, and diagnosis of colonic causes of chronic diarrhea.",
+        "volume": "51",
+        "author": "Fine",
+        "year": "2000",
+        "journal-title": "Gastrointest Endosc"
+      },
+      {
+        "key": "R169-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1097/01.mcg.0000190760.72992.ed",
+        "article-title": "Histologic study of colonic mucosa in patients with chronic diarrhea and normal colonoscopic findings.",
+        "volume": "40",
+        "author": "da Silva",
+        "year": "2006",
+        "journal-title": "J Clin Gastroenterol"
+      },
+      {
+        "key": "R170-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "887",
+        "DOI": "10.1016/j.gie.2009.11.025",
+        "article-title": "The role of endoscopy in the management of patients with diarrhea.",
+        "volume": "71",
+        "year": "2010",
+        "journal-title": "Gastrointest Endosc"
+      },
+      {
+        "key": "R171-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "757",
+        "DOI": "10.1016/j.gie.2010.11.037",
+        "article-title": "Adequacy of flexible sigmoidoscopy with biopsy for diarrhea in patients under age 50 without features of proximal disease.",
+        "volume": "73",
+        "author": "Shale",
+        "year": "2011",
+        "journal-title": "Gastrointest Endosc"
+      },
+      {
+        "key": "R172-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1055/s-0028-1119627",
+        "article-title": "Appropriateness of colonoscopy in Europe (EPAGE II). Chronic diarrhea and known inflammatory bowel disease.",
+        "volume": "41",
+        "author": "Schussele Filliettaz",
+        "year": "2009",
+        "journal-title": "Endoscopy"
+      },
+      {
+        "key": "R173-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1628",
+        "DOI": "10.1007/s10350-007-9029-y",
+        "article-title": "Appropriateness of colonoscopy in the era of colorectal cancer screening: a prospective, multicenter study in a private-practice setting (Berlin Colonoscopy Project 1, BECOP 1).",
+        "volume": "50",
+        "author": "Adler",
+        "year": "2007",
+        "journal-title": "Dis Colon Rectum"
+      },
+      {
+        "key": "R174-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1122",
+        "DOI": "10.1023/A:1015058611858",
+        "article-title": "Collagenous and lymphocytic colitis in Iceland.",
+        "volume": "47",
+        "author": "Agnarsdottir",
+        "year": "2002",
+        "journal-title": "Dig Dis Sci"
+      },
+      {
+        "key": "R175-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1055/s-2002-25277",
+        "article-title": "Do explicit appropriateness criteria enhance the diagnostic yield of colonoscopy?",
+        "volume": "34",
+        "author": "de Bosset",
+        "year": "2002",
+        "journal-title": "Endoscopy"
+      },
+      {
+        "key": "R176-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "646",
+        "DOI": "10.1007/s10350-005-0306-3",
+        "article-title": "Colonoscopy in the elderly: low risk, low yield in asymptomatic patients.",
+        "volume": "49",
+        "author": "Duncan",
+        "year": "2006",
+        "journal-title": "Dis Colon Rectum"
+      },
+      {
+        "key": "R177-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1111/j.1572-0241.1999.00870.x",
+        "article-title": "Incidence of collagenous and lymphocytic colitis: a 5-year population-based study.",
+        "volume": "94",
+        "author": "Fernandez-Banares",
+        "year": "1999",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "R178-14-20210210",
+        "first-page": "729",
+        "article-title": "A European view of diagnostic yield and appropriateness of colonoscopy.",
+        "volume": "54",
+        "author": "Gonvers",
+        "year": "2007",
+        "journal-title": "Hepatogastroenterology"
+      },
+      {
+        "key": "R179-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "356",
+        "DOI": "10.1080/00365520701679116",
+        "article-title": "Diagnostic yield of colonoscopy based on symptoms.",
+        "volume": "43",
+        "author": "Lasson",
+        "year": "2008",
+        "journal-title": "Scand J Gastroenterol"
+      },
+      {
+        "key": "R180-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "647",
+        "DOI": "10.1067/mge.2000.105082",
+        "article-title": "Colonic neoplasia in patients with nonspecific GI symptoms.",
+        "volume": "51",
+        "author": "Lieberman",
+        "year": "2000",
+        "journal-title": "Gastrointest Endosc"
+      },
+      {
+        "key": "R181-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "416",
+        "DOI": "10.1016/S0002-9343(99)00456-8",
+        "article-title": "Flexible sigmoidoscopy for the detection of microscopic colitis.",
+        "volume": "108",
+        "author": "Matteoni",
+        "year": "2000",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "R182-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1067/mge.2001.116565",
+        "article-title": "Diagnostic yield of open access colonoscopy according to appropriateness.",
+        "volume": "54",
+        "author": "Morini",
+        "year": "2001",
+        "journal-title": "Gastrointest Endosc"
+      },
+      {
+        "key": "R183-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "451",
+        "DOI": "10.1016/S0046-8177(99)90122-3",
+        "article-title": "Collagenous colitis: a study of the distribution of morphological abnormalities and their histological detection.",
+        "volume": "30",
+        "author": "Offner",
+        "year": "1999",
+        "journal-title": "Hum Pathol"
+      },
+      {
+        "key": "R184-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "346",
+        "DOI": "10.1136/gut.2003.014431",
+        "article-title": "Microscopic colitis: a common diarrhoeal disease. An epidemiological study in Orebro, Sweden, 1993-1998.",
+        "volume": "53",
+        "author": "Olesen",
+        "year": "2004",
+        "journal-title": "Gut"
+      },
+      {
+        "key": "R185-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "504",
+        "DOI": "10.1136/gut.2006.105890",
+        "article-title": ", Smyrk TC et al. The epidemiology of microscopic colitis: a population based study in Olmsted County, Minnesota.",
+        "volume": "56",
+        "author": "Pardi",
+        "year": "2007",
+        "journal-title": "Gut"
+      },
+      {
+        "key": "R186-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "276",
+        "DOI": "10.1046/j.1440-1746.2002.02686.x",
+        "article-title": "Routine colonic mucosal biopsy and ileoscopy increases diagnostic yield in patients undergoing colonoscopy for diarrhea.",
+        "volume": "17",
+        "author": "Yusoff",
+        "year": "2002",
+        "journal-title": "J Gastroenterol Hepatol"
+      },
+      {
+        "key": "R189-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "745",
+        "DOI": "10.1016/j.tmaid.2014.10.012",
+        "article-title": "Effectiveness of pre-travel consultation in the prevention of travel-related diseases: a retrospective cohort study.",
+        "volume": "12",
+        "author": "Tafuri",
+        "year": "2014",
+        "journal-title": "Travel Med Infect Dis"
+      },
+      {
+        "key": "R190-14-20210210",
+        "first-page": "1",
+        "article-title": "Outbreaks of acute gastroenteritis transmitted by person-to-person contactUnited States, 2009-2010.",
+        "volume": "61",
+        "author": "Wikswo",
+        "year": "2012",
+        "journal-title": "MMWR Surveill Summ"
+      },
+      {
+        "key": "R191-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1532",
+        "DOI": "10.1056/NEJMra1301069",
+        "article-title": "Acute infectious diarrhea in immunocompetent adults.",
+        "volume": "370",
+        "author": "DuPont",
+        "year": "2014",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R192-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1056/NEJM197107012850101",
+        "article-title": "Pathogenesis of Escherichia coli diarrhea.",
+        "volume": "285",
+        "author": "DuPont",
+        "year": "1971",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R193-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "465",
+        "DOI": "10.1093/infdis/171.2.465",
+        "article-title": "Heterogeneity of enteroaggregative Escherichia coli virulence demonstrated in volunteers.",
+        "volume": "171",
+        "author": "Nataro",
+        "year": "1995",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "key": "R194-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1016/j.jhin.2012.08.005",
+        "article-title": "Comparison of virucidal activity of alcohol-based hand sanitizers versus antimicrobial hand soaps in vitro and in vivo.",
+        "volume": "82",
+        "author": "Steinmann",
+        "year": "2012",
+        "journal-title": "J Hosp Infect"
+      },
+      {
+        "key": "R195-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "394",
+        "DOI": "10.1128/AEM.01729-09",
+        "article-title": "Effectiveness of liquid soap and hand sanitizer against Norwalk virus on contaminated hands.",
+        "volume": "76",
+        "author": "Liu",
+        "year": "2010",
+        "journal-title": "Appl Environ Microbiol"
+      },
+      {
+        "key": "R196-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "332",
+        "DOI": "10.2310/7060.2005.12606",
+        "article-title": "Effect of maximizing a travel medicine clinics prevention strategies.",
+        "volume": "12",
+        "author": "Horvath",
+        "year": "2005",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R197-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "479",
+        "DOI": "10.1111/j.1365-3156.2006.01592.x",
+        "article-title": "Combining drinking water treatment and hand washing for diarrhoea prevention, a cluster randomised controlled trial.",
+        "volume": "11",
+        "author": "Luby",
+        "year": "2006",
+        "journal-title": "Trop Med Int Health"
+      },
+      {
+        "key": "R198-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2547",
+        "DOI": "10.1001/jama.291.21.2547",
+        "article-title": "Effect of intensive handwashing promotion on childhood diarrhea in high-risk communities in Pakistan: a randomized controlled trial.",
+        "volume": "291",
+        "author": "Luby",
+        "year": "2004",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R199-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.1111/tmi.12263",
+        "article-title": "Associations between presence of handwashing stations and soap in the home and diarrhoea and respiratory illness, in children less than five years old in rural western Kenya.",
+        "volume": "19",
+        "author": "Kamm",
+        "year": "2014",
+        "journal-title": "Trop Med Int Health"
+      },
+      {
+        "key": "R200-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1186/1471-2334-10-250",
+        "article-title": "Effectiveness of alcohol-based hand disinfectants in a public administration: impact on health and work performance related to acute respiratory symptoms and diarrhoea.",
+        "volume": "10",
+        "author": "Hubner",
+        "year": "2010",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "R201-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.2310/7060.2004.13621",
+        "article-title": "Influence of hygiene on gastrointestinal illness among wilderness backpackers.",
+        "volume": "11",
+        "author": "Boulware",
+        "year": "2004",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R202-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1186/1471-2334-12-43",
+        "article-title": "Travel risk behaviours and uptake of pre-travel health preventions by university students in Australia.",
+        "volume": "12",
+        "author": "Heywood",
+        "year": "2012",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "R203-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.1111/j.1708-8305.2010.00458.x",
+        "article-title": "Knowledge, attitudes, and practices of US travelers to Asia regarding seasonal influenza and H5N1 avian influenza prevention measures.",
+        "volume": "17",
+        "author": "Yanni",
+        "year": "2010",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R204-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1111/j.1708-8305.2010.00405.x",
+        "article-title": "Knowledge, attitudes, and practices of Japanese travelers on infectious disease risks and immunization uptake.",
+        "volume": "17",
+        "author": "Namikawa",
+        "year": "2010",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R205-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1111/j.1708-8305.2009.00322.x",
+        "article-title": "Travel health risk perceptions and prevention behaviors of US study abroad students.",
+        "volume": "16",
+        "author": "Hartjes",
+        "year": "2009",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R206-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.2310/7060.2005.00006",
+        "article-title": "Vaccines in travel health: from risk assessment to priorities.",
+        "volume": "12",
+        "author": "Steffen",
+        "year": "2005",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R207-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1347",
+        "DOI": "10.1001/jama.1987.03390100085031",
+        "article-title": "Prevention of travelers diarrhea by the tablet formulation of bismuth subsalicylate.",
+        "volume": "257",
+        "author": "DuPont",
+        "year": "1987",
+        "journal-title": "Jama"
+      },
+      {
+        "key": "R208-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1001/jama.1980.03300290019013",
+        "article-title": "Prevention of travelers diarrhea (emporiatric enteritis). Prophylactic administration of subsalicylate bismuth).",
+        "volume": "243",
+        "author": "DuPont",
+        "year": "1980",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R209-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "625",
+        "DOI": "10.1128/AAC.29.4.625",
+        "article-title": "Prevention of travelers diarrhea by the tablet form of bismuth subsalicylate.",
+        "volume": "29",
+        "author": "Steffen",
+        "year": "1986",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R210-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1017",
+        "DOI": "10.1016/S0016-5085(83)80066-3",
+        "article-title": "Double-blind comparison of bismuth subsalicylate and placebo in the prevention and treatment of enterotoxigenic Escherichia coli-induced diarrhea in volunteers.",
+        "volume": "85",
+        "author": "Graham",
+        "year": "1983",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "R212-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "306",
+        "DOI": "10.1128/AAC.27.3.306",
+        "article-title": "In vitro activities of bismuth salts against rotaviruses and other enteric viruses.",
+        "volume": "27",
+        "author": "Ward",
+        "year": "1985",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R213-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2419",
+        "DOI": "10.1023/A:1026618501729",
+        "article-title": "Mechanism of gastroprotection by bismuth subsalicylate against chemically induced oxidative stress in cultured human gastric mucosal cells.",
+        "volume": "44",
+        "author": "Bagchi",
+        "year": "1999",
+        "journal-title": "Dig Dis Sci"
+      },
+      {
+        "key": "R215-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1111/j.1708-8305.2008.00299.x",
+        "article-title": "Expert review of the evidence base for prevention of travelers diarrhea.",
+        "volume": "16",
+        "author": "DuPont",
+        "year": "2009",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R216-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.7326/0003-4819-112-2-140",
+        "article-title": "Bismuth absorption and myoclonic encephalopathy during bismuth subsalicylate therapy.",
+        "volume": "112",
+        "author": "Mendelowitz",
+        "year": "1990",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R217-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.1016/S1473-3099(06)70495-9",
+        "article-title": "Efficacy of probiotics in prevention of acute diarrhoea: a meta-analysis of masked, randomised, placebo-controlled trials.",
+        "volume": "6",
+        "author": "Sazawal",
+        "year": "2006",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "key": "R218-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "97",
+        "DOI": "10.1016/j.tmaid.2005.10.003",
+        "article-title": "Meta-analysis of probiotics for the prevention of travelers diarrhea.",
+        "volume": "5",
+        "author": "McFarland",
+        "year": "2007",
+        "journal-title": "Travel Med Infect Dis"
+      },
+      {
+        "key": "R220-14-20210210",
+        "first-page": "152",
+        "article-title": "Prevention of travelers diarrhea with Saccharomyces boulardii: results of a placebo controlled double-blind study.",
+        "volume": "111",
+        "author": "Kollaritsch",
+        "year": "1993",
+        "journal-title": "Fortschr Med"
+      },
+      {
+        "key": "R221-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.3109/07853899009147242",
+        "article-title": "Prevention of travellers diarrhoea by Lactobacillus GG.",
+        "volume": "22",
+        "author": "Oksanen",
+        "year": "1990",
+        "journal-title": "Ann Med"
+      },
+      {
+        "key": "R222-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1111/j.1708-8305.1997.tb00772.x",
+        "article-title": "Efficacy of Lactobacillus GG as a diarrheal preventive in travelers.",
+        "volume": "4",
+        "author": "Hilton",
+        "year": "1997",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R223-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "829",
+        "DOI": "10.1016/0016-5085(78)90135-X",
+        "article-title": "J, Warram JJ, Gomez R et al. Effect of Lactobacilli preparation on travelers diarrhea.",
+        "volume": "74",
+        "year": "1978",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "R224-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1360",
+        "DOI": "10.1056/NEJM199511163332016",
+        "article-title": "Lactobacilli to prevent travelers diarrhea?",
+        "volume": "333",
+        "author": "Katelaris",
+        "year": "1995",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R225-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1038/ejcn.2009.120",
+        "article-title": "A double-blind, placebo-controlled, randomized human study assessing the capacity of a novel galacto-oligosaccharide mixture in reducing travellers diarrhoea.",
+        "volume": "64",
+        "author": "Drakoularakou",
+        "year": "2010",
+        "journal-title": "Eur J Clin Nutr"
+      },
+      {
+        "key": "R226-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "88",
+        "DOI": "10.1111/jtm.12008",
+        "article-title": "A randomized, double blind, placebo-controlled trial of an oral synbiotic (AKSB) for prevention of travelers diarrhea.",
+        "volume": "20",
+        "author": "Virk",
+        "year": "2013",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R227-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1170",
+        "DOI": "10.1086/508178",
+        "article-title": "Absence of efficacy of nonviable Lactobacillus acidophilus for the prevention of travelers diarrhea: a randomized, double-blind, controlled study.",
+        "volume": "43",
+        "author": "Briand",
+        "year": "2006",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R228-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1128/AAC.8.5.581",
+        "article-title": "Lactulose therapy in Shigella carrier state and acute dysentery.",
+        "volume": "8",
+        "author": "Levine",
+        "year": "1975",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R229-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1016/j.tmaid.2013.08.008",
+        "article-title": "Sodium butyrate and short chain fatty acids in prevention of travellers diarrhoea: a randomized prospective study.",
+        "volume": "12",
+        "author": "Krokowicz",
+        "year": "2014",
+        "journal-title": "Travel Med Infect Dis"
+      },
+      {
+        "key": "R230-14-20210210",
+        "first-page": "81",
+        "article-title": "Development and functional properties of Bimuno: a second-generation prebiotic mixture.",
+        "volume": "6",
+        "author": "Tzortzis",
+        "year": "2010",
+        "journal-title": "Food Sci Technol Bull"
+      },
+      {
+        "key": "R231-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2700",
+        "DOI": "10.1001/jama.253.18.2700",
+        "article-title": "NIH Consensus Development Conference. Travelers diarrhea.",
+        "volume": "253",
+        "year": "1985",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R232-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2421",
+        "DOI": "10.1001/archinte.1988.00380110071015",
+        "article-title": "A cost-effectiveness comparison of the use of antimicrobial agents for treatment or prophylaxis of travelers diarrhea.",
+        "volume": "148",
+        "author": "Reves",
+        "year": "1988",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R233-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.2165/00019053-199609050-00002",
+        "article-title": "Treatment of travellers diarrhoea. Economic aspects.",
+        "volume": "9",
+        "author": "Thomson",
+        "year": "1996",
+        "journal-title": "Pharmacoeconomics"
+      },
+      {
+        "key": "R234-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.1016/j.gtc.2006.03.008",
+        "article-title": "New insights and directions in travelers diarrhea.",
+        "volume": "35",
+        "author": "DuPont",
+        "year": "2006",
+        "journal-title": "Gastroenterol Clin N Am"
+      },
+      {
+        "key": "R235-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "861",
+        "DOI": "10.7326/0003-4819-142-10-200505170-00012",
+        "article-title": "How to hit the runs for fifty million travelers at risk.",
+        "volume": "142",
+        "author": "Gorbach",
+        "year": "2005",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R236-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1499",
+        "DOI": "10.1086/508782",
+        "article-title": "The practice of travel medicine: guidelines by the Infectious Diseases Society of America.",
+        "volume": "43",
+        "author": "Hill",
+        "year": "2006",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R238-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1111/j.1365-2036.2007.03399.x",
+        "article-title": "Systematic review and meta-analysis: the incidence and prognosis of post-infectious irritable bowel syndrome.",
+        "volume": "26",
+        "author": "Thabane",
+        "year": "2007",
+        "journal-title": "Aliment Pharmacol Ther"
+      },
+      {
+        "key": "R239-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1029",
+        "DOI": "10.1111/apt.13199",
+        "article-title": "Systematic review with meta-analysis: post-infectious irritable bowel syndrome after travellers diarrhoea.",
+        "volume": "41",
+        "author": "Schwille-Kiuntke",
+        "year": "2015",
+        "journal-title": "Aliment Pharmacol Ther"
+      },
+      {
+        "key": "R240-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1186/2046-4053-1-39",
+        "article-title": "Effectiveness of rifaximin and fluoroquinolones in preventing travelers diarrhea (TD): a systematic review and meta-analysis.",
+        "volume": "1",
+        "author": "Alajbegovic",
+        "year": "2012",
+        "journal-title": "Syst Rev"
+      },
+      {
+        "key": "R242-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "392",
+        "DOI": "10.1111/j.1708-8305.2010.00462.x",
+        "article-title": "A randomized, double-blind, placebo-controlled study evaluating the efficacy and safety of rifaximin for the prevention of travelers diarrhea in US military personnel deployed to Incirlik Air Base, Incirlik, Turkey.",
+        "volume": "17",
+        "author": "Armstrong",
+        "year": "2010",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R243-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1111/j.1708-8305.2011.00549.x",
+        "article-title": "A randomized, double-blind, pilot study of rifaximin 550 mg versus placebo in the prevention of travelers diarrhea in Mexico during the dry season.",
+        "volume": "18",
+        "author": "Flores",
+        "year": "2011",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R244-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "946",
+        "DOI": "10.1016/S1473-3099(13)70221-4",
+        "article-title": "Effectiveness of rifaximin in prevention of diarrhoea in individuals travelling to south and southeast Asia: a randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "volume": "13",
+        "author": "Zanger",
+        "year": "2013",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "key": "R245-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1283",
+        "DOI": "10.1086/503039",
+        "article-title": "Rifaximin, a nonabsorbed oral antibiotic, prevents shigellosis after experimental challenge.",
+        "volume": "42",
+        "author": "Taylor",
+        "year": "2006",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R246-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "599",
+        "DOI": "10.1016/j.idc.2013.05.003",
+        "article-title": "Long-term consequences of foodborne infections.",
+        "volume": "27",
+        "author": "Batz",
+        "year": "2013",
+        "journal-title": "Infect Dis Clin N Am"
+      },
+      {
+        "key": "R247-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "102",
+        "DOI": "10.1111/j.1708-8305.2010.00475.x",
+        "article-title": "Travelers diarrhea in Nepal: an update on the pathogens and antibiotic resistance.",
+        "volume": "18",
+        "author": "Pandey",
+        "year": "2011",
+        "journal-title": "J Travel Med"
+      },
+      {
+        "key": "R248-14-20210210",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1111/j.1708-8305.2008.00236.x",
+        "article-title": "Trends of norfloxacin and erythromycin resistance of Campylobacter jejuniCampylobacter coli isolates recovered from international travelers, 1994 to 2006.",
+        "volume": "15",
+        "author": "Vlieghe",
+        "year": "2008",
+        "journal-title": "J Travel Med"
+      }
+    ],
+    "container-title": [
+      "American Journal of Gastroenterology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nature.com/articles/ajg2016126.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/ajg2016126",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/ajg2016126.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://journals.lww.com/00000434-201605000-00014",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          2
+        ]
+      ],
+      "date-time": "2025-06-02T13:53:59Z",
+      "timestamp": 1748872439000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/00000434-201605000-00014"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5
+        ]
+      ]
+    },
+    "references-count": 225,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1038/ajg.2016.126",
+    "relation": {},
+    "ISSN": [
+      "0002-9270"
+    ],
+    "issn-type": [
+      {
+        "value": "0002-9270",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5
+        ]
+      ]
+    }
+  }
+}

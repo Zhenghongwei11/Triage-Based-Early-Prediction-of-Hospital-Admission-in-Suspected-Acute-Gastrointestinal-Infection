@@ -1,0 +1,666 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2026-02-12T13:55:03Z",
+      "timestamp": 1770904503024,
+      "version": "3.50.1"
+    },
+    "reference-count": 41,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2014-06-05T00:00:00Z",
+          "timestamp": 1401926400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Med Res Methodol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1186/1471-2288-14-75",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2014-06-05T15:24:38Z",
+      "timestamp": 1401981878000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 423,
+    "title": [
+      "Tuning multiple imputation by predictive mean matching and local residual draws"
+    ],
+    "prefix": "10.1186",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Tim P",
+        "family": "Morris",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ian R",
+        "family": "White",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Patrick",
+        "family": "Royston",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1092_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "3057",
+        "DOI": "10.1002/sim.2787",
+        "volume": "26",
+        "author": "O Harel",
+        "year": "2007",
+        "unstructured": "Harel O, Zhou XH: Multiple imputation: review of theory, implementation and software. Stat Med. 2007, 26: 3057-3077. 10.1002/sim.2787.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "1092_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "79",
+        "DOI": "10.1198/000313007X172556",
+        "volume": "61",
+        "author": "NJ Horton",
+        "year": "2007",
+        "unstructured": "Horton NJ, Kleinman KP: Much ado about nothing: A comparison of missing data methods and software to fit incomplete data regression models. Am Stat. 2007, 61: 79-90. 10.1198/000313007X172556.",
+        "journal-title": "Am Stat"
+      },
+      {
+        "issue": "4",
+        "key": "1092_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "377",
+        "DOI": "10.1002/sim.4067",
+        "volume": "30",
+        "author": "IR White",
+        "year": "2011",
+        "unstructured": "White IR, Royston P, Wood AM: Multiple imputation using chained equations: Issues and guidance for practice. Stat Med. 2011, 30 (4): 377-399. 10.1002/sim.4067.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "1092_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "581",
+        "DOI": "10.1093/biomet/63.3.581",
+        "volume": "63",
+        "author": "DB Rubin",
+        "year": "1976",
+        "unstructured": "Rubin DB: Inference and missing data. Biometrika. 1976, 63: 581-592. 10.1093/biomet/63.3.581.",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "1092_CR5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470316696",
+        "volume-title": "Multiple Imputation for Nonresponse in Surveys",
+        "author": "DB Rubin",
+        "year": "1987",
+        "unstructured": "Rubin DB: Multiple Imputation for Nonresponse in Surveys. 1987, New York: John Wiley and Sons"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1191/096228099671525676",
+        "volume": "8",
+        "author": "JL Schafer",
+        "year": "1999",
+        "unstructured": "Schafer JL: Multiple imputation: a primer. Stat Methods Med Res. 1999, 8 (1): 3-15. 10.1191/096228099671525676.",
+        "journal-title": "Stat Methods Med Res"
+      },
+      {
+        "issue": "10",
+        "key": "1092_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1092",
+        "DOI": "10.1016/j.jclinepi.2006.01.009",
+        "volume": "59",
+        "author": "K Moons",
+        "year": "2006",
+        "unstructured": "Moons K, Donders R, Stijnen T, Harrel F: Using the outcome for imputation of missing predictor values was preferred. J Clin Epidemiol. 2006, 59 (10): 1092-1101. 10.1016/j.jclinepi.2006.01.009.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "46+",
+        "DOI": "10.1186/1471-2288-12-46",
+        "volume": "12",
+        "author": "SR Seaman",
+        "year": "2012",
+        "unstructured": "Seaman SR, Bartlett JW, White IR: Multiple imputation of missing covariates with non-linear effects and interactions: an evaluation of statistical methods. BMC Med Res Methodol. 2012, 12 (1): 46+-10.1186/1471-2288-12-46.",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "key": "1092_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1080/07350015.1988.10509663",
+        "volume": "6",
+        "author": "RJA Little",
+        "year": "1988",
+        "unstructured": "Little RJA: Missing-data adjustments in large surveys. J Business & Econ Stat. 1988, 6: 287-296.",
+        "journal-title": "J Business & Econ Stat"
+      },
+      {
+        "issue": "393",
+        "key": "1092_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "29",
+        "DOI": "10.1080/01621459.1986.10478235",
+        "volume": "81",
+        "author": "M David",
+        "year": "1986",
+        "unstructured": "David M, Little RJA, Samuhel ME, Triest RK: Alternative methods for CPS income imputation. J Am Stat Assoc. 1986, 81 (393): 29-41. 10.1080/01621459.1986.10478235.",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "1092_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "366",
+        "DOI": "10.1080/01621459.1986.10478280",
+        "volume": "81",
+        "author": "DB Rubin",
+        "year": "1986",
+        "unstructured": "Rubin DB, Schenker N: Multiple imputation for interval estimation from simple random samples with ignorable nonresponse. J Am Stat Assoc. 1986, 81: 366-374. 10.1080/01621459.1986.10478280.",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "1092_CR12",
+        "volume-title": "Mice: Multivariate Imputation by Chained Equations",
+        "author": "S van Buuren",
+        "year": "2014",
+        "unstructured": "van Buuren S, Groothuis-Oudshoorn K: Mice: Multivariate Imputation by Chained Equations. February 2014, Netherlands Organisation for Applied Scientific Research TNO"
+      },
+      {
+        "key": "1092_CR13",
+        "volume-title": "BaBooN: Bayesian Bootstrap Predictive Mean Matching – Multiple and single imputation for discrete data",
+        "author": "F Meinfelder",
+        "year": "2011",
+        "unstructured": "Meinfelder F: BaBooN: Bayesian Bootstrap Predictive Mean Matching – Multiple and single imputation for discrete data. March 2011, Universität Bamberg"
+      },
+      {
+        "key": "1092_CR14",
+        "volume-title": "mi: Missing Data Imputation and Model Checking",
+        "author": "A Gelman",
+        "year": "2013",
+        "unstructured": "Gelman A, Hill J, Su YS, Yajima M, Pittau MG: mi: Missing Data Imputation and Model Checking. August 2013, Columbia University"
+      },
+      {
+        "key": "1092_CR15",
+        "volume-title": "Predictive mean matching method for monotone missing data",
+        "author": "SAS Institute Inc",
+        "year": "2014",
+        "unstructured": "SAS Institute Inc: Predictive mean matching method for monotone missing data. February 2014, http://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_mi_sect020.htm ,"
+      },
+      {
+        "key": "1092_CR16",
+        "volume-title": "Predictive mean matching method",
+        "author": "Solas for Missing Data Analysis",
+        "year": "2014",
+        "unstructured": "Solas for Missing Data Analysis: Predictive mean matching method. February 2014, http://www.statsols.com/predictive-mean-matching-method/ ,"
+      },
+      {
+        "key": "1092_CR17",
+        "volume-title": "Predictive mean matching (multiple imputation algorithms)",
+        "author": "SPSS",
+        "year": "2014",
+        "unstructured": "SPSS: Predictive mean matching (multiple imputation algorithms). February 2014, http://pic.dhe.ibm.com/infocenter/spssstat/v20r0m0/index.jsp?topic=%2Fcom.ibm.spss.%20statistics.help%2Falg_multiple_imputation_univariate_pmm.htm ,"
+      },
+      {
+        "key": "1092_CR18",
+        "volume-title": "mi impute pmm",
+        "author": "StataCorp",
+        "year": "2014",
+        "unstructured": "StataCorp: mi impute pmm. February 2014, http://www.stata.com/manuals13/mimiimputepmm.pdf ,"
+      },
+      {
+        "issue": "4",
+        "key": "1092_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1016/0167-9473(95)00057-7",
+        "volume": "22",
+        "author": "N Schenker",
+        "year": "1996",
+        "unstructured": "Schenker N, Taylor JMG: Partially parametric techniques for multiple imputation. Comput Stat & Data Anal. 1996, 22 (4): 425-446. 10.1016/0167-9473(95)00057-7.",
+        "journal-title": "Comput Stat & Data Anal"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR20",
+        "first-page": "13",
+        "volume": "40",
+        "author": "DF Heitjan",
+        "year": "1991",
+        "unstructured": "Heitjan DF, Little RJA: Multiple imputation for the fatal accident reporting system. J R Stat Soc Series C (Appl Stat). 1991, 40 (1): 13-29.",
+        "journal-title": "J R Stat Soc Series C (Appl Stat)"
+      },
+      {
+        "key": "1092_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "527",
+        "DOI": "10.1177/1536867X0500500404",
+        "volume": "5",
+        "author": "P Royston",
+        "year": "2005",
+        "unstructured": "Royston P: Multiple imputation of missing values: update. Stata J. 2005, 5: 527-536.",
+        "journal-title": "Stata J"
+      },
+      {
+        "key": "1092_CR22",
+        "volume-title": "Hmisc: Harrell Miscellaneous",
+        "author": "FE Harrell",
+        "year": "2014",
+        "unstructured": "Harrell FE: Hmisc: Harrell Miscellaneous. January 2014, Vanderbilt University"
+      },
+      {
+        "issue": "427",
+        "key": "1092_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "750",
+        "DOI": "10.1080/01621459.1994.10476808",
+        "volume": "89",
+        "author": "DF Heitjan",
+        "year": "1994",
+        "unstructured": "Heitjan DF, Landis RJ: Assessing secular trends in blood pressure: a multiple-imputation approach. J Am Stat Assoc. 1994, 89 (427): 750-759. 10.1080/01621459.1994.10476808.",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "issue": "9-10",
+        "key": "1092_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "1541",
+        "DOI": "10.1002/sim.689",
+        "volume": "20",
+        "author": "XH Zhou",
+        "year": "2001",
+        "unstructured": "Zhou XH, Eckert GJ, Tierney WM: Multiple imputation in public health research. Stat Med. 2001, 20 (9-10): 1541-1549. 10.1002/sim.689.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "1092_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "244",
+        "DOI": "10.1198/000313001317098266",
+        "volume": "55",
+        "author": "NJ Horton",
+        "year": "2001",
+        "unstructured": "Horton NJ, Lipsitz SR: Multiple imputation in practice: comparison of software packages for regression models with missing variables. Am Stat. 2001, 55: 244-254. 10.1198/000313001317098266.",
+        "journal-title": "Am Stat"
+      },
+      {
+        "issue": "14",
+        "key": "1092_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "2111",
+        "DOI": "10.1002/sim.2099",
+        "volume": "24",
+        "author": "L Tang",
+        "year": "2005",
+        "unstructured": "Tang L, Song J, Belin TR, Unützer J: A comparison of imputation methods in a longitudinal randomized clinical trial. Stat Med. 2005, 24 (14): 2111-2128. 10.1002/sim.2099.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "20",
+        "key": "1092_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "3503",
+        "DOI": "10.1002/sim.2452",
+        "volume": "25",
+        "author": "CH Hsu",
+        "year": "2006",
+        "unstructured": "Hsu CH, Taylor JMG, Murray S, Commenges D: Survival analysis using auxiliary variables via non-parametric multiple imputation. Stat Med. 2006, 25 (20): 3503-3517. 10.1002/sim.2452.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "2",
+        "key": "1092_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.1002/sim.2231",
+        "volume": "25",
+        "author": "SA Barnes",
+        "year": "2006",
+        "unstructured": "Barnes SA, Lindborg SR, Seaman JW: Multiple imputation techniques in small sample clinical trials. Stat Med. 2006, 25 (2): 233-245. 10.1002/sim.2231.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "25",
+        "key": "1092_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "2592",
+        "DOI": "10.1002/sim.4016",
+        "volume": "29",
+        "author": "L Qi",
+        "year": "2010",
+        "unstructured": "Qi L, Wang Y-FF, He Y: A comparison of multiple imputation and fully augmented weighted estimators for Cox regression with missing covariates. Stat Med. 2010, 29 (25): 2592-2604. 10.1002/sim.4016.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "83",
+        "DOI": "10.1002/sim.3001",
+        "volume": "27",
+        "author": "J Siddique",
+        "year": "2008",
+        "unstructured": "Siddique J, Belin TR: Multiple imputation using an iterative hot-deck with distance-based donor selection. Stat Med. 2008, 27 (1): 83-102. 10.1002/sim.3001.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "9",
+        "key": "1092_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v029.i09",
+        "volume": "29",
+        "author": "J Siddique",
+        "year": "2009",
+        "unstructured": "Siddique J, Harel O: MIDAS: a SAS macro for multiple imputation using distance-aided selection of donors. J Stat Softw. 2009, 29 (9): 1-18.",
+        "journal-title": "J Stat Softw"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1198/073500102288618766",
+        "volume": "21",
+        "author": "C Moriarity",
+        "year": "2003",
+        "unstructured": "Moriarity C, Scheuren F: A note on rubin’s statistical matching using file concatenation with adjusted weights and multiple imputations. J Business & Econ Stat. 2003, 21 (1): 65-73. 10.1198/073500102288618766.",
+        "journal-title": "J Business & Econ Stat"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR33",
+        "first-page": "25",
+        "volume": "32",
+        "author": "GB Durrant",
+        "year": "2006",
+        "unstructured": "Durrant GB, Skinner C: Using missing data methods to correct for measurement error in a distribution function. Surv Methodol. 2006, 32 (1): 25-36.",
+        "journal-title": "Surv Methodol"
+      },
+      {
+        "key": "1092_CR34",
+        "volume-title": "Stata Statistical Software: Release 13",
+        "author": "StataCorp",
+        "year": "2013",
+        "unstructured": "StataCorp: Stata Statistical Software: Release 13. 2013, College Station, TX: Stata Press"
+      },
+      {
+        "key": "1092_CR35",
+        "first-page": "096228021452134",
+        "volume-title": "Stat Methods Med Res",
+        "author": "JW Bartlett",
+        "year": "2014",
+        "unstructured": "Bartlett JW, Seaman SR, White IR, Carpenter JR, for the Alzheimer’sDiseaseNeuroimagingInitiative*: Multiple imputation of covariates by fully conditional specification: accommodating the substantive model. Stat Methods Med Res. 2014, 0962280214521348+- http://smm.sagepub.com/content/early/2014/03/31/0962280214521348 ,"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "88",
+        "DOI": "10.1002/sim.5935",
+        "volume": "33",
+        "author": "TP Morris",
+        "year": "2014",
+        "unstructured": "Morris TP, White IR, Royston P, Seaman SR, Wood AM: Multiple imputation for an incomplete covariate that is a ratio. Stat Med. 2014, 33 (1): 88-104. 10.1002/sim.5935.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "1",
+        "key": "1092_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1016/S0895-4356(02)00539-5",
+        "volume": "56",
+        "author": "TG Clark",
+        "year": "2003",
+        "unstructured": "Clark TG, Altman DG: Developing a prognostic model in the presence of missing data. J Clin Epidemiol. 2003, 56 (1): 28-37. 10.1016/S0895-4356(02)00539-5.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "1092_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1111/j.2517-6161.1972.tb00899.x",
+        "volume": "34",
+        "author": "DR Cox",
+        "year": "1972",
+        "unstructured": "Cox DR: Regression models and life tables. J R Stat Soc series B. 1972, 34: 187-220.",
+        "journal-title": "J R Stat Soc series B"
+      },
+      {
+        "issue": "15",
+        "key": "1092_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1982",
+        "DOI": "10.1002/sim.3618",
+        "volume": "28",
+        "author": "IR White",
+        "year": "2009",
+        "unstructured": "White IR, Royston P: Imputing missing covariate values for the cox model. Stat Med. 2009, 28 (15): 1982-1998. 10.1002/sim.3618.",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "2",
+        "key": "1092_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "362",
+        "DOI": "10.1016/j.jeconom.2011.02.005",
+        "volume": "162",
+        "author": "V Dardanoni",
+        "year": "2011",
+        "unstructured": "Dardanoni V, Modica S, Peracchi F: Regression with imputed covariates: A generalized missing-indicator approach. J Econom. 2011, 162 (2): 362-368. 10.1016/j.jeconom.2011.02.005.",
+        "journal-title": "J Econom"
+      },
+      {
+        "issue": "4",
+        "key": "1092_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "598",
+        "DOI": "10.1177/0049124113502943",
+        "volume": "42",
+        "author": "G Vink",
+        "year": "2013",
+        "unstructured": "Vink G, van Buuren S: Multiple imputation of squared terms. Sociol Methods & Res. 2013, 42 (4): 598-607. 10.1177/0049124113502943.",
+        "journal-title": "Sociol Methods & Res"
+      }
+    ],
+    "container-title": [
+      "BMC Medical Research Methodology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/1471-2288-14-75.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1186/1471-2288-14-75/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/1471-2288-14-75",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/1471-2288-14-75.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2024-05-27T10:10:34Z",
+      "timestamp": 1716804634000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-75"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          5
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1092"
+    ],
+    "URL": "https://doi.org/10.1186/1471-2288-14-75",
+    "relation": {},
+    "ISSN": [
+      "1471-2288"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2288",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "4 March 2014",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 May 2014",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "5 June 2014",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ],
+    "article-number": "75"
+  }
+}

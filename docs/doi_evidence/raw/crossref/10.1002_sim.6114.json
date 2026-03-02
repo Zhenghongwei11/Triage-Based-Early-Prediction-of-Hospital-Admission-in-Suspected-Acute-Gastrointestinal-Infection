@@ -1,0 +1,744 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T20:15:16Z",
+      "timestamp": 1772223316501,
+      "version": "3.50.1"
+    },
+    "reference-count": 43,
+    "publisher": "Wiley",
+    "issue": "15",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 560,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Research Foundation - Flanders (FWO)",
+        "award": [
+          "1251612N"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "1251612N"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Statist. Med."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1002/sim.6114",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2014-02-19T01:55:16Z",
+      "timestamp": 1392774916000
+    },
+    "page": "2585-2596",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 59,
+    "title": [
+      "Assessing calibration of multinomial risk prediction models"
+    ],
+    "prefix": "10.1002",
+    "volume": "33",
+    "author": [
+      {
+        "given": "Kirsten",
+        "family": "Van Hoorde",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "KU Leuven Department of Electrical Engineering (ESAT); STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics; Leuven Belgium"
+          },
+          {
+            "name": "KU Leuven iMinds Future Health Department; Leuven Belgium"
+          }
+        ]
+      },
+      {
+        "given": "Yvonne",
+        "family": "Vergouwe",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Public Health; Erasmus MC; Rotterdam The Netherlands"
+          }
+        ]
+      },
+      {
+        "given": "Dirk",
+        "family": "Timmerman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KU Leuven Department of Development & Regeneration; Leuven Belgium"
+          },
+          {
+            "name": "Department of Obstetrics & Gynecology; University Hospitals Leuven; Leuven Belgium"
+          }
+        ]
+      },
+      {
+        "given": "Sabine",
+        "family": "Van Huffel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KU Leuven Department of Electrical Engineering (ESAT); STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics; Leuven Belgium"
+          },
+          {
+            "name": "KU Leuven iMinds Future Health Department; Leuven Belgium"
+          }
+        ]
+      },
+      {
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Public Health; Erasmus MC; Rotterdam The Netherlands"
+          }
+        ]
+      },
+      {
+        "given": "Ben",
+        "family": "Van Calster",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KU Leuven Department of Development & Regeneration; Leuven Belgium"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "10.1002/sim.6114-BIB0001|sim6114-cit-0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1097/EDE.0b013e3181c30fb2",
+        "article-title": "Assessing the performance of prediction models: a framework for traditional and novel measures",
+        "volume": "21",
+        "author": "Steyerberg",
+        "year": "2010",
+        "journal-title": "Epidemiology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0002|sim6114-cit-0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "901",
+        "DOI": "10.1002/sim.3517",
+        "article-title": "How to evaluate the calibration of a disease risk prediction tool",
+        "volume": "28",
+        "author": "Viallon",
+        "year": "2009",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0003|sim6114-cit-0003",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4757-3462-1",
+        "volume-title": "Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis",
+        "author": "Harrell",
+        "year": "2001"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0004|sim6114-cit-0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "491",
+        "DOI": "10.1016/j.jclinepi.2006.08.011",
+        "article-title": "External validation of prognostic models for critically ill patients required substantial sample sizes",
+        "volume": "60",
+        "author": "Peek",
+        "year": "2007",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "issue": "5",
+        "key": "10.1002/sim.6114-BIB0005|sim6114-cit-0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "475",
+        "DOI": "10.1016/j.jclinepi.2004.06.017",
+        "article-title": "Substantial effective sample sizes were required for external validation studies of predictive logistic regression models",
+        "volume": "58",
+        "author": "Vergouwe",
+        "year": "2005",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0006|sim6114-cit-0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "562",
+        "DOI": "10.1093/biomet/45.3-4.562",
+        "article-title": "Two further applications of a model for binary regression",
+        "volume": "45",
+        "author": "Cox",
+        "year": "1958",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0007|sim6114-cit-0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1177/0272989X9301300107",
+        "article-title": "Validation of probabilistic predictions",
+        "volume": "13",
+        "author": "Miller",
+        "year": "1993",
+        "journal-title": "Medical Decision Making"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0008|sim6114-cit-0008",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-0-387-77244-8",
+        "volume-title": "Clinical Prediction Models: A Practical Approach to Development, Validation, and Updating",
+        "author": "Steyerberg",
+        "year": "2009"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0009|sim6114-cit-0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1002/sim.5941",
+        "article-title": "Graphical assessment of internal and external calibration of logistic regression models by using loess smoothers",
+        "volume": "33",
+        "author": "Austin",
+        "year": "2014",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "issue": "2",
+        "key": "10.1002/sim.6114-BIB0010|sim6114-cit-0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "282",
+        "DOI": "10.1002/sim.5544",
+        "article-title": "Flexible recalibration of binary clinical prediction models",
+        "volume": "32",
+        "author": "Dalton",
+        "year": "2013",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0011|sim6114-cit-0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "78",
+        "DOI": "10.1177/0272989X9901900110",
+        "article-title": "Three-way ROCs",
+        "volume": "19",
+        "author": "Mossman",
+        "year": "1999",
+        "journal-title": "Medical Decision Making"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0012|sim6114-cit-0012",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1111/j.1541-0420.2006.00715.x",
+        "article-title": "ROC graphs for assessing the ability of a diagnostic marker to detect three disease classes with an umbrella ordering",
+        "volume": "63",
+        "author": "Nakas",
+        "year": "2007",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0013|sim6114-cit-0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "3261",
+        "DOI": "10.1002/sim.944",
+        "article-title": "Assessing physicians’ accuracy in diagnosing paediatric patients with acute abdominal pain: measuring accuracy for multiple diseases",
+        "volume": "20",
+        "author": "Obuchowski",
+        "year": "2001",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "issue": "5",
+        "key": "10.1002/sim.6114-BIB0014|sim6114-cit-0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "674",
+        "DOI": "10.1002/bimj.201200026",
+        "article-title": "Discrimination ability of prediction models for ordinal outcomes: relationships between existing measures and a new measure",
+        "volume": "54",
+        "author": "Van Calster",
+        "year": "2012",
+        "journal-title": "Biometrical Journal"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0015|sim6114-cit-0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "2610",
+        "DOI": "10.1002/sim.5321",
+        "article-title": "Extending the c statistic to nominal polytomous outcomes: the polytomous discrimination index",
+        "volume": "31",
+        "author": "Van Calster",
+        "year": "2012",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "issue": "10",
+        "key": "10.1002/sim.6114-BIB0016|sim6114-cit-0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "761",
+        "DOI": "10.1007/s10654-012-9733-3",
+        "article-title": "Assessing the discriminative ability of risk models for more than two outcome categories: a perspective",
+        "volume": "27",
+        "author": "Van Calster",
+        "year": "2012",
+        "journal-title": "European Journal of Epidemiology"
+      },
+      {
+        "issue": "21",
+        "key": "10.1002/sim.6114-BIB0017|sim6114-cit-0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "4238",
+        "DOI": "10.1002/sim.3202",
+        "article-title": "Multinomial goodness-of-fit tests for logistic regression models",
+        "volume": "27",
+        "author": "Fagerland",
+        "year": "2008",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "issue": "4",
+        "key": "10.1002/sim.6114-BIB0018|sim6114-cit-0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "980",
+        "DOI": "10.1111/j.1541-0420.2006.00581.x",
+        "article-title": "A goodness-of-fit test for multinomial logistic regression",
+        "volume": "62",
+        "author": "Goeman",
+        "year": "2006",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0019|sim6114-cit-0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1002/(SICI)1521-4036(199903)41:1<71::AID-BIMJ71>3.0.CO;2-O",
+        "article-title": "An improved goodness of fit statistic for probability prediction models",
+        "volume": "41",
+        "author": "Pigeon",
+        "year": "1999",
+        "journal-title": "Biometrical Journal"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0020|sim6114-cit-0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "965",
+        "DOI": "10.1002/(SICI)1097-0258(19970515)16:9<965::AID-SIM509>3.0.CO;2-O",
+        "article-title": "A comparison of goodness-of-fit tests for the logistic regression models",
+        "volume": "16",
+        "author": "Hosmer",
+        "year": "1997",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0021|sim6114-cit-0021",
+        "volume-title": "Generalized Additive Models",
+        "author": "Hastie",
+        "year": "1990"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0022|sim6114-cit-0022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/0471249688",
+        "volume-title": "Categorical Data Analysis",
+        "author": "Agresti",
+        "year": "2002"
+      },
+      {
+        "issue": "3",
+        "key": "10.1002/sim.6114-BIB0023|sim6114-cit-0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.1111/j.2517-6161.1996.tb02095.x",
+        "article-title": "Vector generalized additive models",
+        "volume": "58",
+        "author": "Yee",
+        "year": "1996",
+        "journal-title": "Journal of the Royal Statistical Society Series B (Methodological)"
+      },
+      {
+        "issue": "10",
+        "key": "10.1002/sim.6114-BIB0024|sim6114-cit-0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v032.i10",
+        "article-title": "The vgam package for categorical data analysis",
+        "volume": "32",
+        "author": "Yee",
+        "year": "2010",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "issue": "1",
+        "key": "10.1002/sim.6114-BIB0025|sim6114-cit-0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1002/uog.12323",
+        "article-title": "Improving strategies for diagnosing ovarian cancer: a summary of the international ovarian tumor analysis (iota) studies",
+        "volume": "41",
+        "author": "Kaijser",
+        "year": "2012",
+        "journal-title": "Ultrasound in Obstetrics & Gynecology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0026|sim6114-cit-0026",
+        "doi-asserted-by": "crossref",
+        "first-page": "500",
+        "DOI": "10.1046/j.1469-0705.2000.00287.x",
+        "article-title": "Terms, definitions and measurements to describe the sonographic features of adnexal tumors: a consensus opinion from the international ovarian tumor analysis (iota) group",
+        "volume": "16",
+        "author": "Timmerman",
+        "year": "2000",
+        "journal-title": "Ultrasound in Obstetrics & Gynecology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0027|sim6114-cit-0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "8794",
+        "DOI": "10.1200/JCO.2005.01.7632",
+        "article-title": "Logistic regression model to distinguish between the benign and malignant adnexal mass before surgery: a multicenter study by the international ovarian tumor analysis group",
+        "volume": "23",
+        "author": "Timmerman",
+        "year": "2005",
+        "journal-title": "Journal of Clinical Oncology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0028|sim6114-cit-0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "424",
+        "DOI": "10.1016/j.eururo.2006.06.047",
+        "article-title": "Predicting retroperitoneal histology in postchemotherapy testicular germ cell cancer: a model update and multicentre validation with more than 1000 patients",
+        "volume": "51",
+        "author": "Vergouwe",
+        "year": "2007",
+        "journal-title": "European Urology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0029|sim6114-cit-0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "5499",
+        "DOI": "10.1002/sim.3069",
+        "article-title": "Practical experiences on the necessity of external validation",
+        "volume": "26",
+        "author": "König",
+        "year": "2007",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0030|sim6114-cit-0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1002/sim.4085",
+        "article-title": "Extensions of net reclassification improvement calculations to measure usefulness of new biomarkers",
+        "volume": "30",
+        "author": "Pencina",
+        "year": "2011",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "issue": "5",
+        "key": "10.1002/sim.6114-BIB0031|sim6114-cit-0031",
+        "doi-asserted-by": "crossref",
+        "first-page": "1378",
+        "DOI": "10.1097/01.CCM.0000216702.94014.75",
+        "article-title": "Recalibration of risk prediction models in a large multicenter cohort of admissions to adult, general critical care units in the united kingdom",
+        "volume": "34",
+        "author": "Harrison",
+        "year": "2006",
+        "journal-title": "Critical Care Medicine"
+      },
+      {
+        "issue": "8",
+        "key": "10.1002/sim.6114-BIB0032|sim6114-cit-0032",
+        "doi-asserted-by": "crossref",
+        "first-page": "1774",
+        "DOI": "10.1093/humrep/dep109",
+        "article-title": "Evaluating prediction models in reproductive medicine",
+        "volume": "24",
+        "author": "Coppus",
+        "year": "2009",
+        "journal-title": "Human Reproduction"
+      },
+      {
+        "issue": "3",
+        "key": "10.1002/sim.6114-BIB0033|sim6114-cit-0033",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1111/j.2517-6161.1983.tb01258.x",
+        "article-title": "Regression prediction and shrinkage",
+        "volume": "45",
+        "author": "Copas",
+        "year": "1983",
+        "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0034|sim6114-cit-0034",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+        "article-title": "Multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors",
+        "volume": "15",
+        "author": "Harrell",
+        "year": "1996",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0035|sim6114-cit-0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "2567",
+        "DOI": "10.1002/sim.1844",
+        "article-title": "Validation and updating of predictive logistic regression models: a study on sample size and shrinkage",
+        "volume": "23",
+        "author": "Steyerberg",
+        "year": "2004",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0036|sim6114-cit-0036",
+        "doi-asserted-by": "crossref",
+        "first-page": "1158",
+        "DOI": "10.1016/j.jclinepi.2013.04.014",
+        "article-title": "Simple dichotomous updating methods improved the validity of polytomous models",
+        "volume": "66",
+        "author": "Van Hoorde",
+        "year": "2013",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0037|sim6114-cit-0037",
+        "first-page": "2098",
+        "article-title": "Ready-made, recalibrated, or remodeled?: Issues in the use of risk indexes for assessing mortality after coronary artery bypass graft surgery",
+        "volume": "99",
+        "author": "Ivanov",
+        "year": "1999",
+        "journal-title": "Circulation-Journal of the American Heart Association"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0038|sim6114-cit-0038",
+        "doi-asserted-by": "crossref",
+        "first-page": "3486",
+        "DOI": "10.1002/sim.5781",
+        "article-title": "Validation, calibration and refitting of a familial breast cancer model in sisterships: a case study in the swedish sisters data",
+        "volume": "32",
+        "author": "Houwelingen",
+        "year": "2013",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0039|sim6114-cit-0039",
+        "doi-asserted-by": "crossref",
+        "first-page": "1085",
+        "DOI": "10.1016/j.jclinepi.2008.04.008",
+        "article-title": "updating and impact of clinical prediction rules: A review",
+        "volume": "61",
+        "author": "Toll",
+        "year": "2008",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0040|sim6114-cit-0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "b606",
+        "DOI": "10.1136/bmj.b606",
+        "article-title": "Prognosis and prognostic research: application and impact of prognostic models in clinical practice",
+        "volume": "338",
+        "author": "Moons",
+        "year": "2009",
+        "journal-title": "British Medical Journal"
+      },
+      {
+        "issue": "6",
+        "key": "10.1002/sim.6114-BIB0041|sim6114-cit-0041",
+        "doi-asserted-by": "crossref",
+        "first-page": "1298",
+        "DOI": "10.1016/j.urology.2010.06.019",
+        "article-title": "Everything you always wanted to know about evaluating prediction models (but were too afraid to ask)",
+        "volume": "76",
+        "author": "Vickers",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1002/sim.6114-BIB0042|sim6114-cit-0042",
+        "doi-asserted-by": "crossref",
+        "first-page": "971",
+        "DOI": "10.1093/aje/kwq223",
+        "article-title": "External validity of risk models: use of benchmark values to disentangle a case-mix effect from incorrect coefficients",
+        "volume": "172",
+        "author": "Vergouwe",
+        "year": "2010",
+        "journal-title": "American Journal of Epidemiology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1002/sim.6114-BIB0043|sim6114-cit-0043",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1080/00401706.1979.10489751",
+        "article-title": "Generalized cross-validation as a method for choosing a good ridge parameter",
+        "volume": "21",
+        "author": "Golub",
+        "year": "1979",
+        "journal-title": "Technometrics"
+      }
+    ],
+    "container-title": [
+      "Statistics in Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsim.6114",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/sim.6114",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2021-07-04T06:31:03Z",
+      "timestamp": 1625380263000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/sim.6114"
+      }
+    },
+    "subtitle": [
+      "K. VAN HOORDE<i>ET AL.</i>"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "15",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            7,
+            10
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1002/sim.6114",
+    "relation": {},
+    "ISSN": [
+      "0277-6715"
+    ],
+    "issn-type": [
+      {
+        "value": "0277-6715",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2014-02-18",
+        "name": "published_online",
+        "label": "Published Online",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T18:56:04Z",
+      "timestamp": 1772304964665,
+      "version": "3.50.1"
+    },
+    "reference-count": 30,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circ: Cardiovascular Quality and Outcomes"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background—</jats:title>\n            <jats:p>The predictive performance of static risk prediction models such as EuroSCORE deteriorates over time. We aimed to explore different methods for continuous updating of EuroSCORE (dynamic modeling) to improve risk prediction.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods and Results—</jats:title>\n            <jats:p>Data on adult cardiac surgery from 2007 to 2012 (n=95 240) were extracted from the Netherlands Association for Cardio-Thoracic Surgery database. The logistic EuroSCORE predicting in-hospital death was updated using 6 methods: recalibrating the intercept of the logistic regression model; recalibrating the intercept and joint effects of the prognostic factors; re-estimating all prognostic factor effects, re-estimating all prognostic factor effects, and applying shrinkage of the estimates; applying a test procedure to select either of these; and a Bayesian learning strategy. Models were updated with 1 or 3 years of data, in all cardiac surgery or within operation subgroups. Performance was tested in the subsequent year according to discrimination (area under the receiver operating curve, area under the curve) and calibration (calibration slope and calibration-in-the-large). Compared with the original EuroSCORE, all updating methods resulted in improved calibration-in-the-large (range −0.17 to 0.04 versus −1.13 to −0.97, ideally 0.0). Calibration slope (range 0.92–1.15) and discrimination (area under the curve range 0.83–0.87) were similar across methods. In small subgroups, such as aortic valve replacement and aortic valve replacement+coronary artery bypass grafting, extensive updating using 1 year of data led to poorer performance than using the original EuroSCORE. The choice of updating method had little effect on benchmarking results of all cardiac surgery.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions—</jats:title>\n            <jats:p>Several methods for dynamic modeling may result in good discrimination and superior calibration compared with the original EuroSCORE. For large populations, all methods are appropriate. For smaller subgroups, it is recommended to use data from multiple years or a Bayesian approach.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1161/circoutcomes.114.001645",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          2
+        ]
+      ],
+      "date-time": "2016-03-02T04:24:23Z",
+      "timestamp": 1456892663000
+    },
+    "page": "171-181",
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "title": [
+      "Improved Prediction by Dynamic Modeling"
+    ],
+    "prefix": "10.1161",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Sabrina",
+        "family": "Siregar",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      },
+      {
+        "given": "Daan",
+        "family": "Nieboer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      },
+      {
+        "given": "Yvonne",
+        "family": "Vergouwe",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      },
+      {
+        "given": "Michel I.M.",
+        "family": "Versteegh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      },
+      {
+        "given": "Luc",
+        "family": "Noyez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      },
+      {
+        "given": "Alexander B.A.",
+        "family": "Vonk",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      },
+      {
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      },
+      {
+        "given": "Johanna J.M.",
+        "family": "Takkenberg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Department of Cardio-Thoracic Surgery, Leiden University Medical Center, Leiden, The Netherlands (S.S., M.I.M.V.); Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands (D.N., Y.V., E.W.S.); Department of Cardio-Thoracic Surgery, Radboud University Nijmegen Medical Center, Nijmegen, The Netherlands (L.N.); Department of Cardio-Thoracic Surgery, VU Medical Center, Amsterdam, The Netherlands (A.B.A.V.); and Department of Cardio-Thoracic..."
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1010-7940(99)00134-7"
+      },
+      {
+        "key": "e_1_3_3_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezs043"
+      },
+      {
+        "key": "e_1_3_3_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2009.05.053"
+      },
+      {
+        "key": "e_1_3_3_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezr285"
+      },
+      {
+        "key": "e_1_3_3_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezs584"
+      },
+      {
+        "key": "e_1_3_3_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2011.10.029"
+      },
+      {
+        "key": "e_1_3_3_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2010.11.009"
+      },
+      {
+        "key": "e_1_3_3_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2011.04.048"
+      },
+      {
+        "key": "e_1_3_3_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezs650"
+      },
+      {
+        "key": "e_1_3_3_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCOUTCOMES.111.000012"
+      },
+      {
+        "key": "e_1_3_3_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-77244-8"
+      },
+      {
+        "key": "e_1_3_3_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dys241"
+      },
+      {
+        "key": "e_1_3_3_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/45.3-4.562"
+      },
+      {
+        "key": "e_1_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780141806"
+      },
+      {
+        "key": "e_1_3_3_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1844"
+      },
+      {
+        "key": "e_1_3_3_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0006-341X.2001.00663.x"
+      },
+      {
+        "key": "e_1_3_3_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470181188"
+      },
+      {
+        "key": "e_1_3_3_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2013-304645"
+      },
+      {
+        "key": "e_1_3_3_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjqs.2010.048058"
+      },
+      {
+        "key": "e_1_3_3_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/qjmed/hcp169"
+      },
+      {
+        "key": "e_1_3_3_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezu017"
+      },
+      {
+        "key": "e_1_3_3_23_2",
+        "first-page": "155",
+        "article-title": "Outcomes after aortic and mitral valve replacement surgery in Canada: 1994/95 to 1999/2000.",
+        "volume": "20",
+        "author": "Hassan A",
+        "year": "2004",
+        "unstructured": "Hassan A, Quan H, Newman A, Ghali WA, Hirsch GM; Canadian Cardiovascular Outcomes Research Team. Outcomes after aortic and mitral valve replacement surgery in Canada: 1994/95 to 1999/2000. Can J Cardiol. 2004;20:155–163.",
+        "journal-title": "Can J Cardiol"
+      },
+      {
+        "key": "e_1_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezt476"
+      },
+      {
+        "key": "e_1_3_3_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2011.12.051"
+      },
+      {
+        "key": "e_1_3_3_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2009.10.078"
+      },
+      {
+        "key": "e_1_3_3_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2012.03.018"
+      },
+      {
+        "key": "e_1_3_3_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezt044"
+      },
+      {
+        "key": "e_1_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCOUTCOMES.111.963157"
+      },
+      {
+        "key": "e_1_3_3_30_2",
+        "article-title": "Is gait speed improving performance of the EuroSCORE II for prediction of early mortality and major morbidity in elderly?",
+        "author": "Prudon I",
+        "year": "2014",
+        "unstructured": "Prudon I, Noyez L, van Swieten H, Scheffer G. Is gait speed improving performance of the EuroSCORE II for prediction of early mortality and major morbidity in elderly? J Cardiovasc Surg. 2014 May 13. [Epub ahead of print].",
+        "journal-title": "J Cardiovasc Surg"
+      },
+      {
+        "key": "e_1_3_3_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2014.04.124"
+      }
+    ],
+    "container-title": [
+      "Circulation: Cardiovascular Quality and Outcomes"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.114.001645",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2024-05-13T02:15:42Z",
+      "timestamp": 1715566542000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.114.001645"
+      }
+    },
+    "subtitle": [
+      "An Exploratory Study in the Adult Cardiac Surgery Database of the Netherlands Association for Cardio-Thoracic Surgery"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIRCOUTCOMES.114.001645"
+    ],
+    "URL": "https://doi.org/10.1161/circoutcomes.114.001645",
+    "relation": {},
+    "ISSN": [
+      "1941-7713",
+      "1941-7705"
+    ],
+    "issn-type": [
+      {
+        "value": "1941-7713",
+        "type": "print"
+      },
+      {
+        "value": "1941-7705",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2014-12-29",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2016-01-22",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2016-03-01",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

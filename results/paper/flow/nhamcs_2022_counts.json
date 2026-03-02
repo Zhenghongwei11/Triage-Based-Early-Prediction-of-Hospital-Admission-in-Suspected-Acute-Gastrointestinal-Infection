@@ -1,0 +1,18 @@
+{
+  "dataset": "NHAMCS_ED",
+  "n_admitted": 77,
+  "n_adult": 12598,
+  "n_adult_suspected_gi": 657,
+  "n_suspected_gi": 961,
+  "n_total": 16025,
+  "phenotype": "primary",
+  "prefixes": [
+    "A08",
+    "A09",
+    "A04",
+    "K52",
+    "R11",
+    "R19"
+  ],
+  "raw_path": "data/raw/nhamcs/2022/ED2022-stata.dta"
+}

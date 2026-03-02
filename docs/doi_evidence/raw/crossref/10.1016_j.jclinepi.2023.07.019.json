@@ -1,0 +1,866 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          22
+        ]
+      ],
+      "date-time": "2025-07-22T11:11:46Z",
+      "timestamp": 1753182706501,
+      "version": "3.40.1"
+    },
+    "reference-count": 48,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004040",
+        "name": "KU Leuven",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "C24M/20/064"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C24M/20/064"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004040",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.com",
+        "jclinepi.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Clinical Epidemiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jclinepi.2023.07.019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2023-08-02T07:16:24Z",
+      "timestamp": 1690960584000
+    },
+    "page": "127-139",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "special_numbering": "C",
+    "title": [
+      "Systematic review finds risk of bias and applicability concerns for models predicting central line-associated bloodstream infection"
+    ],
+    "prefix": "10.1016",
+    "volume": "161",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0871-1694",
+        "authenticated-orcid": false,
+        "given": "Shan",
+        "family": "Gao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2602-0918",
+        "authenticated-orcid": false,
+        "given": "Elena",
+        "family": "Albu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2670-5415",
+        "authenticated-orcid": false,
+        "given": "Krizia",
+        "family": "Tuand",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Veerle",
+        "family": "Cossey",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7786-4179",
+        "authenticated-orcid": false,
+        "given": "Frank",
+        "family": "Rademakers",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1613-7450",
+        "authenticated-orcid": false,
+        "given": "Ben",
+        "family": "Van Calster",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3037-122X",
+        "authenticated-orcid": false,
+        "given": "Laure",
+        "family": "Wynants",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "year": "2022",
+        "series-title": "Bloodstream infection event (central line-associated bloodstream infection and non-central line associated bloodstream infection) [internet]",
+        "key": "10.1016/j.jclinepi.2023.07.019_bib1"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1177/003335490712200205",
+        "article-title": "Estimating health care-associated infections and deaths in U.S. hospitals, 2002",
+        "volume": "122",
+        "author": "Klevens",
+        "year": "2007",
+        "journal-title": "Public Health Rep"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1016/j.jhin.2021.02.026",
+        "article-title": "Impact of healthcare-associated infection on length of stay",
+        "volume": "114",
+        "author": "Stewart",
+        "year": "2021",
+        "journal-title": "J Hosp Infect"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2039",
+        "DOI": "10.1001/jamainternmed.2013.9763",
+        "article-title": "Health care-associated infections: a meta-analysis of costs and financial impact on the US health care system",
+        "volume": "173",
+        "author": "Zimlichman",
+        "year": "2013",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "S1",
+        "DOI": "10.1016/j.ajic.2011.01.003",
+        "article-title": "Guidelines for the prevention of intravascular catheter-related infections",
+        "volume": "39",
+        "author": "O'Grady",
+        "year": "2011",
+        "journal-title": "Am J Infect Control"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1525",
+        "DOI": "10.1542/peds.2013-3795",
+        "article-title": "Attributable cost and length of stay for central line-associated bloodstream infections",
+        "volume": "133",
+        "author": "Goudie",
+        "year": "2014",
+        "journal-title": "Pediatrics"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1007/s15010-013-0494-z",
+        "article-title": "Costs and prolonged length of stay of central venous catheter-associated bloodstream infections (CVC BSI): a matched prospective cohort study",
+        "volume": "42",
+        "author": "Leistner",
+        "year": "2014",
+        "journal-title": "Infection"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1086/657912",
+        "article-title": "Estimating the proportion of healthcare-associated infections that are reasonably preventable and the related mortality and costs",
+        "volume": "32",
+        "author": "Umscheid",
+        "year": "2011",
+        "journal-title": "Infect Control Hosp Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.jhin.2022.07.028",
+        "article-title": "Reducing central-line-associated bloodstream infections by half: it is possible",
+        "volume": "128",
+        "author": "Saegeman",
+        "year": "2022",
+        "journal-title": "J Hosp Infect"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib11",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pmed.1000097",
+        "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+        "volume": "6",
+        "author": "Moher",
+        "year": "2009",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1186/s13643-020-01542-z",
+        "article-title": "PRISMA-S: an extension to the PRISMA statement for reporting literature searches in systematic reviews",
+        "volume": "10",
+        "author": "Rethlefsen",
+        "year": "2021",
+        "journal-title": "Syst Rev"
+      },
+      {
+        "year": "2017",
+        "series-title": "Surveillance of healthcare-associated infections and prevention indicators in European intensive care units [internet]",
+        "key": "10.1016/j.jclinepi.2023.07.019_bib13"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "2035",
+        "DOI": "10.1001/jama.2010.1637",
+        "article-title": "Quality of traditional surveillance for public reporting of nosocomial bloodstream infection rates",
+        "volume": "304",
+        "author": "Lin",
+        "year": "2010",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "240",
+        "DOI": "10.3163/1536-5050.104.3.014",
+        "article-title": "De-duplication of database search results for systematic reviews in EndNote",
+        "volume": "104",
+        "author": "Bramer",
+        "year": "2016",
+        "journal-title": "J Med Libr Assoc"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "210",
+        "DOI": "10.1186/s13643-016-0384-4",
+        "article-title": "Rayyan—a web and mobile app for systematic reviews",
+        "volume": "5",
+        "author": "Ouzzani",
+        "year": "2016",
+        "journal-title": "Syst Rev"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib17",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pmed.1001744",
+        "article-title": "Critical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist",
+        "volume": "11",
+        "author": "Moons",
+        "year": "2014",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.7326/M18-1376",
+        "article-title": "PROBAST: a tool to assess the risk of bias and applicability of prediction model studies",
+        "volume": "170",
+        "author": "Wolff",
+        "year": "2019",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1002/jrsm.1411",
+        "article-title": "Risk-of-bias VISualization (robvis): an R package and Shiny web app for visualizing risk-of-bias assessments",
+        "volume": "12",
+        "author": "McGuinness",
+        "year": "2021",
+        "journal-title": "Res Synth Methods"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib20",
+        "series-title": "Cochrane Handbook for Systematic Reviews of Interventions",
+        "first-page": "321",
+        "article-title": "Synthesizing and presenting findings using other methods",
+        "author": "McKenzie",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "n71",
+        "DOI": "10.1136/bmj.n71",
+        "article-title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+        "volume": "372",
+        "author": "Page",
+        "year": "2021",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.2174/1874297101003010024",
+        "article-title": "A clinical predictive model for catheter related bloodstream infections from the electronic medical record",
+        "volume": "3",
+        "author": "Bearman",
+        "year": "2010",
+        "journal-title": "Open Epidemiol J"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1049",
+        "DOI": "10.1086/656246",
+        "article-title": "Risk factors for central line-associated bloodstream infection in pediatric intensive care units",
+        "volume": "31",
+        "author": "Wylie",
+        "year": "2010",
+        "journal-title": "Infect Control Hosp Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1093/annonc/mds468",
+        "article-title": "Predictors of bloodstream infection associated with permanently implantable venous port in solid cancer patients",
+        "volume": "24",
+        "author": "Chen",
+        "year": "2013",
+        "journal-title": "Ann Oncol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.3109/08880018.2012.748111",
+        "article-title": "Prediction of bacteremia in children with febrile episodes during chemotherapy for acute lymphoblastic leukemia",
+        "volume": "30",
+        "author": "Lücking",
+        "year": "2013",
+        "journal-title": "Pediatr Hematol Oncol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1155",
+        "DOI": "10.1017/ice.2017.167",
+        "article-title": "A model to predict central-line-associated bloodstream infection among patients with peripherally inserted central catheters: the MPC score",
+        "volume": "38",
+        "author": "Herc",
+        "year": "2017",
+        "journal-title": "Infect Control Hosp Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "986",
+        "DOI": "10.1016/j.ajic.2018.02.021",
+        "article-title": "Assessing patient risk of central line-associated bacteremia via machine learning",
+        "volume": "46",
+        "author": "Beeler",
+        "year": "2018",
+        "journal-title": "Am J Infect Control"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1016/j.jcrc.2018.02.010",
+        "article-title": "Predicting central line-associated bloodstream infections and mortality using supervised machine learning",
+        "volume": "45",
+        "author": "Parreco",
+        "year": "2018",
+        "journal-title": "J Crit Care"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "810",
+        "DOI": "10.1097/PCC.0000000000001634",
+        "article-title": "Predictive factors for central line-associated bloodstream infections in pediatric cardiac Surgery patients with chylothorax",
+        "volume": "19",
+        "author": "Waterhouse",
+        "year": "2018",
+        "journal-title": "Pediatr Crit Care Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib30",
+        "first-page": "19",
+        "article-title": "Reduce prediction time for HAI-central line blood stream infection using big data mining model",
+        "volume": "19",
+        "author": "Baeissa",
+        "year": "2019",
+        "journal-title": "Int J Comput Sci Netw Secur"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1016/j.jhin.2022.06.003",
+        "article-title": "Prediction of impending central-line-associated bloodstream infections in hospitalized cardiac patients: development and testing of a machine-learning model",
+        "volume": "127",
+        "author": "Bonello",
+        "year": "2022",
+        "journal-title": "J Hosp Infect"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib32",
+        "first-page": "365",
+        "article-title": "Data analytics for diagnosis and prediction of central line-associated bloodstream infections in critical care units",
+        "volume": "40",
+        "author": "Hooshmand",
+        "year": "2022",
+        "journal-title": "Comput Inform Nurs"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "440",
+        "DOI": "10.1016/j.ajic.2021.08.017",
+        "article-title": "Early prediction of central line associated bloodstream infection using machine learning",
+        "volume": "50",
+        "author": "Rahmani",
+        "year": "2022",
+        "journal-title": "Am J Infect Control"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib34",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/S0950268823000766",
+        "article-title": "Clinical epidemiology and a novel predicting nomogram of central line associated bloodstream infection in burn patients",
+        "volume": "151",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "Epidemiol Infect"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1590/S1807-59322007000500002",
+        "article-title": "Risk factors for central venous catheter-related infections in pediatric intensive care",
+        "volume": "62",
+        "author": "Vilela",
+        "year": "2007",
+        "journal-title": "Clinics"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1451",
+        "DOI": "10.1007/s00277-015-2387-y",
+        "article-title": "Prediction of central venous catheter-related bloodstream infections (CRBSIs) in patients with haematologic malignancies using a modified Infection Probability Score (mIPS)",
+        "volume": "94",
+        "author": "Schalk",
+        "year": "2015",
+        "journal-title": "Ann Hematol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "480",
+        "DOI": "10.1017/ice.2021.497",
+        "article-title": "External validation of the Michigan PICC catheter-associated bloodstream infections score (MPC score) for predicting the risk of peripherally inserted central catheter-associated bloodstream infections: a single-center study in Japan",
+        "volume": "44",
+        "author": "Sakai",
+        "year": "2021",
+        "journal-title": "Infect Control Hosp Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "52",
+        "DOI": "10.1177/1062860613512518",
+        "article-title": "Validity of ICD-9-CM codes for the identification of complications related to central venous catheterization",
+        "volume": "30",
+        "author": "Tukey",
+        "year": "2015",
+        "journal-title": "Am J Med Qual"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "m1328",
+        "DOI": "10.1136/bmj.m1328",
+        "article-title": "Prediction models for diagnosis and prognosis of covid-19: systematic review and critical appraisal",
+        "volume": "369",
+        "author": "Wynants",
+        "year": "2020",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib40",
+        "first-page": "176",
+        "article-title": "Systematic review of prediction models for postacute care destination decision-making",
+        "volume": "29",
+        "author": "Erin",
+        "year": "2022",
+        "journal-title": "J Am Med Inform Assoc"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib41",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0233575",
+        "article-title": "Systematic review of prediction models in relapsing remitting multiple sclerosis",
+        "volume": "15",
+        "author": "Brown",
+        "year": "2020",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1186/s12916-018-1099-2",
+        "article-title": "Poor reporting of multivariable prediction model studies: towards a targeted implementation strategy of the TRIPOD statement",
+        "volume": "16",
+        "author": "Heus",
+        "year": "2018",
+        "journal-title": "BMC Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1577",
+        "DOI": "10.1016/S0140-6736(19)30037-6",
+        "article-title": "Reporting of artificial intelligence prediction models",
+        "volume": "393",
+        "author": "Collins",
+        "year": "2019",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib44",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1136/bmj.g7594",
+        "article-title": "Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): the TRIPOD statement",
+        "volume": "350",
+        "author": "Collins",
+        "year": "2015",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib45",
+        "article-title": "Calculating the sample size required for developing a clinical prediction model",
+        "volume": "368",
+        "author": "Riley",
+        "year": "2020",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "4230",
+        "DOI": "10.1002/sim.9025",
+        "article-title": "Minimum sample size for external validation of a clinical prediction model with a binary outcome",
+        "volume": "40",
+        "author": "Riley",
+        "year": "2021",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1280",
+        "DOI": "10.1002/sim.9275",
+        "article-title": "Minimum sample size calculations for external validation of a clinical prediction model with a time-to-event outcome",
+        "volume": "41",
+        "author": "Riley",
+        "year": "2022",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1016/j.jclinepi.2015.12.005",
+        "article-title": "A calibration hierarchy for risk models was defined: from utopia to empirical data",
+        "volume": "74",
+        "author": "Van Calster",
+        "year": "2016",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2023.07.019_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1016/j.jclinepi.2015.04.005",
+        "article-title": "Prediction models need appropriate internal, internal-external, and external validation",
+        "volume": "69",
+        "author": "Steyerberg",
+        "year": "2016",
+        "journal-title": "J Clin Epidemiol"
+      }
+    ],
+    "container-title": [
+      "Journal of Clinical Epidemiology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0895435623001993?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0895435623001993?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2025-03-17T17:45:26Z",
+      "timestamp": 1742233526000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0895435623001993"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "references-count": 48,
+    "alternative-id": [
+      "S0895435623001993"
+    ],
+    "URL": "https://doi.org/10.1016/j.jclinepi.2023.07.019",
+    "relation": {},
+    "ISSN": [
+      "0895-4356"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0895-4356"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Systematic review finds risk of bias and applicability concerns for models predicting central line-associated bloodstream infection",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Clinical Epidemiology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jclinepi.2023.07.019",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2023 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

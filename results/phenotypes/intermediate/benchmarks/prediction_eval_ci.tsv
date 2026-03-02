@@ -1,0 +1,3 @@
+dataset_id	split_or_cohort	model_name	n_bootstrap	seed	auc_ci_low	auc_ci_high	brier_ci_low	brier_ci_high	calibration_slope_ci_low	calibration_slope_ci_high	calibration_intercept_ci_low	calibration_intercept_ci_high
+MIMIC_IV_ED	internal_oof_cv	elasticnet_logistic_cv	200	7	0.80079249063051	0.8292150970916973	0.1677616997222867	0.1807587192602579	0.9399050124143381	1.0787167721879383	-0.08312919075390754	0.09690330000183699
+NHAMCS_ED_2019	external_validation	elasticnet_logistic_cv	200	7	0.6519326255614537	0.8509486313465784	0.14497527787279785	0.21006192833995221	0.33643151135003285	1.150047981722231	-2.311574865070457	-1.3521155762643666

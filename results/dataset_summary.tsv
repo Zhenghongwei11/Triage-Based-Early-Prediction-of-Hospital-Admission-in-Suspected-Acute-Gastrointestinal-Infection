@@ -1,0 +1,2 @@
+dataset_id	n_total	n_adult	n_cohort_adult_gi	event_rate_admission	missing_age	missing_sex	missing_arrems	missing_immedr	missing_tempf	missing_pulse	missing_respr	missing_bpsys	missing_bpdias	missing_popct	missing_painscale	missing_arrtime
+NHAMCS_ED_2019	19481	14899	806	0.10918114143920596	0.0	0.0	0.02977667493796526	0.228287841191067	0.04466501240694789	0.04838709677419355	0.04590570719602978	0.031017369727047148	0.031017369727047148	0.04094292803970223	0.3200992555831266	0.03970223325062035

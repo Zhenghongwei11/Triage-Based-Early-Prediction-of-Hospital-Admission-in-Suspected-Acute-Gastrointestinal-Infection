@@ -1,0 +1,509 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T06:01:10Z",
+      "timestamp": 1768456870965,
+      "version": "3.49.0"
+    },
+    "reference-count": 44,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "12",
+    "content-domain": {
+      "domain": [
+        "www.neurology.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Neurology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.1212/wnl.0000000000214347",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T21:00:09Z",
+      "timestamp": 1763586009000
+    },
+    "update-policy": "https://doi.org/10.1212/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Trends in Head CT Use in US Emergency Department Patients From 2007 to 2022"
+    ],
+    "prefix": "10.1212",
+    "volume": "105",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5664-779X",
+        "authenticated-orcid": false,
+        "given": "Layne",
+        "family": "Dylla",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Yale University School of Medicine, New Haven, CT;"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9605-4999",
+        "authenticated-orcid": false,
+        "given": "Neeharika",
+        "family": "Krothapalli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neurology, Yale University School of Medicine, New Haven, CT;"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2419-5581",
+        "authenticated-orcid": false,
+        "given": "Long",
+        "family": "Tu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Radiology and Biomedical Imaging, Yale University School of Medicine,New Haven, CT;"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4628-0370",
+        "authenticated-orcid": false,
+        "given": "Seyedmehdi",
+        "family": "Payabvash",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Radiology, Columbia University School of Medicine, New York, NY;"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2296-1588",
+        "authenticated-orcid": false,
+        "given": "James F.",
+        "family": "Burke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neurology, Ohio State University Wexner Medical College, Columbus; and"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2003-5473",
+        "authenticated-orcid": false,
+        "given": "Kevin N.",
+        "family": "Sheth",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neurology, Yale University School of Medicine, New Haven, CT;"
+          },
+          {
+            "name": "Center for Brain and Mind Health, Yale University School of Medicine, New Haven, CT."
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1041-4165",
+        "authenticated-orcid": false,
+        "given": "Charles",
+        "family": "Wira",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Emergency Medicine, Yale University School of Medicine, New Haven, CT;"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8178-8597",
+        "authenticated-orcid": false,
+        "given": "Adam",
+        "family": "de Havenon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neurology, Yale University School of Medicine, New Haven, CT;"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "e_1_3_7_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.973"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_7_3_2",
+        "first-page": "267CT",
+        "article-title": "Emergency computed tomography",
+        "volume": "91",
+        "author": "Odle T",
+        "year": "2020",
+        "unstructured": "Odle T. Emergency computed tomography. Radiol Technol. 2020;91(3):267CT–287CT.",
+        "journal-title": "Radiol Technol."
+      },
+      {
+        "key": "e_1_3_7_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.STR.0000196957.55928.ab"
+      },
+      {
+        "key": "e_1_3_7_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.122.040790"
+      },
+      {
+        "key": "e_1_3_7_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacr.2022.03.008"
+      },
+      {
+        "key": "e_1_3_7_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1259/bjr.20150819"
+      },
+      {
+        "key": "e_1_3_7_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamainternmed.2014.173"
+      },
+      {
+        "key": "e_1_3_7_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcjq.2025.02.008"
+      },
+      {
+        "key": "e_1_3_7_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1470-2045(22)00696-9"
+      },
+      {
+        "key": "e_1_3_7_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10140-024-02247-9"
+      },
+      {
+        "key": "e_1_3_7_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacr.2023.08.042"
+      },
+      {
+        "key": "e_1_3_7_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2025.105838"
+      },
+      {
+        "key": "e_1_3_7_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.artmed.2019.101762"
+      },
+      {
+        "key": "e_1_3_7_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15265/IY-2017-012"
+      },
+      {
+        "key": "e_1_3_7_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jpm14030263"
+      },
+      {
+        "key": "e_1_3_7_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13017-021-00381-0"
+      },
+      {
+        "key": "e_1_3_7_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/TA.0000000000003960"
+      },
+      {
+        "key": "e_1_3_7_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11936-014-0355-9"
+      },
+      {
+        "key": "e_1_3_7_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.123.066114"
+      },
+      {
+        "key": "e_1_3_7_21_2",
+        "volume-title": "National Hospital Ambulatory Medical Care Survey",
+        "unstructured": "National Hospital Ambulatory Medical Care Survey. Centers for Disease Control and Prevention. Updated November 22, 2024. Accessed March 14, 2025. cdc.gov/nchs/nhamcs/about/index.html."
+      },
+      {
+        "key": "e_1_3_7_22_2",
+        "volume-title": "NHAMCS Questionnaires, Datasets, and Documentation",
+        "unstructured": "NHAMCS Questionnaires, Datasets, and Documentation. Centers for Disease Control and Prevention. Updated July 23, 2024. Accessed March 14, 2025, 2025. cdc.gov/nchs/nhamcs/documentation/index.html."
+      },
+      {
+        "key": "e_1_3_7_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.10100640"
+      },
+      {
+        "key": "e_1_3_7_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jnma.2021.12.001"
+      },
+      {
+        "key": "e_1_3_7_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2019.11456"
+      },
+      {
+        "key": "e_1_3_7_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacr.2023.06.033"
+      },
+      {
+        "key": "e_1_3_7_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41514-024-00148-2"
+      },
+      {
+        "key": "e_1_3_7_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.119.024155"
+      },
+      {
+        "key": "e_1_3_7_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.115.010613"
+      },
+      {
+        "key": "e_1_3_7_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23970/AHRQEPCCER258"
+      },
+      {
+        "key": "e_1_3_7_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5811/westjem.2013.1.15981"
+      },
+      {
+        "key": "e_1_3_7_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.clinimag.2023.01.005"
+      },
+      {
+        "key": "e_1_3_7_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5811/westjem.2017.6.33685"
+      },
+      {
+        "key": "e_1_3_7_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2020.01.029"
+      },
+      {
+        "key": "e_1_3_7_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ta.0000187813.79047.42"
+      },
+      {
+        "key": "e_1_3_7_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacr.2016.02.023"
+      },
+      {
+        "key": "e_1_3_7_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.clinimag.2020.11.025"
+      },
+      {
+        "key": "e_1_3_7_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.114.007087"
+      },
+      {
+        "key": "e_1_3_7_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2214/AJR.23.29617"
+      },
+      {
+        "key": "e_1_3_7_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamainternmed.2025.0505"
+      },
+      {
+        "key": "e_1_3_7_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacr.2014.12.016"
+      },
+      {
+        "key": "e_1_3_7_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2214/AJR.23.30060"
+      },
+      {
+        "key": "e_1_3_7_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2014.07.038"
+      },
+      {
+        "key": "e_1_3_7_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.2022-060972"
+      },
+      {
+        "key": "e_1_3_7_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10140-024-02273-7"
+      }
+    ],
+    "container-title": [
+      "Neurology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.neurology.org/doi/pdfdirect/10.1212/WNL.0000000000214347",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T21:00:10Z",
+      "timestamp": 1763586010000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.neurology.org/doi/10.1212/WNL.0000000000214347"
+      }
+    },
+    "subtitle": [
+      "A Nationwide Analysis"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          23
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            23
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1212/WNL.0000000000214347"
+    ],
+    "URL": "https://doi.org/10.1212/wnl.0000000000214347",
+    "relation": {},
+    "ISSN": [
+      "0028-3878",
+      "1526-632X"
+    ],
+    "issn-type": [
+      {
+        "value": "0028-3878",
+        "type": "print"
+      },
+      {
+        "value": "1526-632X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          23
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-06-09",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-09-04",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-11-19",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e214347"
+  }
+}

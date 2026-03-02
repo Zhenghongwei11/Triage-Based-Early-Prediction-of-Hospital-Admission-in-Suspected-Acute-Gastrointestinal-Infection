@@ -1,0 +1,5 @@
+figure_id	filename	generated_by	source_tables_or_inputs	output_path	notes
+Figure1	auc_by_year.png	scripts/make_figures.py	results/tables/external_nhamcs_years_summary.tsv	results/paper/figures/auc_by_year.png	External validation AUC by year + pooled reference
+Figure2	calibration_binned_pooled.png	scripts/make_figures.py	results/external_nhamcs_years/primary/pooled_2016_2022/benchmarks/calibration_bins.tsv	results/paper/figures/calibration_binned_pooled.png	Binned calibration (internal OOF vs pooled external)
+Figure3	dca_external_pooled.png	scripts/make_figures.py	results/external_nhamcs_years/primary/pooled_2016_2022/benchmarks/decision_curve.tsv	results/paper/figures/dca_external_pooled.png	Decision curve analysis in pooled external cohort
+

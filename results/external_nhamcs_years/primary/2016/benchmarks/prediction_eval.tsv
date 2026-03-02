@@ -1,0 +1,3 @@
+dataset_id	split_or_cohort	model_name	auc	brier	calibration_slope	calibration_intercept	n	n_events
+MIMIC_IV_ED	internal_oof_cv	elasticnet_logistic_cv	0.7520638718133319	0.1946052317097882	1.0002000847383463	7.12868365889659e-05	19913	7875
+NHAMCS_ED_2016	external_validation	elasticnet_logistic_cv	0.7409075342465754	0.1364836816964978	0.9417356378119416	-1.6338103429040736	810	80

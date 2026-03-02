@@ -1,0 +1,166 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T09:55:38Z",
+      "timestamp": 1772358938196,
+      "version": "3.50.1"
+    },
+    "publisher-location": "Cham",
+    "reference-count": 0,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "value": "9783030163983",
+        "type": "print"
+      },
+      {
+        "value": "9783030163990",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2019-01-01T00:00:00Z",
+          "timestamp": 1546300800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-030-16399-0",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          22
+        ]
+      ],
+      "date-time": "2019-07-22T11:03:05Z",
+      "timestamp": 1563793385000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 750,
+    "title": [
+      "Clinical Prediction Models"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "Statistics for Biology and Health"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-030-16399-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-030-16399-0",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          22
+        ]
+      ],
+      "date-time": "2019-07-22T11:10:15Z",
+      "timestamp": 1563793815000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-030-16399-0"
+      }
+    },
+    "subtitle": [
+      "A Practical Approach to Development, Validation, and Updating"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783030163983",
+      "9783030163990"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-3-030-16399-0",
+    "relation": {},
+    "ISSN": [
+      "1431-8776",
+      "2197-5671"
+    ],
+    "issn-type": [
+      {
+        "value": "1431-8776",
+        "type": "print"
+      },
+      {
+        "value": "2197-5671",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1277 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T11:06:32Z",
+      "timestamp": 1772276792967,
+      "version": "3.50.1"
+    },
+    "reference-count": 188,
+    "publisher": "American College of Physicians",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2019-01-01T00:00:00Z",
+          "timestamp": 1546300800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.acpjournals.org/journal/aim/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "name": "National Institute for Health Research Birmingham Biomedical Research Centre at the University Hospitals Birmingham NHS Foundation Trust"
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ZONMW 918.10.615"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ZONMW 918.10.615"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ZONMW 912.08.004"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ZONMW 912.08.004"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "National Institute for Health Research School for Primary Care Research",
+        "award": [
+          "390"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "390"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "National Institute for Health Research Biomedical Research Centre, Oxford"
+      },
+      {
+        "name": "National Institute for Health Research (NIHR) Collaboration for Leadership in Applied Health Research and Care (CLAHRC) West at University Hospitals Bristol NHS Foundation Trust"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ann Intern Med"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.7326/m18-1377",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2018-12-31T22:01:05Z",
+      "timestamp": 1546293665000
+    },
+    "page": "W1-W33",
+    "source": "Crossref",
+    "is-referenced-by-count": 1203,
+    "title": [
+      "PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration"
+    ],
+    "prefix": "10.7326",
+    "volume": "170",
+    "author": [
+      {
+        "given": "Karel G.M.",
+        "family": "Moons",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Julius Center for Health Sciences and Primary Care and Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht, the Netherlands (K.G.M., J.B.R.)"
+          }
+        ]
+      },
+      {
+        "given": "Robert F.",
+        "family": "Wolff",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kleijnen Systematic Reviews, York, United Kingdom (R.F.W., M.W.)"
+          }
+        ]
+      },
+      {
+        "given": "Richard D.",
+        "family": "Riley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences, Keele University, Keele, United Kingdom (R.D.R.)"
+          }
+        ]
+      },
+      {
+        "given": "Penny F.",
+        "family": "Whiting",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Bristol Medical School of the University of Bristol and National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West, University Hospitals Bristol National Health Service Foundation Trust, Bristol, United Kingdom (P.F.W.)"
+          }
+        ]
+      },
+      {
+        "given": "Marie",
+        "family": "Westwood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kleijnen Systematic Reviews, York, United Kingdom (R.F.W., M.W.)"
+          }
+        ]
+      },
+      {
+        "given": "Gary S.",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Statistics in Medicine, University of Oxford, Oxford, United Kingdom (G.S.C.)"
+          }
+        ]
+      },
+      {
+        "given": "Johannes B.",
+        "family": "Reitsma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julius Center for Health Sciences and Primary Care and Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht, the Netherlands (K.G.M., J.B.R.)"
+          }
+        ]
+      },
+      {
+        "given": "Jos",
+        "family": "Kleijnen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kleijnen Systematic Reviews, York, United Kingdom, and School for Public Health and Primary Care, Maastricht University, Maastricht, the Netherlands (J.K.)"
+          }
+        ]
+      },
+      {
+        "given": "Sue",
+        "family": "Mallett",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Applied Health Research, National Institute for Health Research Birmingham Biomedical Research Centre, College of Medical and Dental Sciences, University of Birmingham, Birmingham, United Kingdom (S.M.)"
+          }
+        ]
+      }
+    ],
+    "member": "4285",
+    "reference": [
+      {
+        "key": "r1-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b375"
+      },
+      {
+        "key": "r2-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jnci/80.15.1198"
+      },
+      {
+        "key": "r3-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0021-9681(86)90120-7"
+      },
+      {
+        "key": "r4-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1997.03540300056034"
+      },
+      {
+        "key": "r5-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-104-1-60"
+      },
+      {
+        "key": "r6-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM198509263131306"
+      },
+      {
+        "key": "r7-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0697"
+      },
+      {
+        "key": "r8-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0698"
+      },
+      {
+        "key": "r10-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajog.2015.06.013"
+      },
+      {
+        "key": "r11-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCOUTCOMES.115.001693"
+      },
+      {
+        "key": "r12-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2013.5616"
+      },
+      {
+        "key": "r13-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2006.02.005"
+      },
+      {
+        "key": "r14-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2007.02.004"
+      },
+      {
+        "key": "r15-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0032844"
+      },
+      {
+        "key": "r16-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001744"
+      },
+      {
+        "key": "r17-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i6460"
+      },
+      {
+        "key": "r22-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-14-3"
+      },
+      {
+        "key": "r23-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6080"
+      },
+      {
+        "key": "r24-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.5412"
+      },
+      {
+        "key": "r25-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280217705678"
+      },
+      {
+        "key": "r27-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X09353452"
+      },
+      {
+        "key": "r28-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3470"
+      },
+      {
+        "key": "r29-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biostatistics/kxl004"
+      },
+      {
+        "key": "r30-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2005.02.022"
+      },
+      {
+        "key": "r31-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.942"
+      },
+      {
+        "key": "r32-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280215592269"
+      },
+      {
+        "key": "r33-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-158-7-201304020-00006"
+      },
+      {
+        "key": "r34-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-151-4-200908180-00136"
+      },
+      {
+        "key": "r35-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-151-4-200908180-00135"
+      },
+      {
+        "key": "r36-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2017.19163"
+      },
+      {
+        "key": "r37-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.06.005"
+      },
+      {
+        "key": "r39-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M18-1376"
+      },
+      {
+        "key": "r40-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280218785504.30032705"
+      },
+      {
+        "key": "r41-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jamia.2001.0080391"
+      },
+      {
+        "key": "r42-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2010.11.011"
+      },
+      {
+        "key": "r43-M181377",
+        "first-page": "728",
+        "author": "Wong SS",
+        "year": "2003",
+        "journal-title": "AMIA Annu Symp Proc"
+      },
+      {
+        "key": "r44-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i3140"
+      },
+      {
+        "key": "r45-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.05.009"
+      },
+      {
+        "key": "r46-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.d5928"
+      },
+      {
+        "key": "r48-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-155-8-201110180-00009"
+      },
+      {
+        "key": "r51-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b604"
+      },
+      {
+        "key": "r52-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i4338"
+      },
+      {
+        "key": "r53-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e3427"
+      },
+      {
+        "key": "r54-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e5793"
+      },
+      {
+        "key": "r55-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001381"
+      },
+      {
+        "key": "r56-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e5595"
+      },
+      {
+        "key": "r57-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2011-301246"
+      },
+      {
+        "key": "r58-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-9-103"
+      },
+      {
+        "key": "r59-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000047699"
+      },
+      {
+        "key": "r60-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2004.04.021"
+      },
+      {
+        "key": "r61-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.110.604090"
+      },
+      {
+        "key": "r62-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/humupd/dmp013"
+      },
+      {
+        "key": "r63-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1472-6947-6-38"
+      },
+      {
+        "key": "r64-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezr285"
+      },
+      {
+        "key": "r65-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e3318"
+      },
+      {
+        "key": "r66-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2009.1757"
+      },
+      {
+        "key": "r67-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2011-300747"
+      },
+      {
+        "key": "r68-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001221"
+      },
+      {
+        "key": "r69-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001380"
+      },
+      {
+        "key": "r70-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-158-4-201302190-00009"
+      },
+      {
+        "key": "r71-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b606"
+      },
+      {
+        "key": "r72-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1472-6947-11-62"
+      },
+      {
+        "key": "r73-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-144-3-200602070-00009"
+      },
+      {
+        "key": "r74-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-130-6-199903160-00016"
+      },
+      {
+        "key": "r75-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i4919"
+      },
+      {
+        "key": "r76-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.5941"
+      },
+      {
+        "key": "r77-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.12.005"
+      },
+      {
+        "key": "r78-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6787"
+      },
+      {
+        "key": "r79-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280213497434"
+      },
+      {
+        "key": "r80-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e3181c30fb2"
+      },
+      {
+        "key": "r81-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00127305"
+      },
+      {
+        "key": "r83-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1373/clinchem.2007.096032"
+      },
+      {
+        "key": "r84-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X06295361"
+      },
+      {
+        "key": "r85-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-143-2-200507190-00008"
+      },
+      {
+        "key": "r86-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3945/jn.110.133140"
+      },
+      {
+        "key": "r87-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/neu.2013.3003"
+      },
+      {
+        "key": "r88-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e5166"
+      },
+      {
+        "key": "r89-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.38128.631319.AE"
+      },
+      {
+        "key": "r90-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dyv098"
+      },
+      {
+        "key": "r91-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2016.03.017"
+      },
+      {
+        "key": "r92-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.120812"
+      },
+      {
+        "key": "r93-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2014.06.018"
+      },
+      {
+        "key": "r94-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6997"
+      },
+      {
+        "key": "r95-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X12439755"
+      },
+      {
+        "key": "r96-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwq223"
+      },
+      {
+        "key": "r97-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwr374"
+      },
+      {
+        "key": "r98-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-8587(13)70103-7"
+      },
+      {
+        "key": "r99-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1742-5573-4-15"
+      },
+      {
+        "key": "r100-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-13-113"
+      },
+      {
+        "key": "r103-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(03)00206-3"
+      },
+      {
+        "key": "r105-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-8-48"
+      },
+      {
+        "key": "r106-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.282.11.1061"
+      },
+      {
+        "key": "r107-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1373/clinchem.2008.121517"
+      },
+      {
+        "key": "r108-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1373/clinchem.2005.048595"
+      },
+      {
+        "key": "r109-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-12-166"
+      },
+      {
+        "key": "r110-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2014-306068"
+      },
+      {
+        "key": "r111-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiology.167.2.3357976"
+      },
+      {
+        "key": "r112-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780060402"
+      },
+      {
+        "key": "r113-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1997.03540250057032"
+      },
+      {
+        "key": "r114-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0009-9260(05)83184-8"
+      },
+      {
+        "key": "r115-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(02)00408-0"
+      },
+      {
+        "key": "r116-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2013.05.014"
+      },
+      {
+        "key": "r117-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1994.03510290071040"
+      },
+      {
+        "key": "r118-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM198110153051604"
+      },
+      {
+        "key": "r119-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.3287615"
+      },
+      {
+        "key": "r120-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.050090"
+      },
+      {
+        "key": "r121-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-8-20"
+      },
+      {
+        "key": "r122-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/bjc.1994.192"
+      },
+      {
+        "key": "r123-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.02.005"
+      },
+      {
+        "key": "r124-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwt286"
+      },
+      {
+        "key": "r125-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19991130)18:22<2987::AID-SIM205>3.0.CO;2-B"
+      },
+      {
+        "key": "r126-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/096228029800700404"
+      },
+      {
+        "key": "r127-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00001648-199901000-00012"
+      },
+      {
+        "key": "r128-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/neu.2010.1746"
+      },
+      {
+        "key": "r129-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/neu.2007.0510"
+      },
+      {
+        "key": "r130-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00001648-199209000-00009"
+      },
+      {
+        "key": "r131-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.f5605"
+      },
+      {
+        "key": "r134-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM197810262991705"
+      },
+      {
+        "key": "r135-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001531"
+      },
+      {
+        "key": "r136-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-159-3-201308060-00009"
+      },
+      {
+        "key": "r137-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.d4770"
+      },
+      {
+        "key": "r138-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwr383"
+      },
+      {
+        "key": "r139-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2530820"
+      },
+      {
+        "key": "r140-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.2494"
+      },
+      {
+        "key": "r141-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3410"
+      },
+      {
+        "key": "r142-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3310/hta11500"
+      },
+      {
+        "key": "r143-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7993"
+      },
+      {
+        "key": "r144-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.7992"
+      },
+      {
+        "key": "r145-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12874-016-0267-3"
+      },
+      {
+        "key": "r146-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(03)00047-7"
+      },
+      {
+        "key": "r147-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X0102100106"
+      },
+      {
+        "key": "r148-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(95)00048-8"
+      },
+      {
+        "key": "r149-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(96)00236-3"
+      },
+      {
+        "key": "r150-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwk052"
+      },
+      {
+        "key": "r151-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2010.11.012"
+      },
+      {
+        "key": "r152-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2016.02.031"
+      },
+      {
+        "key": "r153-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-14-137"
+      },
+      {
+        "key": "r154-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(01)00341-9"
+      },
+      {
+        "key": "r155-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b605"
+      },
+      {
+        "key": "r156-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2011-301247"
+      },
+      {
+        "key": "r157-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(20000229)19:4<453::AID-SIM350>3.0.CO;2-5"
+      },
+      {
+        "key": "r158-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2004.06.017"
+      },
+      {
+        "key": "r159-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jnci/86.11.829"
+      },
+      {
+        "key": "r160-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.332.7549.1080"
+      },
+      {
+        "key": "r161-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.2331"
+      },
+      {
+        "key": "r162-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6986"
+      },
+      {
+        "key": "r163-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1082-989X.7.1.19"
+      },
+      {
+        "key": "r165-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0021-9681(86)90182-7"
+      },
+      {
+        "key": "r166-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.f2778"
+      },
+      {
+        "key": "r169-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/096228029900800102"
+      },
+      {
+        "key": "r170-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19990330)18:6<681::AID-SIM71>3.0.CO;2-R"
+      },
+      {
+        "key": "r171-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4067"
+      },
+      {
+        "key": "r172-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2006.01.014"
+      },
+      {
+        "key": "r173-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.12.008"
+      },
+      {
+        "key": "r174-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-10-7"
+      },
+      {
+        "key": "r175-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b2393"
+      },
+      {
+        "key": "r176-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.03.017"
+      },
+      {
+        "key": "r177-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.110977"
+      },
+      {
+        "key": "r178-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCHEARTFAILURE.112.000043"
+      },
+      {
+        "key": "r179-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07357900802572110"
+      },
+      {
+        "key": "r180-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-14-40"
+      },
+      {
+        "key": "r181-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.burns.2013.04.026"
+      },
+      {
+        "key": "r182-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10549-011-1818-2"
+      },
+      {
+        "key": "r183-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0023441"
+      },
+      {
+        "key": "r184-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0019994"
+      },
+      {
+        "key": "r185-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1465-9921-12-151"
+      },
+      {
+        "key": "r186-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamadermatol.2013.8890"
+      },
+      {
+        "key": "r187-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2006.01.009"
+      },
+      {
+        "key": "r188-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-9-57"
+      },
+      {
+        "key": "r189-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1373/clinchem.2008.115345"
+      },
+      {
+        "key": "r190-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6451"
+      },
+      {
+        "key": "r191-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(96)00025-X"
+      },
+      {
+        "key": "r192-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4"
+      },
+      {
+        "key": "r193-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e3181a39056"
+      },
+      {
+        "key": "r194-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.6191"
+      },
+      {
+        "key": "r195-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/71.3.431"
+      },
+      {
+        "key": "r196-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/ss/1009211805"
+      },
+      {
+        "key": "r197-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280216668555"
+      },
+      {
+        "key": "r198-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2005.11.025"
+      },
+      {
+        "key": "r199-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.h3868"
+      },
+      {
+        "key": "r200-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2011.08.011"
+      },
+      {
+        "key": "r201-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(20000430)19:8<1059::AID-SIM412>3.0.CO;2-0"
+      },
+      {
+        "key": "r202-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280214558972"
+      },
+      {
+        "key": "r203-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bib/bbq073"
+      },
+      {
+        "key": "r204-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-7-91"
+      },
+      {
+        "key": "r205-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4085"
+      },
+      {
+        "key": "r206-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.282.11.1054"
+      },
+      {
+        "key": "r207-M181377",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-5-19"
+      }
+    ],
+    "container-title": [
+      "Annals of Internal Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.acpjournals.org/doi/pdf/10.7326/M18-1377",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.acpjournals.org/doi/full-xml/10.7326/M18-1377",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://annals.org/aim/fullarticle/2719962/probast-tool-assess-risk-bias-applicability-prediction-model-studies-explanation",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2025-02-09T13:17:32Z",
+      "timestamp": 1739107052000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.acpjournals.org/doi/10.7326/M18-1377"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    },
+    "references-count": 188,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.7326/M18-1377"
+    ],
+    "URL": "https://doi.org/10.7326/m18-1377",
+    "relation": {},
+    "ISSN": [
+      "0003-4819",
+      "1539-3704"
+    ],
+    "issn-type": [
+      {
+        "value": "0003-4819",
+        "type": "print"
+      },
+      {
+        "value": "1539-3704",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    }
+  }
+}

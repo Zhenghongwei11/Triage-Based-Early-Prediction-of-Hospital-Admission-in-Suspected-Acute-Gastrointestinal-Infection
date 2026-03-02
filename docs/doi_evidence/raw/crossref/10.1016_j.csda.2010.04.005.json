@@ -1,0 +1,495 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2026-02-08T08:20:09Z",
+      "timestamp": 1770538809185,
+      "version": "3.49.0"
+    },
+    "reference-count": 34,
+    "publisher": "Elsevier BV",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2010-10-01T00:00:00Z",
+          "timestamp": 1285891200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              16
+            ]
+          ],
+          "date-time": "2013-07-16T00:00:00Z",
+          "timestamp": 1373932800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 1019,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Computational Statistics &amp; Data Analysis"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.csda.2010.04.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2010-04-26T08:37:45Z",
+      "timestamp": 1272271065000
+    },
+    "page": "2267-2275",
+    "source": "Crossref",
+    "is-referenced-by-count": 144,
+    "title": [
+      "Avoiding bias due to perfect prediction in multiple imputation of incomplete categorical variables"
+    ],
+    "prefix": "10.1016",
+    "volume": "54",
+    "author": [
+      {
+        "given": "Ian R.",
+        "family": "White",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Rhian",
+        "family": "Daniel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Patrick",
+        "family": "Royston",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.csda.2010.04.005_b1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1368",
+        "DOI": "10.1002/sim.2619",
+        "article-title": "Robustness of a multivariate normal approximation for imputation of incomplete binary data",
+        "volume": "26",
+        "author": "Bernaards",
+        "year": "2007",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b2",
+        "doi-asserted-by": "crossref",
+        "first-page": "651",
+        "DOI": "10.1080/10705510802339072",
+        "article-title": "What improves with increased missing data imputations?",
+        "volume": "15",
+        "author": "Bodner",
+        "year": "2008",
+        "journal-title": "Structural Equation Modeling: A Multidisciplinary Journal"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b3",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.1002/sim.2518",
+        "article-title": "Confidence intervals for multinomial logistic regression in sparse data",
+        "volume": "26",
+        "author": "Bull",
+        "year": "2007",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b4",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/S0167-9473(01)00048-2",
+        "article-title": "A modified score function estimator for multinomial logistic regression in small samples",
+        "volume": "39",
+        "author": "Bull",
+        "year": "2002",
+        "journal-title": "Computational Statistics and Data Analysis"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b5",
+        "unstructured": "Carpenter, J.R., Kenward, M.G., 2008. Missing data in clinical trials—a practical guide. Birmingham: National Institute for Health Research, Publication RM03/JH17/MK. Available at: http://www.pcpoh.bham.ac.uk/publichealth/methodology/projects/RM03_JH17_MK.shtml."
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b6",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1080/01621459.1991.10475005",
+        "article-title": "Multiple imputation of industry and occupation codes in census public-use samples using Bayesian logistic regression",
+        "volume": "86",
+        "author": "Clogg",
+        "year": "1991",
+        "journal-title": "Journal of the American Statistical Association"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b7",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.1037/1082-989X.6.4.330",
+        "article-title": "A comparison of inclusive and restrictive strategies in modern missing data procedures",
+        "volume": "6",
+        "author": "Collins",
+        "year": "2001",
+        "journal-title": "Psychological Methods"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b8",
+        "series-title": "Analysis of Binary Data",
+        "author": "Cox",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b9",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1093/biomet/80.1.27",
+        "article-title": "Bias reduction of maximum likelihood estimates",
+        "volume": "80",
+        "author": "Firth",
+        "year": "1993",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b10",
+        "unstructured": "Gelman, A., Hill, J., Yajima, M., Su, Y.-S., Pittau, M.G., 2008. mi: missing data imputation and model checking.http://cran.r-project.org/web/packages/mi/index.html."
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b11",
+        "doi-asserted-by": "crossref",
+        "first-page": "2409",
+        "DOI": "10.1002/sim.1047",
+        "article-title": "A solution to the problem of separation in logistic regression",
+        "volume": "21",
+        "author": "Heinze",
+        "year": "2002",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b12",
+        "series-title": "Statistical Analysis with Missing Data",
+        "author": "Little",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b13",
+        "series-title": "Generalized Linear Models",
+        "author": "McCullagh",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b14",
+        "first-page": "85",
+        "article-title": "A multivariate technique for multiply imputing missing values using a sequence of regression models",
+        "volume": "27",
+        "author": "Raghunathan",
+        "year": "2001",
+        "journal-title": "Survey Methodology"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b15",
+        "unstructured": "Raghunathan, T.E., Solenberger, P.W., Hoewyk, J.V., 2007. IVEware: imputation and variance estimation software. http://www.isr.umich.edu/src/smp/ive."
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b16",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1177/1536867X0400400301",
+        "article-title": "Multiple imputation of missing values",
+        "volume": "4",
+        "author": "Royston",
+        "year": "2004",
+        "journal-title": "Stata Journal"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b17",
+        "doi-asserted-by": "crossref",
+        "first-page": "188",
+        "DOI": "10.1177/1536867X0500500204",
+        "article-title": "Multiple imputation of missing values: update",
+        "volume": "5",
+        "author": "Royston",
+        "year": "2005",
+        "journal-title": "Stata Journal"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b18",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1177/1536867X0800700401",
+        "article-title": "Multiple imputation of missing values: further update of ice, with an emphasis on interval censoring",
+        "volume": "7",
+        "author": "Royston",
+        "year": "2007",
+        "journal-title": "Stata Journal"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b19",
+        "doi-asserted-by": "crossref",
+        "first-page": "466",
+        "DOI": "10.1177/1536867X0900900308",
+        "article-title": "Multiple imputation of missing values: further update of ice, with an emphasis on categorical variables",
+        "volume": "9",
+        "author": "Royston",
+        "year": "2009",
+        "journal-title": "Stata Journal"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b20",
+        "doi-asserted-by": "crossref",
+        "first-page": "252",
+        "DOI": "10.1177/1536867X0900900205",
+        "article-title": "Multiple imputation of missing values: new features for mim",
+        "volume": "9",
+        "author": "Royston",
+        "year": "2009",
+        "journal-title": "Stata Journal"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b21",
+        "doi-asserted-by": "crossref",
+        "first-page": "130",
+        "DOI": "10.1214/aos/1176345338",
+        "article-title": "The Bayesian bootstrap",
+        "volume": "9",
+        "author": "Rubin",
+        "year": "1981",
+        "journal-title": "The Annals of Statistics"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b22",
+        "series-title": "Multiple Imputation for Nonresponse in Surveys",
+        "author": "Rubin",
+        "year": "1987"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b23",
+        "first-page": "543",
+        "article-title": "A noniterative sampling/importance resampling alternative to the data augmentation algorithm for creating a few imputations when fractions of missing information are modest: the SIR algorithm",
+        "volume": "82",
+        "author": "Rubin",
+        "year": "1987",
+        "journal-title": "Journal of the American Statistical Association"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b24",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1111/1467-9574.00217",
+        "article-title": "Nested multiple imputation of NMES via partially incompatible MCMC",
+        "volume": "57",
+        "author": "Rubin",
+        "year": "2003",
+        "journal-title": "Statistica Neerlandica"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b25",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1080/01621459.1986.10478280",
+        "article-title": "Multiple imputation for interval estimation from simple random samples with ignorable nonresponse",
+        "volume": "81",
+        "author": "Rubin",
+        "year": "1986",
+        "journal-title": "Journal of the American Statistical Association"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b26",
+        "unstructured": "SAS Institute Inc., 2004. SAS/STAT 9.1 User’s Guide. SAS Institute Inc., Cary, NC (Chapter 46)."
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b27",
+        "series-title": "Analysis of Incomplete Multivariate Data",
+        "author": "Schafer",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b28",
+        "unstructured": "Schafer, J.L., 2008. Software for multiple imputation. http://www.stat.psu.edu/~jls/misoftwa.html."
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b29",
+        "series-title": "Stata Statistical Software: Release 11",
+        "author": "StataCorp",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1351",
+        "DOI": "10.1002/sim.1761",
+        "article-title": "What to add to nothing? Use and avoidance of continuity corrections in meta-analysis of sparse data",
+        "volume": "23",
+        "author": "Sweeting",
+        "year": "2004",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.csda.2010.04.005_b31",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1177/0962280206074463",
+        "article-title": "Multiple imputation of discrete and continuous data by fully conditional specification",
+        "volume": "16",
+        "author": "van Buuren",
+        "year": "2007",
+        "journal-title": "Statistical Methods in Medical Research"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b32",
+        "doi-asserted-by": "crossref",
+        "first-page": "681",
+        "DOI": "10.1002/(SICI)1097-0258(19990330)18:6<681::AID-SIM71>3.0.CO;2-R",
+        "article-title": "Multiple imputation of missing blood pressure covariates in survival analysis",
+        "volume": "18",
+        "author": "van Buuren",
+        "year": "1999",
+        "journal-title": "Statistics in Medicine"
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b33",
+        "unstructured": "van Buuren, S., Oudshoorn, C.G.M., 2000. Multivariate imputation by Chained equations: MICE V1.0 user’s manual. TNO Report PG/VGZ/00.038, Leiden: TNO preventie en gezondheid. Available at: http://www.multiple-imputation.com/."
+      },
+      {
+        "key": "10.1016/j.csda.2010.04.005_b34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1541",
+        "DOI": "10.1002/sim.689",
+        "article-title": "Multiple imputation in public health research",
+        "volume": "20",
+        "author": "Zhou",
+        "year": "2001",
+        "journal-title": "Statistics in Medicine"
+      }
+    ],
+    "container-title": [
+      "Computational Statistics &amp; Data Analysis"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0167947310001490?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0167947310001490?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          28
+        ]
+      ],
+      "date-time": "2019-05-28T18:36:13Z",
+      "timestamp": 1559068573000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167947310001490"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          10
+        ]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0167947310001490"
+    ],
+    "URL": "https://doi.org/10.1016/j.csda.2010.04.005",
+    "relation": {},
+    "ISSN": [
+      "0167-9473"
+    ],
+    "issn-type": [
+      {
+        "value": "0167-9473",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          10
+        ]
+      ]
+    }
+  }
+}

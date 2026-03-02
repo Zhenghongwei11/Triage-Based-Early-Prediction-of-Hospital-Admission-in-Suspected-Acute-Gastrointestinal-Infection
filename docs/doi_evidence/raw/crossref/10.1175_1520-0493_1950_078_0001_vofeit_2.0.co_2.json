@@ -1,0 +1,139 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T11:24:25Z",
+      "timestamp": 1772364265425,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "American Meteorological Society",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mon. Wea. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1950,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1175/1520-0493(1950)078<0001:vofeit>2.0.co;2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2007-05-06T09:10:26Z",
+      "timestamp": 1178442626000
+    },
+    "page": "1-3",
+    "source": "Crossref",
+    "is-referenced-by-count": 1992,
+    "title": [
+      "VERIFICATION OF FORECASTS EXPRESSED IN TERMS OF PROBABILITY"
+    ],
+    "prefix": "10.1175",
+    "volume": "78",
+    "author": [
+      {
+        "given": "GLENN W.",
+        "family": "BRIER",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "12",
+    "container-title": [
+      "Monthly Weather Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2020-12-22T12:30:47Z",
+      "timestamp": 1608640247000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.ametsoc.org/doi/10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1950,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1950,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2"
+    ],
+    "URL": "https://doi.org/10.1175/1520-0493(1950)078<0001:vofeit>2.0.co;2",
+    "relation": {},
+    "ISSN": [
+      "0027-0644",
+      "1520-0493"
+    ],
+    "issn-type": [
+      {
+        "value": "0027-0644",
+        "type": "print"
+      },
+      {
+        "value": "1520-0493",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1950,
+          1
+        ]
+      ]
+    }
+  }
+}

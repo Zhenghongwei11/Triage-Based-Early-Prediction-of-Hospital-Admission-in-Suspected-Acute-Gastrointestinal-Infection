@@ -1,0 +1,153 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T10:00:22Z",
+      "timestamp": 1772359222172,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Radiological Society of North America (RSNA)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Radiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1982,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1148/radiology.143.1.7063747",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2014-07-08T21:24:20Z",
+      "timestamp": 1404854660000
+    },
+    "page": "29-36",
+    "source": "Crossref",
+    "is-referenced-by-count": 16803,
+    "title": [
+      "The meaning and use of the area under a receiver operating characteristic (ROC) curve."
+    ],
+    "prefix": "10.1148",
+    "volume": "143",
+    "author": [
+      {
+        "given": "J A",
+        "family": "Hanley",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "B J",
+        "family": "McNeil",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1577",
+    "container-title": [
+      "Radiology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://pubs.rsna.org/doi/pdf/10.1148/radiology.143.1.7063747",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2016-08-29T20:14:46Z",
+      "timestamp": 1472501686000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://pubs.rsna.org/doi/10.1148/radiology.143.1.7063747"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1982,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1982,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1148/radiology.143.1.7063747"
+    ],
+    "URL": "https://doi.org/10.1148/radiology.143.1.7063747",
+    "relation": {},
+    "ISSN": [
+      "0033-8419",
+      "1527-1315"
+    ],
+    "issn-type": [
+      {
+        "value": "0033-8419",
+        "type": "print"
+      },
+      {
+        "value": "1527-1315",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1982,
+          4
+        ]
+      ]
+    }
+  }
+}

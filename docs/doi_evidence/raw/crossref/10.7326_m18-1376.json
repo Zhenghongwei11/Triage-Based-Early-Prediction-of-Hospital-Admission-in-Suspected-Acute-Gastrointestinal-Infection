@@ -1,0 +1,525 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T06:07:17Z",
+      "timestamp": 1772258837546,
+      "version": "3.50.1"
+    },
+    "reference-count": 37,
+    "publisher": "American College of Physicians",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2019-01-01T00:00:00Z",
+          "timestamp": 1546300800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.acpjournals.org/journal/aim/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "name": "National Institute for Health Research Birmingham Biomedical Research Centre at the University Hospitals Birmingham NHS Foundation Trust"
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ZONMW 918.10.615"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ZONMW 918.10.615"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ZONMW 912.08.004"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ZONMW 912.08.004"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "National Institute for Health Research School for Primary Care Research",
+        "award": [
+          "390"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "390"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "National Institute for Health Research Biomedical Research Centre, Oxford"
+      },
+      {
+        "name": "National Institute for Health Research (NIHR) Collaboration for Leadership in Applied Health Research and Care (CLAHRC) West at University Hospitals Bristol NHS Foundation Trust"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ann Intern Med"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.7326/m18-1376",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2018-12-31T22:01:06Z",
+      "timestamp": 1546293666000
+    },
+    "page": "51-58",
+    "source": "Crossref",
+    "is-referenced-by-count": 1961,
+    "title": [
+      "PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies"
+    ],
+    "prefix": "10.7326",
+    "volume": "170",
+    "author": [
+      {
+        "given": "Robert F.",
+        "family": "Wolff",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Kleijnen Systematic Reviews, York, United Kingdom (R.F.W., M.W.)"
+          }
+        ]
+      },
+      {
+        "given": "Karel G.M.",
+        "family": "Moons",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julius Center for Health Sciences and Primary Care and Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht, the Netherlands (K.G.M., J.B.R.)"
+          }
+        ]
+      },
+      {
+        "given": "Richard D.",
+        "family": "Riley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences, Keele University, Keele, United Kingdom (R.D.R.)"
+          }
+        ]
+      },
+      {
+        "given": "Penny F.",
+        "family": "Whiting",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Medical School of the University of Bristol and National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West, University Hospitals Bristol National Health Service Foundation Trust, Bristol, United Kingdom (P.F.W.)"
+          }
+        ]
+      },
+      {
+        "given": "Marie",
+        "family": "Westwood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kleijnen Systematic Reviews, York, United Kingdom (R.F.W., M.W.)"
+          }
+        ]
+      },
+      {
+        "given": "Gary S.",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Statistics in Medicine, University of Oxford, Oxford, United Kingdom (G.S.C.)"
+          }
+        ]
+      },
+      {
+        "given": "Johannes B.",
+        "family": "Reitsma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julius Center for Health Sciences and Primary Care and Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht, the Netherlands (K.G.M., J.B.R.)"
+          }
+        ]
+      },
+      {
+        "given": "Jos",
+        "family": "Kleijnen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kleijnen Systematic Reviews, York, United Kingdom, and School for Public Health and Primary Care, Maastricht University, Maastricht, the Netherlands (J.K.)"
+          }
+        ]
+      },
+      {
+        "given": "Sue",
+        "family": "Mallett",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Applied Health Research, National Institute for Health Research Birmingham Biomedical Research Centre, College of Medical and Dental Sciences, University of Birmingham, Birmingham, United Kingdom (S.M.)"
+          }
+        ]
+      },
+      {
+        "name": "for the PROBAST Group†",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "4285",
+    "reference": [
+      {
+        "key": "r1-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001221"
+      },
+      {
+        "key": "r2-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001381"
+      },
+      {
+        "key": "r3-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0095-4543(21)00522-4"
+      },
+      {
+        "key": "r4-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i4338"
+      },
+      {
+        "key": "r5-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001380"
+      },
+      {
+        "key": "r6-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0697"
+      },
+      {
+        "key": "r7-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0698"
+      },
+      {
+        "key": "r8-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-9-103"
+      },
+      {
+        "key": "r9-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2011.1515"
+      },
+      {
+        "key": "r10-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0019994"
+      },
+      {
+        "key": "r11-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07357900802572110"
+      },
+      {
+        "key": "r12-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1158/1078-0432.CCR-07-4713"
+      },
+      {
+        "key": "r13-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000047699"
+      },
+      {
+        "key": "r14-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e5166"
+      },
+      {
+        "key": "r15-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i2416"
+      },
+      {
+        "key": "r16-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.39609.449676.25"
+      },
+      {
+        "key": "r18-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.cir.0000437741.48606.98"
+      },
+      {
+        "key": "r19-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e3698"
+      },
+      {
+        "key": "r22-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i6460"
+      },
+      {
+        "key": "r23-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-158-4-201302190-00009"
+      },
+      {
+        "key": "r25-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i4919"
+      },
+      {
+        "key": "r26-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001744"
+      },
+      {
+        "key": "r27-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M18-1377"
+      },
+      {
+        "key": "r28-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000217"
+      },
+      {
+        "key": "r29-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-017-0604-6"
+      },
+      {
+        "key": "r30-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-155-8-201110180-00009"
+      },
+      {
+        "key": "r31-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.06.005"
+      },
+      {
+        "key": "r32-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ALN.0b013e3181fc6e0a"
+      },
+      {
+        "key": "r33-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2012.06.020"
+      },
+      {
+        "key": "r34-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b375"
+      },
+      {
+        "key": "r36-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e5595"
+      },
+      {
+        "key": "r37-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-8-20"
+      },
+      {
+        "key": "r38-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b605"
+      },
+      {
+        "key": "r39-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b606"
+      },
+      {
+        "key": "r40-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b604"
+      },
+      {
+        "key": "r41-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(02)00528-0"
+      },
+      {
+        "key": "r42-M181376",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-143-2-200507190-00008"
+      }
+    ],
+    "container-title": [
+      "Annals of Internal Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.acpjournals.org/doi/pdf/10.7326/M18-1376",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.acpjournals.org/doi/full-xml/10.7326/M18-1376",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://annals.org/aim/fullarticle/2719961/probast-tool-assess-risk-bias-applicability-prediction-model-studies",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2025-02-09T13:17:35Z",
+      "timestamp": 1739107055000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.acpjournals.org/doi/10.7326/M18-1376"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.7326/M18-1376"
+    ],
+    "URL": "https://doi.org/10.7326/m18-1376",
+    "relation": {},
+    "ISSN": [
+      "0003-4819",
+      "1539-3704"
+    ],
+    "issn-type": [
+      {
+        "value": "0003-4819",
+        "type": "print"
+      },
+      {
+        "value": "1539-3704",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    }
+  }
+}

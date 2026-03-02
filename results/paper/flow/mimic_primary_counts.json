@@ -1,0 +1,28 @@
+{
+  "dataset": "MIMIC_IV_ED",
+  "icd10_prefixes": [
+    "A08",
+    "A09",
+    "A04",
+    "K52",
+    "R11",
+    "R19"
+  ],
+  "icd9_prefixes": [
+    "008",
+    "009",
+    "558",
+    "7870",
+    "7879",
+    "78791"
+  ],
+  "mimic_core_root": "data/raw/mimic-iv",
+  "n_admitted": 7875,
+  "n_adult_gi_stays": 19913,
+  "n_adult_total": 425011,
+  "n_edstays_total": 425087,
+  "n_gi_stays_in_edstays": 19913,
+  "n_gi_stays_total": 19913,
+  "phenotype": "primary",
+  "root": "data/raw/mimic-iv-ed"
+}

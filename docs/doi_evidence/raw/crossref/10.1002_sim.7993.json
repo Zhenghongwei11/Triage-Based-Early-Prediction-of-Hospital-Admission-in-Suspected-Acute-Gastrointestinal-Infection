@@ -1,0 +1,612 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T04:19:03Z",
+      "timestamp": 1772165943095,
+      "version": "3.50.1"
+    },
+    "reference-count": 37,
+    "publisher": "Wiley",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              22
+            ]
+          ],
+          "date-time": "2018-10-22T00:00:00Z",
+          "timestamp": 1540166400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000272",
+        "name": "National Institute for Health Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000272",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "project 9120.8004"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "project 9120.8004"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "918.10.615"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "918.10.615"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100006108",
+        "name": "National Center for Advancing Translational Sciences",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100006108",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100006662",
+        "name": "National Institute on Handicapped Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100006662",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Statistics in Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:p>In the medical literature, hundreds of prediction models are being developed to predict health outcomes in individuals. For continuous outcomes, typically a linear regression model is developed to predict an individual's outcome value conditional on values of multiple predictors (covariates). To improve model development and reduce the potential for overfitting, a suitable sample size is required in terms of the number of subjects (<jats:italic>n</jats:italic>) relative to the number of predictor parameters (<jats:italic>p</jats:italic>) for potential inclusion. We propose that the minimum value of<jats:italic>n</jats:italic>should meet the following four key criteria: (i) small optimism in predictor effect estimates as defined by a global shrinkage factor of<jats:styled-content>≥</jats:styled-content>0.9; (ii) small absolute difference of<jats:styled-content>≤</jats:styled-content>0.05 in the apparent and adjusted<jats:styled-content><jats:italic>R</jats:italic><jats:sup>2</jats:sup></jats:styled-content>; (iii) precise estimation (a margin of error<jats:styled-content>≤</jats:styled-content>10% of the true value) of the model's residual standard deviation; and similarly, (iv) precise estimation of the mean predicted outcome value (model intercept). The criteria require prespecification of the user's chosen<jats:italic>p</jats:italic>and the model's anticipated<jats:styled-content><jats:italic>R</jats:italic><jats:sup>2</jats:sup></jats:styled-content>as informed by previous studies. The value of<jats:italic>n</jats:italic>that meets all four criteria provides the minimum sample size required for model development. In an applied example, a new model to predict lung function in African‐American women using 25 predictor parameters requires at least 918 subjects to meet all criteria, corresponding to at least 36.7 subjects per predictor parameter. Even larger sample sizes may be needed to additionally ensure precise estimates of key predictor effects, especially when important categorical predictors have low prevalence in certain categories.</jats:p>",
+    "DOI": "10.1002/sim.7993",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2018-10-22T23:00:14Z",
+      "timestamp": 1540249214000
+    },
+    "page": "1262-1275",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 264,
+    "title": [
+      "Minimum sample size for developing a multivariable prediction model: Part I – Continuous outcomes"
+    ],
+    "prefix": "10.1002",
+    "volume": "38",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8699-0735",
+        "authenticated-orcid": false,
+        "given": "Richard D.",
+        "family": "Riley",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Keele UK"
+          }
+        ]
+      },
+      {
+        "given": "Kym I.E.",
+        "family": "Snell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Keele UK"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7481-0282",
+        "authenticated-orcid": false,
+        "given": "Joie",
+        "family": "Ensor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Keele UK"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2803-1151",
+        "authenticated-orcid": false,
+        "given": "Danielle L.",
+        "family": "Burke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Prognosis Research, Research Institute for Primary Care and Health Sciences Keele University Keele UK"
+          }
+        ]
+      },
+      {
+        "suffix": "Jr",
+        "given": "Frank E.",
+        "family": "Harrell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biostatistics Vanderbilt University School of Medicine Nashville TN"
+          }
+        ]
+      },
+      {
+        "given": "Karel G.M.",
+        "family": "Moons",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julius Center for Health Sciences and Primary Care University Medical Center Utrecht Utrecht The Netherlands"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2772-2316",
+        "authenticated-orcid": false,
+        "given": "Gary S.",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences University of Oxford Oxford UK"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001381"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-77244-8"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-19425-7_13"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001380"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0698"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "article-title": "Minimum sample size for developing a multivariable prediction model: PART II ‐ binary and time‐to‐event outcomes",
+        "author": "Riley RD",
+        "year": "2018",
+        "journal-title": "Statist Med"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9574.00154"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780091109"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1111/j.2517-6161.1983.tb01258.x",
+        "article-title": "Regression, prediction, and shrinkage",
+        "volume": "45",
+        "author": "Copas JB",
+        "year": "1983",
+        "journal-title": "J Royal Statist Soc B"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+        "article-title": "Regression shrinkage and selection via the lasso",
+        "volume": "58",
+        "author": "Tibshirani R",
+        "year": "1996",
+        "journal-title": "J Royal Statist Soc B"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.h3868"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4612-4380-9_41"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/096228029700600206"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.5726"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(01)00341-9"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_9_18_1",
+        "first-page": "250",
+        "article-title": "R 2 measures based on Wald and likelihood ratio joint significance tests",
+        "volume": "44",
+        "author": "Magee L",
+        "year": "1990",
+        "journal-title": "Am Stat"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2307/j.ctv30pnvtj",
+        "volume-title": "Econometric Modeling: A Likelihood Approach",
+        "author": "Hendry DF",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "volume-title": "Econometric Theory",
+        "author": "Goldberger AS",
+        "year": "1964"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i6460"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41512-017-0021-2"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa0907897"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2014.12.014"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15327906MBR3501_5"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "volume-title": "Confidence Intervals for Comparison of the Squared Multiple Correlation Coefficients of non‐Nested Models",
+        "author": "Tan L",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "first-page": "175",
+        "article-title": "Tables of the upper percentage points of the multiple correlation",
+        "volume": "59",
+        "author": "Lee YS",
+        "year": "1972",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1082-989X.12.4.399"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v020.i08"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03192993"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "unstructured": "KelleyK.MBESS (Version 4.0.0 and higher) [computer software and manual].2018.https://CRAN.R-project.org/package=MBESS"
+      },
+      {
+        "issue": "8",
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "963",
+        "DOI": "10.1037/0003-066X.55.8.963",
+        "article-title": "Increasing statistical power without increasing sample size",
+        "volume": "55",
+        "author": "McClelland GH",
+        "year": "2000",
+        "journal-title": "Am Psychol"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19980730)17:14<1623::AID-SIM871>3.0.CO;2-S"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1082-989X.8.3.305"
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03192966"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.59.103006.093735"
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2016.02.031"
+      },
+      {
+        "key": "e_1_2_9_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0013164407310131"
+      }
+    ],
+    "container-title": [
+      "Statistics in Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsim.7993",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.7993",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2024-07-11T17:15:11Z",
+      "timestamp": 1720718111000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/sim.7993"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          22
+        ]
+      ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            30
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/sim.7993"
+    ],
+    "URL": "https://doi.org/10.1002/sim.7993",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0277-6715",
+      "1097-0258"
+    ],
+    "issn-type": [
+      {
+        "value": "0277-6715",
+        "type": "print"
+      },
+      {
+        "value": "1097-0258",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          22
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2018-02-04",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-09-13",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-10-22",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

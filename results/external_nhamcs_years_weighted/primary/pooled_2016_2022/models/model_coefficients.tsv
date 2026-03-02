@@ -1,0 +1,16 @@
+model_name	feature	coef_standardized
+elasticnet_logistic_cv	age	0.7100833058369797
+elasticnet_logistic_cv	sex	0.06647050260124028
+elasticnet_logistic_cv	arrems	0.30245566248161737
+elasticnet_logistic_cv	immedr	-0.3968077747473351
+elasticnet_logistic_cv	temp_f	0.0519478889102029
+elasticnet_logistic_cv	pulse	0.2273792553444475
+elasticnet_logistic_cv	resp	0.004461850229533437
+elasticnet_logistic_cv	sbp	-0.06455933678666541
+elasticnet_logistic_cv	dbp	-0.011849560274330543
+elasticnet_logistic_cv	spo2	-0.06961445147503957
+elasticnet_logistic_cv	pain	0.15886669615430737
+elasticnet_logistic_cv	month	0.0028929716415328622
+elasticnet_logistic_cv	day_of_week	0.020430358959767875
+elasticnet_logistic_cv	arr_hour_sin	-0.1222266431829578
+elasticnet_logistic_cv	arr_hour_cos	-0.018856599410449426

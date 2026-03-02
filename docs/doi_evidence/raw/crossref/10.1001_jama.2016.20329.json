@@ -1,0 +1,320 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T10:32:37Z",
+      "timestamp": 1772188357225,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "American Medical Association (AMA)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JAMA"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          17
+        ]
+      ]
+    },
+    "DOI": "10.1001/jama.2016.20329",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2017-01-23T14:37:59Z",
+      "timestamp": 1485182279000
+    },
+    "page": "301",
+    "source": "Crossref",
+    "is-referenced-by-count": 551,
+    "title": [
+      "Prognostic Accuracy of Sepsis-3 Criteria for In-Hospital Mortality Among Patients With Suspected Infection Presenting to the Emergency Department"
+    ],
+    "prefix": "10.1001",
+    "volume": "317",
+    "author": [
+      {
+        "given": "Yonathan",
+        "family": "Freund",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Sorbonne Universités, UPMC Paris Univ-06, Paris, France2Emergency Department, Hôpital Pitie-Salpêtrière, Assistance Publique–Hôpitaux de Paris (APHP), Paris, France"
+          }
+        ]
+      },
+      {
+        "given": "Najla",
+        "family": "Lemachatti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Hôpital Pitie-Salpêtrière, Assistance Publique–Hôpitaux de Paris (APHP), Paris, France"
+          }
+        ]
+      },
+      {
+        "given": "Evguenia",
+        "family": "Krastinova",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Plateforme de recherche clinique de l'est parisien (URCEST-CRCEST), Hôpital St Antoine, APHP, Paris, France"
+          }
+        ]
+      },
+      {
+        "given": "Marie",
+        "family": "Van Laer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Cliniques Universitaires St Luc, Bruxelles, Belgium"
+          }
+        ]
+      },
+      {
+        "given": "Yann-Erick",
+        "family": "Claessens",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Princess Grace Hospital, Monte-Carlo, Monaco"
+          }
+        ]
+      },
+      {
+        "given": "Aurélie",
+        "family": "Avondo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Centre hospitalo-universitaire, Dijon, France"
+          }
+        ]
+      },
+      {
+        "given": "Céline",
+        "family": "Occelli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Hôpital Pasteur, Nice, France"
+          }
+        ]
+      },
+      {
+        "given": "Anne-Laure",
+        "family": "Feral-Pierssens",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Hôpital Européen Georges Pompidou, Paris, France"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer",
+        "family": "Truchot",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Hôpital Lariboisière, APHP, Paris, France"
+          }
+        ]
+      },
+      {
+        "given": "Mar",
+        "family": "Ortega",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Hospital Clinic, Barcelona, Spain"
+          }
+        ]
+      },
+      {
+        "given": "Bruno",
+        "family": "Carneiro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Centre hospitalo-universitaire, Angers, France"
+          }
+        ]
+      },
+      {
+        "given": "Julie",
+        "family": "Pernet",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Hôpital Tenon, APHP, Paris, France"
+          }
+        ]
+      },
+      {
+        "given": "Pierre-Géraud",
+        "family": "Claret",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Centre hospitalo-universitaire, Nîmes, France"
+          }
+        ]
+      },
+      {
+        "given": "Fabrice",
+        "family": "Dami",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, CHUV, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "given": "Ben",
+        "family": "Bloom",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Barts Health NHS trust, London, United Kingdom"
+          }
+        ]
+      },
+      {
+        "given": "Bruno",
+        "family": "Riou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sorbonne Universités, UPMC Paris Univ-06, Paris, France2Emergency Department, Hôpital Pitie-Salpêtrière, Assistance Publique–Hôpitaux de Paris (APHP), Paris, France"
+          }
+        ]
+      },
+      {
+        "given": "Sébastien",
+        "family": "Beaune",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Emergency Department, Hôpital Ambroise-Paré, Boulogne, France, and Paris Diderot University, INSERM UMRS 1144, Paris, France"
+          }
+        ]
+      },
+      {
+        "name": "for the French Society of Emergency Medicine Collaborators Group",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "10",
+    "container-title": [
+      "JAMA"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://jama.jamanetwork.com/ama/content_public/journal/jama/935995/jama_freund_2017_oi_160157.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          7
+        ]
+      ],
+      "date-time": "2023-04-07T21:28:06Z",
+      "timestamp": 1680902886000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2016.20329"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          17
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            17
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1001/jama.2016.20329",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.727233537.793564117",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0098-7484"
+    ],
+    "issn-type": [
+      {
+        "value": "0098-7484",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          17
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2026-02-26T18:32:07Z",
+      "timestamp": 1772130727554,
+      "version": "3.50.1"
+    },
+    "reference-count": 32,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              28
+            ]
+          ],
+          "date-time": "2008-06-28T00:00:00Z",
+          "timestamp": 1214611200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 3041,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Academic Emergency Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Objectives: Triage is the initial clinical sorting process in hospital emergency departments (EDs). Because of poor reproducibility and validity of three‐level triage, the authors developed and validated a new five‐level triage instrument, the Emergency Severity Index (ESI). The study objectives were: 1) to validate the triage instrument against ED patients' clinical resource and hospitalization needs, and 2) to measure the interrater reliability (reproducibility) of the instrument. Methods: This was a prospective, observational cohort study of a population‐based convenience sample of adult patients triaged during 100 hours at two urban referral hospitals. Validation by resource use and hospitalization (criterion standards) and reproducibility by blinded paired triage assignments compared with weighted kappa analysis were assessed. Results: Five hundred thirty‐eight patients were enrolled; 45 were excluded due to incomplete evaluations. The resulting cohort of 493 patients was 52% female, was 26% nonwhite, and had a median age of 40 years (range 16‐95); overall, 159 (32%) patients were hospitalized. Weighted kappa for triage assignment was 0.80 (95% CI = 0.76 to 0.84). Resource use and hospitalization rates were strongly associated with triage level. For patients in category 5, only one‐fourth (17/67) required any diagnostic test or procedure, and none were hospitalized (upper confidence limit, 5%). Conversely, in category 1, one of twelve patients was discharged (upper confidence limit, 25%), and none required fewer than two resources. Conclusions: This five‐level triage instrument was shown to be both valid and reliable in the authors' practice settings. It reproducibly triages patients into five distinct strata, from very high hospitalization/resource intensity to very low hospitalization/resource intensity.</jats:p>",
+    "DOI": "10.1111/j.1553-2712.2000.tb01066.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2008-01-08T15:18:06Z",
+      "timestamp": 1199805486000
+    },
+    "page": "236-242",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 411,
+    "title": [
+      "Reliability and Validity of a New Five‐level Triage Instrument"
+    ],
+    "prefix": "10.1111",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Richard C.",
+        "family": "Wuerz",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Leslie W.",
+        "family": "Milne",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David R.",
+        "family": "Eitel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Debbie",
+        "family": "Travers",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nicki",
+        "family": "Gilboy",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          6,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_2_2",
+        "volume-title": "National Hospital Ambulatory Medical Care Survey: 1997. Emergency Department Summary",
+        "author": "Nourjah P",
+        "year": "1999"
+      },
+      {
+        "key": "e_1_2_1_3_2",
+        "first-page": "146",
+        "article-title": "The emergency department problem: an overview",
+        "volume": "198",
+        "author": "Silver MH",
+        "year": "1966",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "e_1_2_1_4_2",
+        "volume-title": "Emergency Departments Unevenly Affected by Growth and Change in Patients' Use",
+        "author": "Nadel V",
+        "year": "1993"
+      },
+      {
+        "key": "e_1_2_1_5_2",
+        "volume-title": "National Hospital Ambulatory Medical Care Survey: 1992. Emergency Department Summary",
+        "author": "McCaig LF",
+        "year": "1994"
+      },
+      {
+        "key": "e_1_2_1_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199405193302007"
+      },
+      {
+        "key": "e_1_2_1_7_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1909",
+        "DOI": "10.1001/jama.1994.03510480033030",
+        "article-title": "Regular sources of ambulatory care and medical care utilization by patients presenting to a public hospital emergency department",
+        "volume": "271",
+        "author": "Baker DW",
+        "year": "1994",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "e_1_2_1_8_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1001/jama.1996.03540060036032",
+        "article-title": "Ambulatory visits to hospital emergency departments, patterns and reasons for use",
+        "volume": "276",
+        "author": "Young GP",
+        "year": "1996",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "e_1_2_1_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199603073341007"
+      },
+      {
+        "key": "e_1_2_1_10_2",
+        "volume-title": "Triage: Meeting the Challenge",
+        "year": "1997"
+      },
+      {
+        "key": "e_1_2_1_11_2",
+        "first-page": "507",
+        "article-title": "The Canadian Triage and Acuity Scale: a new and critical element in health care reform",
+        "volume": "16",
+        "author": "Beveridge R",
+        "year": "1998",
+        "journal-title": "J Emerg Med."
+      },
+      {
+        "key": "e_1_2_1_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.1998.tb02599.x"
+      },
+      {
+        "key": "e_1_2_1_13_2",
+        "volume-title": "Emergency Triage",
+        "author": "Macway‐Jones K",
+        "year": "1997"
+      },
+      {
+        "key": "e_1_2_1_14_2",
+        "volume-title": "Data Elements for Emergency Department Systems, Release 1.0",
+        "author": "National Center for Injury Prevention and Control",
+        "year": "1997"
+      },
+      {
+        "key": "e_1_2_1_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0736-4679(97)00120-0"
+      },
+      {
+        "key": "e_1_2_1_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(96)70108-7"
+      },
+      {
+        "key": "e_1_2_1_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(98)70171-4"
+      },
+      {
+        "key": "e_1_2_1_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.1996.tb03429.x"
+      },
+      {
+        "key": "e_1_2_1_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(95)70327-6"
+      },
+      {
+        "key": "e_1_2_1_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(94)70042-7"
+      },
+      {
+        "key": "e_1_2_1_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.1994.tb02434.x"
+      },
+      {
+        "key": "e_1_2_1_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(96)70240-8"
+      },
+      {
+        "key": "e_1_2_1_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1995.03520260039030"
+      },
+      {
+        "key": "e_1_2_1_24_2",
+        "volume-title": "Statistical Methods for Rates and Proportions",
+        "author": "Fleiss JL",
+        "year": "1981"
+      },
+      {
+        "key": "e_1_2_1_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(05)82976-2"
+      },
+      {
+        "key": "e_1_2_1_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.1996.tb03370.x"
+      },
+      {
+        "key": "e_1_2_1_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1991.03470080061030"
+      },
+      {
+        "key": "e_1_2_1_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0736-4679(97)00121-2"
+      },
+      {
+        "key": "e_1_2_1_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(99)70223-4"
+      },
+      {
+        "key": "e_1_2_1_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(99)70248-9"
+      },
+      {
+        "key": "e_1_2_1_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2026.1998.tb00484.x"
+      },
+      {
+        "key": "e_1_2_1_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2026.1996.tb00277.x"
+      },
+      {
+        "key": "e_1_2_1_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.1995.tb03128.x"
+      }
+    ],
+    "container-title": [
+      "Academic Emergency Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1553-2712.2000.tb01066.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2000.tb01066.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2023-10-29T13:20:39Z",
+      "timestamp": 1698585639000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1553-2712.2000.tb01066.x"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          3
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2000,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1553-2712.2000.tb01066.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1553-2712.2000.tb01066.x",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "1069-6563",
+      "1553-2712"
+    ],
+    "issn-type": [
+      {
+        "value": "1069-6563",
+        "type": "print"
+      },
+      {
+        "value": "1553-2712",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2000,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2008-06-28",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

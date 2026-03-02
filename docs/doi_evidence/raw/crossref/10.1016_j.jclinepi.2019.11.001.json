@@ -1,0 +1,721 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2026-02-03T17:09:44Z",
+      "timestamp": 1770138584895,
+      "version": "3.49.0"
+    },
+    "reference-count": 39,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2020-03-01T00:00:00Z",
+          "timestamp": 1583020800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2020-03-01T00:00:00Z",
+          "timestamp": 1583020800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              5
+            ]
+          ],
+          "date-time": "2019-11-05T00:00:00Z",
+          "timestamp": 1572912000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Netherlands Organisation for Scientific Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Research Foundation–Flanders",
+        "award": [
+          "G0B4716N"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "G0B4716N"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Internal Funds KU Leuven",
+        "award": [
+          "C24/15/037"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C24/15/037"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "jclinepi.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Clinical Epidemiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jclinepi.2019.11.001",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          11,
+          8
+        ]
+      ],
+      "date-time": "2019-11-08T20:37:19Z",
+      "timestamp": 1573245439000
+    },
+    "page": "7-18",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 43,
+    "special_numbering": "C",
+    "title": [
+      "Changing predictor measurement procedures affected the performance of prediction models in clinical examples"
+    ],
+    "prefix": "10.1016",
+    "volume": "119",
+    "author": [
+      {
+        "given": "Kim",
+        "family": "Luijken",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Laure",
+        "family": "Wynants",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Maarten",
+        "family": "van Smeden",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ben",
+        "family": "Van Calster",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ewout W.",
+        "family": "Steyerberg",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rolf H.H.",
+        "family": "Groenwold",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dirk",
+        "family": "Timmerman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tom",
+        "family": "Bourne",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chinedu",
+        "family": "Ukaegbu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib1",
+        "series-title": "Clinical prediction models: a practical approach to development, validation, and updating",
+        "author": "Steyerberg",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1002/(SICI)1097-0258(20000229)19:4<453::AID-SIM350>3.0.CO;2-5",
+        "article-title": "What do we mean by validating a prognostic model?",
+        "volume": "19",
+        "author": "Altman",
+        "year": "2000",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "423",
+        "DOI": "10.1111/1471-0528.14170",
+        "article-title": "Key steps and common pitfalls in developing and validating risk models",
+        "volume": "124",
+        "author": "Wynants",
+        "year": "2017",
+        "journal-title": "BJOG"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/s12916-014-0241-z",
+        "article-title": "Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): the TRIPOD statement",
+        "volume": "13",
+        "author": "Collins",
+        "year": "2015",
+        "journal-title": "BMC Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1016/j.jclinepi.2017.11.013",
+        "article-title": "Poor performance of clinical prediction models: the harm of commonly applied methods",
+        "volume": "98",
+        "author": "Steyerberg",
+        "year": "2018",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1085",
+        "DOI": "10.1016/j.jclinepi.2008.04.008",
+        "article-title": "Validation, updating and impact of clinical prediction rules: a review",
+        "volume": "61",
+        "author": "Toll",
+        "year": "2008",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "515",
+        "DOI": "10.7326/0003-4819-130-6-199903160-00016",
+        "article-title": "Assessing the generalizability of prognostic information",
+        "volume": "130",
+        "author": "Justice",
+        "year": "1999",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "3158",
+        "DOI": "10.1002/sim.5732",
+        "article-title": "A framework for developing, implementing, and evaluating clinical prediction models in an individual participant data meta-analysis",
+        "volume": "32",
+        "author": "Debray",
+        "year": "2013",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "971",
+        "DOI": "10.1093/aje/kwq223",
+        "article-title": "External validity of risk models: use of benchmark values to disentangle a case-mix effect from incorrect coefficients",
+        "volume": "172",
+        "author": "Vergouwe",
+        "year": "2010",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "2353",
+        "DOI": "10.1002/sim.6498",
+        "article-title": "The impact of covariate measurement error on risk prediction",
+        "volume": "34",
+        "author": "Khudyakov",
+        "year": "2015",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1186/1478-7954-10-20",
+        "article-title": "The influence of measurement error on calibration, discrimination, and overall estimation of a risk prediction model",
+        "volume": "10",
+        "author": "Rosella",
+        "year": "2012",
+        "journal-title": "Popul Health Metr"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "3444",
+        "DOI": "10.1002/sim.8183",
+        "article-title": "Impact of predictor measurement heterogeneity across settings on the performance of prediction models: a measurement error perspective",
+        "volume": "38",
+        "author": "Luijken",
+        "year": "2019",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1016/j.jclinepi.2018.09.001",
+        "article-title": "How variation in predictor measurement affects the discriminative ability and transportability of a prediction model",
+        "volume": "105",
+        "author": "Pajouheshnia",
+        "year": "2019",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "l2154",
+        "DOI": "10.1136/bmj.l2154",
+        "article-title": "When and how to use data from randomised trials to develop or validate prognostic models",
+        "volume": "365",
+        "author": "Pajouheshnia",
+        "year": "2019",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1093/humrep/det393",
+        "article-title": "Comparison of two models predicting IVF success; the effect of time trends on model performance",
+        "volume": "29",
+        "author": "Te Velde",
+        "year": "2013",
+        "journal-title": "Hum Reprod"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "672",
+        "DOI": "10.1136/gutjnl-2017-315730",
+        "article-title": "Comparison of prognostic models to predict the occurrence of colorectal cancer in asymptomatic individuals: a systematic literature review and external validation in the EPIC and UK Biobank prospective cohort studies",
+        "volume": "68",
+        "author": "Smith",
+        "year": "2019",
+        "journal-title": "Gut"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib18",
+        "series-title": "National center for health statistics",
+        "article-title": "National health and nutrition examination survey (NHANES): Anthropometry procedures manual",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "500",
+        "DOI": "10.1046/j.1469-0705.2000.00287.x",
+        "article-title": "Terms, definitions and measurements to describe the sonographic features of adnexal tumors: a consensus opinion from the International Ovarian Tumor Analysis (IOTA) Group",
+        "volume": "16",
+        "author": "Timmerman",
+        "year": "2000",
+        "journal-title": "Ultrasound Obstet Gynecol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "8794",
+        "DOI": "10.1200/JCO.2005.01.7632",
+        "article-title": "Logistic regression model to distinguish between the benign and malignant adnexal mass before surgery: a multicenter study by the International Ovarian Tumor Analysis Group",
+        "volume": "23",
+        "author": "Timmerman",
+        "year": "2005",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "684",
+        "DOI": "10.1158/1078-0432.CCR-08-0113",
+        "article-title": "Prospective internal validation of mathematical models to predict malignancy in adnexal masses: results from the international ovarian tumor analysis study",
+        "volume": "15",
+        "author": "Van Holsbeke",
+        "year": "2009",
+        "journal-title": "Clin Cancer Res"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1002/uog.7636",
+        "article-title": "Ovarian cancer prediction in adnexal masses using ultrasound-based logistic regression models: a temporal and external validation study by the IOTA group",
+        "volume": "36",
+        "author": "Timmerman",
+        "year": "2010",
+        "journal-title": "Ultrasound Obstet Gynecol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1583",
+        "DOI": "10.1097/IGC.0b013e3182a6171a",
+        "article-title": "A prospective validation of the IOTA logistic regression models (LR1 and LR2) in comparison to subjective pattern recognition for the diagnosis of ovarian cancer",
+        "volume": "23",
+        "author": "Nunes",
+        "year": "2013",
+        "journal-title": "Int J Gynecol Cancer"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1723",
+        "DOI": "10.1177/0962280216668555",
+        "article-title": "Does ignoring clustering in multicenter data influence the performance of prediction models? A simulation study",
+        "volume": "27",
+        "author": "Wynants",
+        "year": "2018",
+        "journal-title": "Stat Methods Med Res"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1469",
+        "DOI": "10.1001/jama.296.12.1469",
+        "article-title": "Prediction of MLH1 and MSH2 mutations in Lynch syndrome",
+        "volume": "296",
+        "author": "Balmaña",
+        "year": "2006",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "2751",
+        "DOI": "10.1056/NEJMoa053493",
+        "article-title": "Identification and survival of carriers of mutations in DNA mismatch-repair genes in colon cancer",
+        "volume": "354",
+        "author": "Barnetson",
+        "year": "2006",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "609",
+        "DOI": "10.1093/humrep/des440",
+        "article-title": "Rationalizing the management of pregnancies of unknown location: temporal and external validation of a risk prediction model on 1962 pregnancies",
+        "volume": "28",
+        "author": "Van Calster",
+        "year": "2013",
+        "journal-title": "Hum Reprod"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "774",
+        "DOI": "10.1016/S0895-4356(01)00341-9",
+        "article-title": "Internal validation of predictive models: efficiency of some procedures for logistic regression analysis",
+        "volume": "54",
+        "author": "Steyerberg",
+        "year": "2001",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1016/j.jclinepi.2015.12.005",
+        "article-title": "A calibration hierarchy for risk models was defined: from utopia to empirical data",
+        "volume": "74",
+        "author": "Van Calster",
+        "year": "2016",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib30",
+        "first-page": "191",
+        "article-title": "Ridge estimators in logistic regression",
+        "volume": "41",
+        "author": "Le Cessie",
+        "year": "1992",
+        "journal-title": "J R Stat Soc Ser C Appl Stat"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib31",
+        "series-title": "R: a language and environment for statistical computing",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib32",
+        "series-title": "rms: Regression Modeling Strategies. R package version 5.1-3.1",
+        "first-page": "5",
+        "author": "Harrell",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1373/clinchem.2007.096529",
+        "article-title": "Statistical evaluation of prognostic versus diagnostic models: beyond the ROC curve",
+        "volume": "54",
+        "author": "Cook",
+        "year": "2008",
+        "journal-title": "Clin Chem"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib34",
+        "series-title": "Measurement error in nonlinear models: a modern perspective",
+        "author": "Carroll",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1186/s12874-017-0345-1",
+        "article-title": "Impact of correlation of predictors on discrimination of risk models in development and external populations",
+        "volume": "17",
+        "author": "Kundu",
+        "year": "2017",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "W1",
+        "DOI": "10.7326/M14-0698",
+        "article-title": "Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): explanation and elaboration",
+        "volume": "162",
+        "author": "Moons",
+        "year": "2015",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1186/1471-2288-13-128",
+        "article-title": "Screening for data clustering in multicenter studies: the residual intraclass correlation",
+        "volume": "13",
+        "author": "Wynants",
+        "year": "2013",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.jclinepi.2018.05.008",
+        "article-title": "Measurement error and timing of predictor values for multivariable risk prediction models are poorly reported",
+        "volume": "102",
+        "author": "Whittle",
+        "year": "2018",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1037/1082-989X.1.1.30",
+        "article-title": "Forming inferences about some intraclass correlation coefficients",
+        "volume": "1",
+        "author": "McGraw",
+        "year": "1996",
+        "journal-title": "Psychol Methods"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2019.11.001_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1016/S0140-6736(86)90837-8",
+        "article-title": "Statistical methods for assessing agreement between two methods of clinical measurement",
+        "volume": "327",
+        "author": "Bland",
+        "year": "1986",
+        "journal-title": "Lancet"
+      }
+    ],
+    "container-title": [
+      "Journal of Clinical Epidemiology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0895435619307474?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0895435619307474?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2025-10-12T05:16:13Z",
+      "timestamp": 1760246173000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0895435619307474"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "references-count": 39,
+    "alternative-id": [
+      "S0895435619307474"
+    ],
+    "URL": "https://doi.org/10.1016/j.jclinepi.2019.11.001",
+    "relation": {},
+    "ISSN": [
+      "0895-4356"
+    ],
+    "issn-type": [
+      {
+        "value": "0895-4356",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Changing predictor measurement procedures affected the performance of prediction models in clinical examples",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Clinical Epidemiology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jclinepi.2019.11.001",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2019 The Authors. Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

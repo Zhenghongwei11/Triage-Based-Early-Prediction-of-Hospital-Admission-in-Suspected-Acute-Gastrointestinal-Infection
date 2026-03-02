@@ -1,0 +1,11 @@
+flowchart TB
+  subgraph DEV[Development cohort (MIMIC-IV-ED)]
+    A[MIMIC-IV-ED ED stays\n(n=425,087)] --> A2[Adults (age ≥18)\n(n=425,011)]
+    A2 --> B[Suspected acute GI infection by dx codes\n(n=19,913)]
+    B --> C[Adult suspected GI infection\n(n=19,913)]
+  end
+
+  subgraph EXT[External validation cohorts (NHAMCS ED)]
+    D[NHAMCS ED visits 2016–2022\n(n=123,040)] --> E[Adults (age ≥18)\n(n=96,539)]
+    E --> F[Suspected acute GI infection by dx codes\n(n=5,071)]
+  end
